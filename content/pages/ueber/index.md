@@ -1,13 +1,11 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
+## Hermann Flükiger
 
-info@lernblog.ch
-
-Beschreibung, wer ich bin...
+[hermann.f@bluemail.ch](mailto:hermann.f@bluemail.ch)
