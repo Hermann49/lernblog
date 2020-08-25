@@ -1,5 +1,5 @@
 +++
-title = "Mein erster Blog"
+title = "Mathetik"
 date = "2020-08-25"
 draft = false
 pinned = false
