@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Hermann Flükiger"
-image = ""
+image = "/media/hermann-klein.jpeg"
 email = "hermann.f@bluemail.ch"
 +++
