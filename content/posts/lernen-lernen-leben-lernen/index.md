@@ -21,9 +21,9 @@ LERNEN sich zu verhalten, zu agieren, sich zu integrieren, zu kommunizieren, sic
 
 LERNEN ist Entwicklung der Persönlichkeit 
 
-LERNEN heisst Mensch werden Immer wieder neu LERNEN, ständiges dazu 
+LERNEN heisst Mensch werden 
 
-LERNEN führt zu mehr Einsichten und Verstehen meiner Umwelt 
+Immer wieder neu LERNEN, ständiges dazu LERNEN führt zu mehr Einsichten und Verstehen meiner Umwelt 
 
 Wissen LERNEN, Können LERNEN, Leben LERNEN, LERNEN LERNEN 
 
@@ -31,19 +31,14 @@ LERNEN ist erfahrungsbezogen, LERNEN ist dialogisch, LERNEN ist sinnvoll, LERNEN
 
 **Wir brauchen Wurzeln und Flügel** 
 
-LERNEN muss sich lohnen, muss erfolgreich sein, LERNEN ist Gewinn 
+LERNEN muss sich lohnen, muss erfolgreich sein. LERNEN ist Gewinn. LERNEN macht mich wirksam, beim LERNEN erlebe ich mich selbstwirksam. LERNEN befähigt mich mein Leben zu bewältigen 
 
-LERNEN macht mich wirksam, beim LERNEN erlebe ich mich selbstwirksam 
-
-LERNEN befähigt mich mein Leben zu bewältigen 
-
-LERNEN heisst verändern 
-
-LERNEN wird sichtbar durch Verhaltensänderung 
+LERNEN heisst verändern. LERNEN wird sichtbar durch Verhaltensänderung 
 
 LERNEN fördert die soziale Kompetenz 
 
-**LERNEN heisst für mich: 
-Ich lerne mich besser kennen, 
-ich kann besser mit anderen umgehen, 
-ich habe mehr Verständnis für diese Welt**
+**LERNEN heisst für mich:** 
+
+* **Ich lerne mich besser kennen** 
+* **Ich kann besser mit anderen umgehen** 
+* **Ich habe mehr Verständnis für diese Welt**
