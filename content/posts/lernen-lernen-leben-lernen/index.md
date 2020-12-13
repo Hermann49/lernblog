@@ -21,7 +21,8 @@ LERNEN ist Entwicklung der Persönlichkeit
 
 LERNEN heisst Mensch werden 
 
-Immer wieder neu LERNEN, ständiges dazu LERNEN führt zu mehr Einsichten und Verstehen meiner Umwelt
+Immer wieder neu LERNEN, ständiges dazu LERNEN führt zu mehr Einsichten und Verstehen meiner Umwelt.
+
 Wissen LERNEN, Können LERNEN, Leben LERNEN, LERNEN LERNEN 
 
 LERNEN ist erfahrungsbezogen, LERNEN ist dialogisch, LERNEN ist sinnvoll, LERNEN ist ganzheitlich 
