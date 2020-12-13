@@ -14,17 +14,14 @@ footnotes = "Die Zitate am Anfang sind von Laozi und Marie von Ebner-Eschenbach"
 Wir leben in einer Lerngesellschaft
 
 LERNEN und sich bilden ist für unser Überleben von zentraler Bedeutung 
-
 LERNEN als Anpassung und Bewältigung in einer immer komplexeren Welt 
-
 LERNEN sich zu verhalten, zu agieren, sich zu integrieren, zu kommunizieren, sich zu qualifizieren, Einfluss zu nehmen 
 
 LERNEN ist Entwicklung der Persönlichkeit 
 
 LERNEN heisst Mensch werden 
 
-Immer wieder neu LERNEN, ständiges dazu LERNEN führt zu mehr Einsichten und Verstehen meiner Umwelt 
-
+Immer wieder neu LERNEN, ständiges dazu LERNEN führt zu mehr Einsichten und Verstehen meiner Umwelt
 Wissen LERNEN, Können LERNEN, Leben LERNEN, LERNEN LERNEN 
 
 LERNEN ist erfahrungsbezogen, LERNEN ist dialogisch, LERNEN ist sinnvoll, LERNEN ist ganzheitlich 
