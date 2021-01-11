@@ -1,8 +1,8 @@
 +++
 title = "Zahlen bitte (Teil 1)"
 date = "2021-01-11"
-draft = true
-pinned = true
+draft = false
+pinned = false
 image = "alle-zahlen.jpg"
 description = "Ich liebe Zahlenkombinationen. Ich kann Zahlen gut behalten. \nWichtige Dinge merke ich mir mit Zahlenfolgen. Sie sind kek: kurz-einfach-klar\n"
 +++
