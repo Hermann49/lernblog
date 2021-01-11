@@ -9,7 +9,7 @@ description = "Ich liebe Zahlenkombinationen. Ich kann Zahlen gut behalten. \nWi
 Ich liebe Zahlenkombinationen. Ich kann Zahlen gut behalten. Wichtige Dinge merke ich mir mit Zahlenfolgen. 
 Sie sind:
 
-![](kek.jpg)
+![](kek-gif.gif)
 
 Das geht so weit, dass ich mir spezielle Zahlenkombinationen zu Prinzipien erklärt habe. Sie helfen mir, vor allem in herausfordernden Situationen, angemessen und rasch zu reagieren, mich zurechtzufinden, gelassen und befreit handeln. Selbstverständlich sind die Zahlen nicht in Stein gemeisselt. Sie sind für mich Orientierungshilfen, Wegweiser und nützliche kleine Helfer im Alltag.
 
