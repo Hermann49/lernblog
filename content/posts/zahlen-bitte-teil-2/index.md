@@ -42,8 +42,12 @@ Albert Mehrabian hat herausgefunden, dass die Wirkung bei Präsentationen o.ä. 
 Das heisst für mich: Ich bin präsent im Hier und Jetzt. Ich wirke auch ohne Worte. Ich bin echt und authentisch. Ich stehe zu dem, was ich sage. Ich strahle aus. Ich berühre. Emotionen haben viel Platz. Ich zeige, was ich denke. Ich lebe, was ich empfinde. Ich bin Vorbild, bin interessiert, neugierig und wirke durch meine Haltung,
 
 Ich sorge auch für mich. Ich überprüfe mein Handeln, reflektiere mein Tun. Ich weiss, welche Ressourcen mich tragen, was mich glücklich macht. Ich vertraue meiner Intelligenz und kann meine Umwelt auch aus der Sicht der anderen sehen und verstehen.
+
 Ich habe Wahlmöglichkeiten in meinem Leben und kann meine Ressourcen, meine reflektierte Geschichte zur Bewältigung der Aufgaben nutzen. 
+
 Ich bin überzeugt, dass mein Tun sinnvoll und wichtig ist. Das wird durch meine Worte hörbar. Mein Auftreten, meine Emotionen, meine Stimme machen mich glaubwürdig überzeugend und für die anderen wird mein Tun nachvollziehbar.
 Meine Person wirkt.
+
 Eine Schlussbemerkung: Person wird abgeleitet vom lateinischen „personare“, was so viel heisst wie hindurchtönen, laut erschallen, laut verkünden.
+
 Und meine Schlussfolgerung: **Was in mir ist wirkt im/nach Aussen.**
