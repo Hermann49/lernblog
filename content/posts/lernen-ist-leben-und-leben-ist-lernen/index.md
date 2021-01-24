@@ -5,6 +5,7 @@ draft = true
 pinned = false
 image = "93219f0.jpg"
 description = "«Ich will mein Leben leben, selbst gestalten, mein Leben spüren, Grenzen ausloten. Ich will viel Positives sehen, erleben und weitergeben. Ich möchte in allen Lebenssituationen mit mir zufrieden sein.»\n\nJoão, 15 Jahre, Colearner im Colearning Bern\n"
+footnotes = "Bilder aus dem Internet"
 +++
 Ich bin Mentor von João, einem Colearner im Effinger und habe ein längeres Interview mit ihm zu seinem Lernverständnis geführt. Hier veröffentliche ich ein paar seiner eindrücklichen Aussagen, die auch meine Vision vom Lernen im Colearning Bern bestätigen.
 
@@ -14,15 +15,13 @@ Ich bin Mentor von João, einem Colearner im Effinger und habe ein längeres Int
 
 … Ich will mein Leben leben, selbst gestalten, mein Leben spüren, Grenzen ausloten. Ich will viel Positives sehen, erleben und weitergeben. Ich möchte in allen Lebenssituationen mit mir zufrieden sein. Ich schaue in einen Spiegel und sehe eine zufriedene Person. Und diese lebensfrohe Person kann Probleme besser lösen.
 
-![](alter-neuer-weg.jfif)
-
 … Ich möchte das Prinzip des Lebens begreifen. Ich will älter und weiser werden. Ich will nicht nur wissen, ich will begreifen, ich will Bewältigungsstrategien für ein gutes Leben erfahren und kennenlernen. Lernen ist für mich möglichst viele Erfahrungen sammeln und aus gescheiterten Situationen die für mich richtigen Konsequenzen ableiten und umsetzen. Der Prozess des Scheiterns ist für mich sehr wichtig: Immer wieder probieren, neue andere Wege gehen. Manchmal will ich auch mit dem Kopf durch die Wand.
 
 > Ich will nicht nur wissen, ich will begreifen
 
 … Lernen ist Erweiterung des Geistes. Lernen ist für mich das Bereitstellen und zur Verfügung haben von Strategien und guten Erfahrungen in meinem Kopf. Das ist nicht nur Wissen aus Büchern oder dem Internet, es sind auch die sozialen Erfahrungen, die eine wichtige Rollen spielen. Ich verfüge über Möglichkeiten und Strategien mein Leben gut zu bewältigen.
 
-… Neues Wissen eigne ich mir so an: Wenn ich wissen will, wie beispielsweise der Satz von Pythagoras funktioniert, dann schaffe ich mir innere Bilder, wie das aussieht. Ich will auch wissen, wer Pythagoras war, wo er gelebt hat. Ich versuche alle Details zu erfassen und verpacke sie dann in eine einfache, für mich verständliche Form. Wenn ich etwas mit eigenen Worten beschreiben kann, dann habe ich eine Sache begriffen, dann habe ich gelernt. In einem Blog beschreibe ich nachher den Sachverhalt und den gebe ich dann gerne anderen weiter. Ich teile meine Erkenntnisse gerne mit anderen.
+… Neues Wissen eigne ich mr so an: Wenn ich wissen will, wie beispielsweise der Satz von Pythagoras funktioniert, dann schaffe ich mir innere Bilder, wie das aussieht. Ich will auch wissen, wer Pythagoras war, wo er gelebt hat. Ich versuche alle Details zu erfassen und verpacke sie dann in eine einfache, für mich verständliche Form. Wenn ich etwas mit eigenen Worten beschreiben kann, dann habe ich eine Sache begriffen, dann habe ich gelernt. In einem Blog beschreibe ich nachher den Sachverhalt und den gebe ich dann gerne anderen weiter. Ich teile meine Erkenntnisse gerne mit anderen.
 
 > Lernen macht Spass, wenn ich meine eigenen Themen bearbeiten darf, wenn mich Themen interessieren.
 
@@ -44,9 +43,9 @@ Ich bin Mentor von João, einem Colearner im Effinger und habe ein längeres Int
 
 … Der Wettbewerb mit meinen Freunden stärkt meine Fähigkeit zu Lernen. Das gleiche gilt, wenn ich merke, dass ich dazulerne, wenn ich meinen Anteil für ein Kollektiv leisten kann. Bestärkt werde ich auch, wenn ich etwas präsentieren kann und die Zuwendung und Anerkennung der anderen finde. Jeder Mensch braucht nach meiner Meinung Wertschätzung und Bestätigung. Vorbilder finde ich in historischen Biografien. Mein Selbstvertrauen ist auch stark inspiriert von Felix PewDiePie, einem schwedischen Webvideo Produzenten und Betreiber des gleichnamigen YouTube-Kanals auf welchem er vor allem verschiedene Gaming Formate veröffentlicht. Seine Art und Weise etwas zu präsentieren fasziniert mich.
 
-… Neues lerne ich gerne mit mir allein, für mich heisst das Lernen mit mir. Beim Lernen bin ich mit mir verbunden. Lernen ist Beziehung. Das heisst, ich kann gut lernen, wenn ich mich akzeptiere, ein gutes Selbstbild habe. Vieles lernen wir unbewusst, es geschieht einfach. Der bewusste Teil des Lernens, das was ich auch erklären kann, das ist nach meiner Meinung der Kraftstoff für das Lernen. Das Sichtbarmachen, Verstehbarmachen und das Teilen meiner Lernerfahrungen finde ich heute viel wichtiger.
+> Lernen ist Beziehung. Das heisst, ich kann gut lernen, wenn ich mich akzeptiere, ein gutes Selbstbild habe. 
 
-![](herunterladen.jfif)
+… Neues lerne ich gerne mit mir allein, für mich heisst das Lernen mit mir. Beim Lernen bin ich mit mir verbunden. Lernen ist Beziehung. Das heisst, ich kann gut lernen, wenn ich mich akzeptiere, ein gutes Selbstbild habe. Vieles lernen wir unbewusst, es geschieht einfach. Der bewusste Teil des Lernens, das was ich auch erklären kann, das ist nach meiner Meinung der Kraftstoff für das Lernen. Das Sichtbarmachen, Verstehbarmachen und das Teilen meiner Lernerfahrungen finde ich heute viel wichtiger.
 
  … Ob diese Form des Lernens auch in der öffentlichen Schule möglich ist, kann ich im Moment zu wenig beurteilen. Ich bin überzeugt, wenn Lehrpersonen nur Lehrer sind, dann wird es schwierig. Ich denke, wenn eine Lehrperson es schafft, gute persönliche Beziehungen zu den Schülerinnen und Schülern aufzubauen, dann könnte es gelingen. Dann begegnen die Jugendlichen ihren Lehrpersonen auch mit dem nötigen Respekt und hören ihnen zu.
 
