@@ -1,7 +1,7 @@
 +++
 title = "Lernen ist Leben und Leben ist Lernen."
 date = "2021-01-24"
-draft = true
+draft = false
 pinned = false
 image = "93219f0.jpg"
 description = "«Ich will mein Leben leben, selbst gestalten, mein Leben spüren, Grenzen ausloten. Ich will viel Positives sehen, erleben und weitergeben. Ich möchte in allen Lebenssituationen mit mir zufrieden sein.»\n\nJoão, 15 Jahre, Colearner im Colearning Bern\n"
