@@ -21,7 +21,8 @@ Ich bin Mentor von João, einem Colearner im Effinger und habe ein längeres Int
 
 … Lernen ist Erweiterung des Geistes. Lernen ist für mich das Bereitstellen und zur Verfügung haben von Strategien und guten Erfahrungen in meinem Kopf. Das ist nicht nur Wissen aus Büchern oder dem Internet, es sind auch die sozialen Erfahrungen, die eine wichtige Rollen spielen. Ich verfüge über Möglichkeiten und Strategien mein Leben gut zu bewältigen.
 
-![](verstehen_lernen_fotolia_63574038_s-1.jpg)
+![](lernen.jfif)
+
 
 … Neues Wissen eigne ich mir so an: Wenn ich wissen will, wie beispielsweise der Satz von Pythagoras funktioniert, dann schaffe ich mir innere Bilder, wie das aussieht. Ich will auch wissen, wer Pythagoras war, wo er gelebt hat. Ich versuche alle Details zu erfassen und verpacke sie dann in eine einfache, für mich verständliche Form. Wenn ich etwas mit eigenen Worten beschreiben kann, dann habe ich eine Sache begriffen, dann habe ich gelernt. In einem Blog beschreibe ich nachher den Sachverhalt und den gebe ich dann gerne anderen weiter. Ich teile meine Erkenntnisse gerne mit anderen.
 
