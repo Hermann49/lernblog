@@ -3,6 +3,8 @@ title = "Lernen ist Leben und Leben ist Lernen."
 date = "2021-01-24"
 draft = true
 pinned = false
+image = "93219f0.jpg"
+description = "«Ich will mein Leben leben, selbst gestalten, mein Leben spüren, Grenzen ausloten. Ich will viel Positives sehen, erleben und weitergeben. Ich möchte in allen Lebenssituationen mit mir zufrieden sein.»\n\nJoão, 15 Jahre, Colearner im Colearning Bern\n"
 +++
 Ich bin Mentor von João, einem Colearner im Effinger und habe ein längeres Interview mit ihm zu seinem Lernverständnis geführt. Hier veröffentliche ich ein paar seiner eindrücklichen Aussagen, die auch meine Vision vom Lernen im Colearning Bern bestätigen.
 
@@ -11,6 +13,8 @@ Ich bin Mentor von João, einem Colearner im Effinger und habe ein längeres Int
 > Ich will es selbst tun, selbst denken, meinen Weg suchen und finden
 
 … Ich will mein Leben leben, selbst gestalten, mein Leben spüren, Grenzen ausloten. Ich will viel Positives sehen, erleben und weitergeben. Ich möchte in allen Lebenssituationen mit mir zufrieden sein. Ich schaue in einen Spiegel und sehe eine zufriedene Person. Und diese lebensfrohe Person kann Probleme besser lösen.
+
+![](alter-neuer-weg.jfif)
 
 … Ich möchte das Prinzip des Lebens begreifen. Ich will älter und weiser werden. Ich will nicht nur wissen, ich will begreifen, ich will Bewältigungsstrategien für ein gutes Leben erfahren und kennenlernen. Lernen ist für mich möglichst viele Erfahrungen sammeln und aus gescheiterten Situationen die für mich richtigen Konsequenzen ableiten und umsetzen. Der Prozess des Scheiterns ist für mich sehr wichtig: Immer wieder probieren, neue andere Wege gehen. Manchmal will ich auch mit dem Kopf durch die Wand.
 
