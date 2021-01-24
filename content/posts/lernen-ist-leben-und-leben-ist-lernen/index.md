@@ -21,7 +21,9 @@ Ich bin Mentor von João, einem Colearner im Effinger und habe ein längeres Int
 
 … Lernen ist Erweiterung des Geistes. Lernen ist für mich das Bereitstellen und zur Verfügung haben von Strategien und guten Erfahrungen in meinem Kopf. Das ist nicht nur Wissen aus Büchern oder dem Internet, es sind auch die sozialen Erfahrungen, die eine wichtige Rollen spielen. Ich verfüge über Möglichkeiten und Strategien mein Leben gut zu bewältigen.
 
-… Neues Wissen eigne ich mr so an: Wenn ich wissen will, wie beispielsweise der Satz von Pythagoras funktioniert, dann schaffe ich mir innere Bilder, wie das aussieht. Ich will auch wissen, wer Pythagoras war, wo er gelebt hat. Ich versuche alle Details zu erfassen und verpacke sie dann in eine einfache, für mich verständliche Form. Wenn ich etwas mit eigenen Worten beschreiben kann, dann habe ich eine Sache begriffen, dann habe ich gelernt. In einem Blog beschreibe ich nachher den Sachverhalt und den gebe ich dann gerne anderen weiter. Ich teile meine Erkenntnisse gerne mit anderen.
+![](verstehen_lernen_fotolia_63574038_s-1.jpg)
+
+… Neues Wissen eigne ich mir so an: Wenn ich wissen will, wie beispielsweise der Satz von Pythagoras funktioniert, dann schaffe ich mir innere Bilder, wie das aussieht. Ich will auch wissen, wer Pythagoras war, wo er gelebt hat. Ich versuche alle Details zu erfassen und verpacke sie dann in eine einfache, für mich verständliche Form. Wenn ich etwas mit eigenen Worten beschreiben kann, dann habe ich eine Sache begriffen, dann habe ich gelernt. In einem Blog beschreibe ich nachher den Sachverhalt und den gebe ich dann gerne anderen weiter. Ich teile meine Erkenntnisse gerne mit anderen.
 
 > Lernen macht Spass, wenn ich meine eigenen Themen bearbeiten darf, wenn mich Themen interessieren.
 
@@ -30,6 +32,8 @@ Ich bin Mentor von João, einem Colearner im Effinger und habe ein längeres Int
 > Das Colearning im Effinger motiviert mich, es ist ein guter Erfahrungsraum und ein guter Lernplatz.
 
 … Der Effinger hat meinem Lernen eine neue Struktur gegeben, ich habe auch eine neue Beziehung zu meinem Lernen gefunden. Der Lernort hat mir gefallen und ich konnte im ersten Jahr viel über mein Lernen lernen erfahren und ausprobieren. Ich habe gelernt mich selbst zu motivieren. Hier kann ich meine Lernselbstgespräche führen. Der Effinger ist mein Rückzugsort, anders als zuhause bin ich hier viel mehr im Kontakt mit anderen. Das Colearning im Effinger motiviert mich, es ist ein guter Erfahrungsraum und ein guter Lernplatz.
+
+![](alter-neuer-weg.jfif)
 
  … Ich kann mir vorstellen, dass ich in Zukunft dem Lernort auch wieder etwas zurückgeben kann: Als Host oder als Mentor für neue Colearner. Ich habe beim Erklären der Mathematik bei meinem jüngeren Bruder gemerkt, dass es sehr befriedigend ist, wenn ich anderen etwas zeigen oder erklären kann.
 
