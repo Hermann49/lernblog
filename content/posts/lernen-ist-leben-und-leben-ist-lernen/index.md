@@ -43,6 +43,8 @@ Ich bin Mentor von João, einem Colearner im Effinger und habe ein längeres Int
 
 … Mein Lernplan ist flexibel: Einige Themen vertiefe ich, andere verkürze ich und einiges lasse ich bewusst weg. Ich darf das auch so machen. Meine wichtigste Strategie bei einem Lernstau ist: 2 Schritte zurück, das Problem neu anschauen und wieder beginnen.
 
+![](to-good-idea-long-deliberation-49872768.jpg)
+
 … Mein idealer Lernraum ist ein Raum, in dem ich entspannt arbeiten kann. In einer angespannten und nervösen Umgebung kann ich nicht lernen. Ein idealer Lernraum war für mich beispielsweise auch Fabricool oder ist die Bibliothek der PH Bern. Ich schätze, wenn andere Leute um mich herum sind, denn Menschen sind soziale Wesen und fühlen sich wohler, wenn andere Personen in ihrer Nähe sind.
 
 … Der Wettbewerb mit meinen Freunden stärkt meine Fähigkeit zu Lernen. Das gleiche gilt, wenn ich merke, dass ich dazulerne, wenn ich meinen Anteil für ein Kollektiv leisten kann. Bestärkt werde ich auch, wenn ich etwas präsentieren kann und die Zuwendung und Anerkennung der anderen finde. Jeder Mensch braucht nach meiner Meinung Wertschätzung und Bestätigung. Vorbilder finde ich in historischen Biografien. Mein Selbstvertrauen ist auch stark inspiriert von Felix PewDiePie, einem schwedischen Webvideo Produzenten und Betreiber des gleichnamigen YouTube-Kanals auf welchem er vor allem verschiedene Gaming Formate veröffentlicht. Seine Art und Weise etwas zu präsentieren fasziniert mich.
@@ -50,6 +52,8 @@ Ich bin Mentor von João, einem Colearner im Effinger und habe ein längeres Int
 > Lernen ist Beziehung. Das heisst, ich kann gut lernen, wenn ich mich akzeptiere, ein gutes Selbstbild habe. 
 
 … Neues lerne ich gerne mit mir allein, für mich heisst das Lernen mit mir. Beim Lernen bin ich mit mir verbunden. Lernen ist Beziehung. Das heisst, ich kann gut lernen, wenn ich mich akzeptiere, ein gutes Selbstbild habe. Vieles lernen wir unbewusst, es geschieht einfach. Der bewusste Teil des Lernens, das was ich auch erklären kann, das ist nach meiner Meinung der Kraftstoff für das Lernen. Das Sichtbarmachen, Verstehbarmachen und das Teilen meiner Lernerfahrungen finde ich heute viel wichtiger.
+
+![](herunterladen.jfif)
 
  … Ob diese Form des Lernens auch in der öffentlichen Schule möglich ist, kann ich im Moment zu wenig beurteilen. Ich bin überzeugt, wenn Lehrpersonen nur Lehrer sind, dann wird es schwierig. Ich denke, wenn eine Lehrperson es schafft, gute persönliche Beziehungen zu den Schülerinnen und Schülern aufzubauen, dann könnte es gelingen. Dann begegnen die Jugendlichen ihren Lehrpersonen auch mit dem nötigen Respekt und hören ihnen zu.
 
