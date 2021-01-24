@@ -46,6 +46,8 @@ Ich bin Mentor von João, einem Colearner im Effinger und habe ein längeres Int
 
 … Neues lerne ich gerne mit mir allein, für mich heisst das Lernen mit mir. Beim Lernen bin ich mit mir verbunden. Lernen ist Beziehung. Das heisst, ich kann gut lernen, wenn ich mich akzeptiere, ein gutes Selbstbild habe. Vieles lernen wir unbewusst, es geschieht einfach. Der bewusste Teil des Lernens, das was ich auch erklären kann, das ist nach meiner Meinung der Kraftstoff für das Lernen. Das Sichtbarmachen, Verstehbarmachen und das Teilen meiner Lernerfahrungen finde ich heute viel wichtiger.
 
+![](herunterladen.jfif)
+
  … Ob diese Form des Lernens auch in der öffentlichen Schule möglich ist, kann ich im Moment zu wenig beurteilen. Ich bin überzeugt, wenn Lehrpersonen nur Lehrer sind, dann wird es schwierig. Ich denke, wenn eine Lehrperson es schafft, gute persönliche Beziehungen zu den Schülerinnen und Schülern aufzubauen, dann könnte es gelingen. Dann begegnen die Jugendlichen ihren Lehrpersonen auch mit dem nötigen Respekt und hören ihnen zu.
 
 … Wichtige Inputs zum Leben und Lernen hole ich mir in Gesprächen mit meinen Eltern. Wir diskutieren oft über Existenz und was ist was, was ist wichtig und was ist bedeutungsvoll. Wir philosophieren über wichtige Dinge des Lebens und im Speziellen auch über das Lernen. Und daraus habe ich mir einen wichtigen Leitsatz gemerkt: **Lernen ist Leben und Leben ist Lernen.**
