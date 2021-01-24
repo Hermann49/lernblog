@@ -4,7 +4,7 @@ date = "2021-01-24"
 draft = false
 pinned = false
 image = "93219f0.jpg"
-description = "«Ich will mein Leben leben, selbst gestalten, mein Leben spüren, Grenzen ausloten. Ich will viel Positives sehen, erleben und weitergeben. Ich möchte in allen Lebenssituationen mit mir zufrieden sein.»\n\nJoão, 15 Jahre, Colearner im Colearning Bern\n"
+description = "Ein Interview mit João, 15 Jahre, Colearner im Colearning Bern:\n\"Ich will mein Leben leben, selbst gestalten, mein Leben spüren, Grenzen ausloten. Ich will viel Positives sehen, erleben und weitergeben. Ich will mit mir zufrieden sein.\"\n"
 footnotes = "Bilder aus dem Internet"
 +++
 Ich bin Mentor von João, einem Colearner im Effinger und habe ein längeres Interview mit ihm zu seinem Lernverständnis geführt. Hier veröffentliche ich ein paar seiner eindrücklichen Aussagen, die auch meine Vision vom Lernen im Colearning Bern bestätigen.
