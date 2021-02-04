@@ -4,7 +4,7 @@ date = "2021-02-04"
 draft = false
 pinned = false
 image = "titel-blog-gesund.jpg"
-description = "Der Dienstag ist Effingertag: Ich bin als Host für die Community tätig, engagiere mich als Mentor und Gastgeber im Colearning, beschäftige mich im THES mit \"Bildung einfach anders\" und pflege den Kontakt mit ganz unterschiedlichen Menschen und Geschichten. Ich freue mich jede Woche auf diese Begegnungen und den Austausch.\n"
+description = "Der Dienstag ist Effingertag: Ich bin als Host für die Community tätig, engagiere mich als Mentor und Gastgeber im Colearning, beschäftige mich im THES mit Bildung-einfach-anders und pflege den Kontakt mit ganz unterschiedlichen Menschen und Geschichten. Ich freue mich jede Woche auf diese Begegnungen und den Austausch.\n"
 +++
 Vor kurzem habe ich von Markus Roos eine interessante Broschüre zum "Gesund bleiben" erhalten. Es waren 10 Schritte für die psychische Gesundheit, herausgegeben von der Gesundheitsförderung Schweiz. Mit Spannung habe ich den Wegweiser durchgelesen und spontan festgestellt: Der Coworking Space Effinger, die Effinger Community wird diesen Ansprüchen gerecht, er leistet einen wichtigen Beitrag zu meiner Gesundheit.
 
