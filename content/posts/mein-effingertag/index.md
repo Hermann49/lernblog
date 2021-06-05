@@ -3,7 +3,7 @@ title = "Ein EffingerDienstTag"
 date = "2021-06-05"
 draft = true
 pinned = false
-image = "screenshot-2021-06-05-164050.jpg"
+image = "meine-geschichten.jpg"
 description = "Der Dienstag ist mein Effingertag: Ich bin als Host für die Community tätig, engagiere mich als Mentor und Gastgeber im Colearning, beschäftige mich im THES mit Bildung-einfach-anders und pflege den Kontakt mit ganz unterschiedlichen Menschen und Geschichten. Ich freue mich jede Woche auf diese Begegnungen und den Austausch. Und hier ist die Geschichte vom 25. Mai."
 +++
 Früh aufstehen
