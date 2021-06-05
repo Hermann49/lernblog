@@ -1,8 +1,9 @@
 +++
-title = "Mein Effingertag"
-date = "2021-06-01"
+title = "Ein EffingerDienstTag"
+date = "2021-06-05"
 draft = true
 pinned = false
+image = "screenshot-2021-06-05-164050.jpg"
 +++
 Früh aufstehen
 
