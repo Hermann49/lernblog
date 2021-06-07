@@ -29,6 +29,8 @@ Heute hat Joni einen selbstgebackenen Geburtstagkuchen mitgebracht. Austauschen.
 
 Colearning Bern
 
+Mit Tom besprechen wir einen möglichen Lernweg seiner Tochter, die sich aufs Gymnasium vorbereiten will und keinen Weg in der öffentlichen Schule gefunden hat, der ihr erlaubt einen individuellen Lernweg zu gehen. Wir diskutieren die Möglichkeiten dies im Colearning zu machen. Wir können ihr eine unterstützende Begleitung anbieten. 
+
 
 
 
