@@ -55,11 +55,11 @@ Bild Essen
 
 Nicht ganz freiwillige Teilnahme am Stammtisch der Gruppe Gemeinsamständigkeit. 
 
-https://www.effinger.ch/blog/gemeinsamstaendigkeit/
-
-
-
 wertvoller Austausch, Einblicke in ganz unterschiedliche Arbeitsvorhaben und Projekte. Vernetzung und Bereicherung. AnTeilnahme und aktives Mitgestalten in Form des Ideenkorbes: jemand hat ein Anliegen, stellt etwas vor, die anderen geben Feedbacks bringen eigene Erfahrungen ein, bereichern die Fragestellenden. 
+
+<https://www.effinger.ch/blog/gemeinsamstaendigkeit/>
+
+
 
 Kaffee
 
@@ -78,8 +78,6 @@ Ich liebe diese Arbeiten. Etwas ausprobieren, Flicken, das macht Spass.
 \
 Nächste Desinfektionstour, Atmosphäre geniessen.\
 Etwas Zeit für mich. Notizen für den Blog ergänzen
-
-
 
 Bier um Vier bis Fünf. Austausch über Gott und die Welt und den Anteil des gesunden Menschenverstandes in diesen nicht ganz einfachen Zeiten. 
 
