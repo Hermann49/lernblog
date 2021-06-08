@@ -17,7 +17,7 @@ Einkaufen bei Glatz: 2 - 2 - 2 Köstlichkeiten, die 2 Tage alt sind werden für 
 Ich unterstütze Jonathan beim Hosten. Heute muss auch noch der Container an die Effingerstrasse gemusst werden. Warum sind die  Container so schwer zu manövrieren?
 
 Zeit, Texte von Fredi und Marco zu einem Video über Michael Hüter zu lesen. Denkt denn keiner an die Kinder?
-Maria Montessori, ihres Zeichens Reformpädagogin, Philosophin und Ärztin, würde sich wohl im Grabe umdrehen, könnte sie sehen, wie wir als Gesellschaft in dieser Krise mit unseren Kindern umgehen. Ebenso fassungslos ist Kindheitsforscher Michael Hüter. Er zieht ein sorgenvolles Resümee: "Ich hätte nicht gedacht, dass meine kühns-ten Befürchtungen wahr werden würden. Wir fügen den wenigen Kindern, die wir noch haben, grundlos historisch einmaliges Leid zu."   Im Interview mit mir spricht Hüter über den kollektiv anerzogenen Gehorsam, die Schule als Ort der Gewalt, den geheimen Lehrplan, ein nicht reformierbares Bildungssystem und eine kranke Gesellschaft, die gerade eine gesamte Generation misshandelt. Er erzählt mir jedoch auch von gelingenden Beziehungen, von Vertrauen, Liebe und Geborgenheit, und davon, wie eine glückliche Kindheit eigentlich aussehen sollte.  
+Maria Montessori, ihres Zeichens Reformpädagogin, Philosophin und Ärztin, würde sich wohl im Grabe umdrehen, könnte sie sehen, wie wir als Gesellschaft in dieser Krise mit unseren Kindern umgehen. Ebenso fassungslos ist Kindheitsforscher Michael Hüter. Er zieht ein sorgenvolles Resümee: "Ich hätte nicht gedacht, dass meine kühns-ten Befürchtungen wahr werden würden. Wir fügen den wenigen Kindern, die wir noch haben, grundlos historisch einmaliges Leid zu."   Im Interview spricht Hüter über den kollektiv anerzogenen Gehorsam, die Schule als Ort der Gewalt, den geheimen Lehrplan, ein nicht reformierbares Bildungssystem und eine kranke Gesellschaft, die gerade eine gesamte Generation misshandelt. Er erzählt jedoch auch von gelingenden Beziehungen, von Vertrauen, Liebe und Geborgenheit, und davon, wie eine glückliche Kindheit eigentlich aussehen sollte.  
 
 Bild THES
 
@@ -44,7 +44,7 @@ Desinfektionstour
 
 Hostaufgabe. Zeit für eine  Rundgang, Zeit zu sehen  was alles im Coworking läuft, dreht, filmt, spricht, schweigt, tauscht aus, sitzt, steht, telefoniert, nimmt an Konferenzen teil, trinkt Kaffee, die ganze Vielfalt im Coworking Effinger wird sichtbar.
 
-ich beginne mit meinem Blog zu meinem EffingerTag. Mir fällt das Aufschreiben leicht, die grosse Herausforderung ist nachher das Niederschreiben, das Veröffentlichen. \
+ich beginne mit meinem Blog zu meinem EffingerTag. Mir fällt das Aufschreiben/Notieren leicht, die grosse Herausforderung ist nachher das Niederschreiben, das Veröffentlichen. \
 Auch ein paar private Mails kann ich noch beantworten.
 
 Es ist Mittag. Ich löse Jonathan als Effinger-Tageshost ab, die Colearnenden verabschieden sich. Sie berichten kurz von ihren Lernerfahrungen.
@@ -55,16 +55,37 @@ Bild Essen
 
 Nicht ganz freiwillige Teilnahme am Stammtisch der Gruppe Gemeinsamständigkeit. 
 
+https://www.effinger.ch/blog/gemeinsamstaendigkeit/
 
 
 
+wertvoller Austausch, Einblicke in ganz unterschiedliche Arbeitsvorhaben und Projekte. Vernetzung und Bereicherung. AnTeilnahme und aktives Mitgestalten in Form des Ideenkorbes: jemand hat ein Anliegen, stellt etwas vor, die anderen geben Feedbacks bringen eigene Erfahrungen ein, bereichern die Fragestellenden. 
+
+Kaffee
+
+Anschliessend Diskussion zum Thema THES Wohin? Wozu? \
+Weiterspinnen und weiterdenken der Gedanken von Fredi.
+
+Bild
+
+wir sind unterwegs, wir bilden uns wir legen den Schwerpunkt auf unseren THESDienstTAG  Siehe Blatt von Fredi und Notizen Hermann 
+
+Idee von João Bibliothek: Mehrwert? Kurze Rückmeldung schreiben. Was hat mir das Buch gebracht?
+
+Stühle flicken. Markus hat neue Gleiter/Schoner organisiert. Wie können die alten entfernt werden? Wie werden die neuen montiert? Passen diese überhaupt?\
+Ich liebe diese Arbeiten. Etwas ausprobieren, Flicken, das macht Spass.
+
+\
+Nächste Desinfektionstour, Atmosphäre geniessen.\
+Etwas Zeit für mich. Notizen für den Blog ergänzen
 
 
 
+Bier um Vier bis Fünf. Austausch über Gott und die Welt und den Anteil des gesunden Menschenverstandes in diesen nicht ganz einfachen Zeiten. 
 
+. \
+checkout 
 
+Markus übernimmt das Schliessen, ergeht etwas später nach Hause. danke.
 
-
-
-
-<https://www.effinger.ch/blog/gemeinsamstaendigkeit/>
+gegen 19.15 Uhr bin ich wieder zu Hause.  Was für ein erfolgreicher Tag. Erhalt mich gefordert, inspiriert und erfüllt.
