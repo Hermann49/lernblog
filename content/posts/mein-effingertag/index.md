@@ -42,7 +42,20 @@ Mit Tom besprechen wir einen möglichen Lernweg seiner Tochter, die sich aufs Gy
 
 Desinfektionstour
 
-Hostaufgabe. Zeit für eine  Rundgang, Zeit zu sehen  was alles im Coworking läuft, dreht, filmt, spricht, 
+Hostaufgabe. Zeit für eine  Rundgang, Zeit zu sehen  was alles im Coworking läuft, dreht, filmt, spricht, schweigt, tauscht aus, sitzt, steht, telefoniert, nimmt an Konferenzen teil, trinkt Kaffee, die ganze Vielfalt im Coworking Effinger wird sichtbar.
+
+ich beginne mit meinem Blog zu meinem EffingerTag. Mir fällt das Aufschreiben leicht, die grosse Herausforderung ist nachher das Niederschreiben, das Veröffentlichen. \
+Auch ein paar private Mails kann ich noch beantworten.
+
+Es ist Mittag. Ich löse Jonathan als Effinger-Tageshost ab, die Colearnenden verabschieden sich. Sie berichten kurz von ihren Lernerfahrungen.
+
+Ein neues Mittagsangebot der Kaffeebar: Bärner Pie mit Fleisch und Salat. Schmeckt fein.
+
+Bild Essen
+
+Nicht ganz freiwillige Teilnahme am Stammtisch der Gruppe Gemeinsamständigkeit. 
+
+
 
 
 
