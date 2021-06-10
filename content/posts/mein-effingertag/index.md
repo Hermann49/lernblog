@@ -9,15 +9,16 @@ description = "Der Dienstag ist mein Effingertag: Ich bin als Host für die Comm
 Früh aufstehen
 
 im Zug nach Bern: letzte Slack-Nachrichten lesen, Plan für unseren THES-Dienst-Tag zusammenstellen, Themen zum Diskutieren, das muss ich heute unbedingt noch erledigen
-Einkaufen bei Glatz: 2 - 2 - 2 Köstlichkeiten, die 2 Tage alt sind werden für Fr. 2.- verkauft.
+Auf dem Weg an die Effingerstrasse mache ich einen kleinen Abstecher in die Bäckerei Glatz.
 
-![](2-2-2.jpg)
+![2 2 2 gibt nicht verkaufter Ware aus den Verkaufsstellen eine zweite Chance. Einwandfreie Backwaren mit einem Warenwert zwischen fünf und zehn Franken werden am zweiten Tag für zwei Franken verkauft.](2-2-2.jpg)
 
-07.45 Uhr im Effinger. Heute hat Jonathan das Hosting für den VorMittag übernommen. Der Stehtisch in der Lounge ist mein Lieblingsplatz. Hier hat man eine gute Übersicht über das Geschehen im Effinger. Hier spürst du die Stimmung. Hier kann die Willkommenskultur gelebt und gepflegt werden.
-Ich unterstütze Jonathan beim Hosten. Heute muss auch noch der Container an die Effingerstrasse gemusst werden. Warum sind die  Container so schwer zu manövrieren?
+Um 07.45 Uhr im Effinger. Heute hat Jonathan das Hosting für den Vormittag übernommen. Der Stehtisch in der Lounge ist mein Lieblingsplatz. Hier hat man eine gute Übersicht über das Geschehen im Effinger. Hier spürst du die Stimmung. Hier kann die Effinger-Willkommenskultur gelebt und gepflegt werden.
+Ich unterstütze Jonathan beim Hosten. Heute muss ich noch den Container an die Effingerstrasse verschieben. Warum sind diese Container so schwer zu manövrieren?
 
-Zeit, Texte von Fredi und Marco zu einem Video über Michael Hüter zu lesen. Denkt denn keiner an die Kinder?
-Maria Montessori, ihres Zeichens Reformpädagogin, Philosophin und Ärztin, würde sich wohl im Grabe umdrehen, könnte sie sehen, wie wir als Gesellschaft in dieser Krise mit unseren Kindern umgehen. Ebenso fassungslos ist Kindheitsforscher Michael Hüter. Er zieht ein sorgenvolles Resümee: "Ich hätte nicht gedacht, dass meine kühns-ten Befürchtungen wahr werden würden. Wir fügen den wenigen Kindern, die wir noch haben, grundlos historisch einmaliges Leid zu."   Im Interview spricht Hüter über den kollektiv anerzogenen Gehorsam, die Schule als Ort der Gewalt, den geheimen Lehrplan, ein nicht reformierbares Bildungssystem und eine kranke Gesellschaft, die gerade eine gesamte Generation misshandelt. Er erzählt jedoch auch von gelingenden Beziehungen, von Vertrauen, Liebe und Geborgenheit, und davon, wie eine glückliche Kindheit eigentlich aussehen sollte.  
+Es ist Zeit, Texte und Kommentare von Fredi und Marco zu einem Video über Michael Hüter zu lesen. Denkt denn keiner an die Kinder?
+Fassungslos ist Kindheitsforscher Michael Hüter, wie wir als Gesellschaft in dieser Krise mit unseren Kindern umgehen. Er zieht ein sorgenvolles Resümee: *Ich hätte nicht gedacht, dass meine kühnsten Befürchtungen wahr werden würden. Wir fügen den wenigen Kindern, die wir noch haben, grundlos historisch einmaliges Leid zu*. Im Interview spricht Hüter über den kollektiv anerzogenen Gehorsam, die Schule als Ort der Gewalt, den geheimen Lehrplan, ein nicht reformierbares Bildungssystem und eine kranke Gesellschaft, die gerade eine gesamte Generation misshandelt. Zu meinem Glück erzählt er am Schluss, nach meinem Empfinden nur kurz, auch von gelingenden Beziehungen, von Vertrauen, Liebe und Geborgenheit, und davon, wie eine glückliche Kindheit eigentlich aussehen sollte.\
+Hier der Link zum Interview auf Kaiser TV: <https://youtu.be/Bw4IHTvgHHY>
 
 Bild THES
 
@@ -56,8 +57,6 @@ Bild Essen
 Nicht ganz freiwillige Teilnahme am Stammtisch der Gruppe Gemeinsamständigkeit. 
 
 wertvoller Austausch, Einblicke in ganz unterschiedliche Arbeitsvorhaben und Projekte. Vernetzung und Bereicherung. AnTeilnahme und aktives Mitgestalten in Form des Ideenkorbes: jemand hat ein Anliegen, stellt etwas vor, die anderen geben Feedbacks bringen eigene Erfahrungen ein, bereichern die [r.ch/blog/gem](https://www.effinger.ch/blog/gemeinsamstaendigkeit/)
-
-
 
 Kaffee
 
