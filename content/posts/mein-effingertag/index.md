@@ -92,10 +92,12 @@ Nächste Desinfektionstour mit kurzen Gesprächen und wieder etwas Zeit für mic
 
 Bier um Vier bis Fünf. Geselliges Zusammensitzen und Austausch über Gott und die Welt und den Anteil des gesunden Menschenverstandes in diesen nicht ganz einfachen Zeiten. 
 
+![](bier-um-vier.jpg)
+
 **17.00 Uhr**
 
-Check-Out. Markus übernimmt das Schliessen, er geht etwas später nach Hause. Danke.
+**Check-Out:** Lichter löschen, Fenster und Türen schliessen, Beamer ausschalten, Hostingtisch aufräumen, Teeküche putzen, Geschirr zum Abwaschen bringen und dann wieder einräumen, Kehricht entsorgen, Anschriften entfernen, Tische und Stühle ordentlich hinstellen. Noch sind einige Coworker anwesend. Markus übernimmt den letzten Kontrollgang, er geht etwas später nach Hause. Danke.
 
 **19.15 Uhr** 
 
-bin ich wieder zu Hause.  Was für ein erfolgreicher Tag. Er hat mich gefordert, inspiriert und erfüllt. Ich freue ich auf nächste Treffen, auf das nächste Hosting im Effinger.
+Ich bin wieder zu Hause. Was für ein erfolgreicher Tag. Er hat mich gefordert, inspiriert und erfüllt. Ich durfte **MIT**arbeiten, **MIT**denken und **MIT**wirken. Ich freue ich auf die nächsten Treffen, auf das nächste Hosting im Effinger.
