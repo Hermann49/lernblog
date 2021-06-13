@@ -6,7 +6,7 @@ pinned = false
 image = "meine-geschichten.jpg"
 description = "Der Dienstag ist mein Effingertag: Ich bin als Host für die Community tätig, engagiere mich als Mentor und Gastgeber im Colearning, beschäftige mich im THES mit Bildung-einfach-anders und pflege den Kontakt mit ganz unterschiedlichen Menschen und Geschichten. Ich freue mich jede Woche auf diese Begegnungen und den Austausch. Und hier ist die Geschichte vom 25. Mai."
 +++
-**06.00 Uhr**
+**06.15 Uhr**
 Früh aufstehen, frühstücken, im Zug nach Bern letzte Slack-Nachrichten lesen, Plan für unseren THES-Dienst-Tag zusammenstellen, Themen zum Diskutieren notieren, überlegen, was heute unbedingt besprochen, erledigt und beschlossen werden soll. Auf dem Weg an die Effingerstrasse mache ich einen kleinen Abstecher in die Bäckerei Glatz.
 
 ![2 2 2 gibt nicht verkaufter Ware aus den Verkaufsstellen eine zweite Chance. Einwandfreie Backwaren mit einem Warenwert zwischen fünf und zehn Franken werden am zweiten Tag für zwei Franken verkauft.](folie1.jpg)
@@ -42,11 +42,13 @@ Joni hat einen selbstgebackenen Geburtstagkuchen mitgebracht. Austauschen. Pause
 
 ![](colearning.jpg)
 
-Colearning weiterentwickeln. Den Bedürfnissen der Lernenden Rechnung tragen. Eine Chance. Wir sind in Bewegung, in Fahrt, in Entwicklung. Mit einem Mitglied der Effinger-Community besprechen wir einen möglichen Lernweg seiner Tochter, die sich aufs Gymnasium vorbereiten will und keinen Weg in der öffentlichen Schule gefunden hat, der ihr erlaubt hätte einen individuelleren Lernweg zu gehen. Wir diskutieren die Möglichkeiten diesen Bildungsweg im Colearning zu machen. Wir können eine unterstützende Begleitung anbieten. Ich kann mir vorstellen, dass ich eine Rolle als Drehscheibe für dieses Projekt übernehmen kann: Übersicht haben, vernetzen, Lernende in Kontakt bringen, Mentor und/oder Coach sein … Colearning weiterentwickeln: Den Bedürfnissen der Lernenden Rechnung tragen. Chancen nutzen. Wir sind in Bewegung, in Fahrt ... wir bilden uns weiter.
+Mit einem Mitglied der Effinger-Community besprechen wir einen möglichen Lernweg seiner Tochter, die sich aufs Gymnasium vorbereiten will und keinen Weg in der öffentlichen Schule gefunden hat, der ihr erlaubt hätte einen individuelleren Lernweg zu gehen. Wir diskutieren die Möglichkeiten diesen Bildungsweg im Colearning zu machen. Wir können eine unterstützende Begleitung anbieten. Ich kann mir vorstellen, dass ich eine Rolle als Drehscheibe für dieses Projekt übernehmen kann: Übersicht haben, vernetzen, Unterstützung und Reflexion anbieten, Lernende in Kontakt bringen, Mentor und/oder Coach sein.
+
+> Chancen nutzen. Colearning weiterentwickeln. Den Bedürfnissen der Lernenden Rechnung tragen. Wir sind in Bewegung, in Fahrt, bilden uns weiter, kommen voran.
 
 **11.30 Uhr**
 
-Ich mache eine Desinfektionstour im Effinger. Es ist eine Hostaufgabe. Es ist auch Zeit für einen Rundgang, Zeit zu sehen  was alles im Coworking läuft, dreht, filmt, spricht, schweigt, austauscht, sitzt, steht, telefoniert, an Konferenzen teilnimmt, Kaffee trinkt, die ganze Vielfalt im Coworking Effinger wird sichtbar.
+Ich mache eine Desinfektionstour im Effinger. Es ist eine Hostaufgabe. Es ist auch Zeit für einen Rundgang, Zeit zu sehen, was alles im Coworking läuft, dreht, filmt, spricht, schweigt, austauscht, sitzt, steht, telefoniert, an Konferenzen teilnimmt, Kaffee trinkt ... die ganze Vielfalt im Coworking Effinger wird sichtbar.
 Ich beginne mit meinem Blog zu meinem EffingerTag. Mir fällt das Aufschreiben und Notieren leicht, die grosse Herausforderung wird nachher das Niederschreiben und das Veröffentlichen sein. Auch ein paar private Mails kann ich noch beantworten.
 
 **12.00 Uhr**
@@ -55,20 +57,24 @@ Es ist Mittag. Ich löse Jonathan als Effinger-Tageshost ab, die Colearnenden ve
 
 ![](gemeinsamstän-digkeit.jpg)
 
-Nicht ganz freiwillige Teilnahme am Stammtisch der Gruppe Gemeinsamständigkeit. 
-wertvoller Austausch, Einblicke in ganz unterschiedliche Arbeitsvorhaben und Projekte. Vernetzung und Bereicherung. AnTeilnahme und aktives Mitgestalten in Form des Ideenkorbes: jemand hat ein Anliegen, stellt etwas vor, die anderen geben Feedbacks bringen eigene Erfahrungen ein, bereichern die Gemeinschaft.
+Ich esse im Aquarium und nehme so auch am Stammtisch der Gruppe Gemeinsamständigkeit teil. Es ist ein
+wertvoller Austausch, der Einblicke in ganz unterschiedliche Arbeitsvorhaben und Projekte der Effinger Community gibt. Der Stammtisch ist Vernetzung, Bereicherung, Anteilnahme und aktives Mitgestalten in Form des Ideenkorbes: Jemand hat ein Anliegen, stellt etwas vor, die anderen geben Feedbacks, bringen eigene Erfahrungen ein, bereichern die Gemeinschaft und deren Projekt.
 <https://www.effinger.ch/blog/gemeinsamstaendigkeit/>
 
-**13.00 Uhr**
+**13.30 Uhr**
+
+Nach einer kurzen Kaffeepause treffe ich wieder mit Markus und Fredi. Wir bilden das Kernteam *THES im Effinger* und bilden eine DrehScheibe, eine TankStelle, eine MutMacherei und ein CoKreAktionsLabor für Bildungsanliegen.
+
+![](thes.jpg)
 
 
 
-Kaffee
+
+
+
 
 Anschliessend Diskussion zum Thema THES Wohin? Wozu? \
 Weiterspinnen und weiterdenken der Gedanken von Fredi.
-
-Bild
 
 wir sind unterwegs, wir bilden uns wir legen den Schwerpunkt auf unseren THESDienstTAG  Siehe Blatt von Fredi und Notizen Hermann 
 
