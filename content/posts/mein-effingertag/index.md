@@ -25,16 +25,18 @@ Hier der Link zum Interview auf Kaiser TV: <https://youtu.be/Bw4IHTvgHHY>
 
 **09.00 Uhr**
 Austauschen, sich bilden mit Markus und Fredi. Im Zentrum steht das Interview mit Michael Hüter. Seine Wutrede gegen das heutige Bildungssystem hat mich erschüttert. Meine Fragen an die THES-Gruppe: Wie gehe ich mit Wut und Ärger um? Was mache ich, wenn ich merke, dass meine Gedanken und Ideen von anderen Formen der Bildung, von neuen Erkenntnisse aus der Lernforschung nur von ganz wenigen geteilt werden? Wie komme ich zu konstruktivem Handeln, wenn so viel Widerstand spürbar wird? Wie komme ich mit meinen eigenen und den fremden Widersprüchen klar?
-Mögliche Antworten: 
+Mögliche Antworten?
 Lösungsorientiert arbeiten, heitere Gelassenheit gewinnen und mich an einen Satz eines ehemaligen Kollegen erinnern: *Weisst du, die Sklaverei wurde auch nicht in ein paar Jahren abgeschafft. Manchmal brauchen Entwicklungen Jahrzehnte, vielleicht Jahrhunderte, Sei du ein Teil dieser schrittweisen Veränderung und übe dich auch in Demut.* *Du kannst nicht alles.* 
 Da passt doch auch der Satz vom Spielpädagogen Hans Fluri bestens: *Sei locker und lass nicht locker.* 
 Unterstützende Begleiter sind das, was jedes Kind im Heranwachsen braucht. Das kann jeder sein im Umfeld des Kindes. Es sind immer die Menschen. Durch solche unterstützenden Begleiter hat der Mensch über Jahrtausende gelernt. So kann einem Kind Wissen und Erfahrung weitergegeben werden. Dahin müssen wir wieder kommen; dass die Menschen, die wirklich kompetent sind und etwas können, die sollten Kindern etwas weitergeben.
+
+> Sei locker und lass nicht locker. 
 
 **10.00 Uhr** 
 
 ![](folie2.jpg)
 
-Heute hat Joni einen selbstgebackenen Geburtstagkuchen mitgebracht. Austauschen. Pausen sind so wertvoll. Die Diskussionen drehen sich heute vor allem um unseren Kommunikationskanal Slack. Neben viel Wissenswertem zum Umgang mit den vielen Infos erfahre ich, dass ich mit dem Lesezeichen Nachrichten markieren kann, damit ich diese später wieder finde, vertiefter lesen und bearbeiten kann.
+Joni hat einen selbstgebackenen Geburtstagkuchen mitgebracht. Austauschen. Pausen sind so wertvoll. Die Diskussionen drehen sich heute vor allem um unseren Kommunikationskanal Slack. Neben viel Wissenswertem zum Umgang mit den vielen Infos erfahre ich, dass ich mit dem Lesezeichen Nachrichten markieren kann, damit ich diese später wieder finde, vertiefter lesen und bearbeiten kann.
 
 **10.30 Uhr**
 
