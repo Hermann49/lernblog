@@ -67,13 +67,9 @@ Nach einer kurzen Kaffeepause treffe ich wieder mit Markus und Fredi. Wir bilden
 
 ![](thes.jpg)
 
+Fredi hat zum Verfassen des Thes-Newsletters Fragen zusammengestellt. In der Diskussion machen wir uns dann grundsätzliche Gedanken zum Wozu? und Wohin? Und die Erkenntnisse? THES (**T**ausch**H**aus/**E**du **S**pace ist zu einem wichtigen Player im Effinger geworden. Mit dem Colearning begleiten wir unterstützend ein Projekt, das sich von anderen Bildungsangeboten abhebt, das neue, andere Wege geht. Aus den monatlichen **THESa**ktiv sind viele andere Bildungsprojekte angestossen und angereichert werden.
 
-
-
-
-
-
-Anschliessend Diskussion zum Thema THES Wohin? Wozu? \
+\
 Weiterspinnen und weiterdenken der Gedanken von Fredi.
 
 wir sind unterwegs, wir bilden uns wir legen den Schwerpunkt auf unseren THESDienstTAG  Siehe Blatt von Fredi und Notizen Hermann 
