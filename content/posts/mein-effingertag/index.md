@@ -40,20 +40,18 @@ Joni hat einen selbstgebackenen Geburtstagkuchen mitgebracht. Austauschen. Pause
 
 **10.30 Uhr**
 
-Colearning Bern
+![](colearning.jpg)
 
-Mit Tom besprechen wir einen möglichen Lernweg seiner Tochter, die sich aufs Gymnasium vorbereiten will und keinen Weg in der öffentlichen Schule gefunden hat, der ihr erlaubt einen individuellen Lernweg zu gehen. Wir diskutieren die Möglichkeiten dies im Colearning zu machen. Wir können ihr eine unterstützende Begleitung anbieten. Ich kann mir vorstellen, dass ich eine Rolle als Drehscheibe für dieses Projekt übernehmen kann: Übersicht haben, vernetzen, Lernende in Kontakt bringen, Mentor und/oder Coach sein … Colearning weiterentwickeln. Den Bedürfnissen der Lernenden Rechnung tragen. Eine Chance. Wir sind in Bewegung, in Fahrt, in Entwicklung. 
+Colearning weiterentwickeln. Den Bedürfnissen der Lernenden Rechnung tragen. Eine Chance. Wir sind in Bewegung, in Fahrt, in Entwicklung. Mit einem Mitglied der Effinger-Community besprechen wir einen möglichen Lernweg seiner Tochter, die sich aufs Gymnasium vorbereiten will und keinen Weg in der öffentlichen Schule gefunden hat, der ihr erlaubt hätte einen individuelleren Lernweg zu gehen. Wir diskutieren die Möglichkeiten diesen Bildungsweg im Colearning zu machen. Wir können eine unterstützende Begleitung anbieten. Ich kann mir vorstellen, dass ich eine Rolle als Drehscheibe für dieses Projekt übernehmen kann: Übersicht haben, vernetzen, Lernende in Kontakt bringen, Mentor und/oder Coach sein … Colearning weiterentwickeln: Den Bedürfnissen der Lernenden Rechnung tragen. Chancen nutzen. Wir sind in Bewegung, in Fahrt ... wir bilden uns weiter.
 
-Desinfektionstour
+**11.30 Uhr**
 
-Hostaufgabe. Zeit für eine  Rundgang, Zeit zu sehen  was alles im Coworking läuft, dreht, filmt, spricht, schweigt, tauscht aus, sitzt, steht, telefoniert, nimmt an Konferenzen teil, trinkt Kaffee, die ganze Vielfalt im Coworking Effinger wird sichtbar.
+Ich mache eine Desinfektionstour im Effinger. Es ist eine Hostaufgabe. Es ist auch Zeit für einen Rundgang, Zeit zu sehen  was alles im Coworking läuft, dreht, filmt, spricht, schweigt, austauscht, sitzt, steht, telefoniert, an Konferenzen teilnimmt, Kaffee trinkt, die ganze Vielfalt im Coworking Effinger wird sichtbar.
+Ich beginne mit meinem Blog zu meinem EffingerTag. Mir fällt das Aufschreiben und Notieren leicht, die grosse Herausforderung wird nachher das Niederschreiben und das Veröffentlichen sein. Auch ein paar private Mails kann ich noch beantworten.
 
-ich beginne mit meinem Blog zu meinem EffingerTag. Mir fällt das Aufschreiben/Notieren leicht, die grosse Herausforderung ist nachher das Niederschreiben, das Veröffentlichen. \
-Auch ein paar private Mails kann ich noch beantworten.
+**12.00 Uhr**
 
-Es ist Mittag. Ich löse Jonathan als Effinger-Tageshost ab, die Colearnenden verabschieden sich. Sie berichten kurz von ihren Lernerfahrungen.
-
-Ein neues Mittagsangebot der Kaffeebar: Bärner Pie mit Fleisch und Salat. Schmeckt fein.
+Es ist Mittag. Ich löse Jonathan als Effinger-Tageshost ab, die Colearnenden verabschieden sich. Sie berichten kurz von ihren Lernerfahrungen. Ab heute gibt es ein neues Mittagsangebot der Kaffeebar: Bärner Pie mit Fleisch und Salat. Schmeckt fein.
 
 Bild Essen
 
