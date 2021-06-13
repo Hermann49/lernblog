@@ -72,15 +72,17 @@ Unser nächster **THESDienstTAG** ist der 15. Juni.
 
 **15.00 Uhr**
 
+![](bibliothek.jpg)
+
 Ich stelle Fredi heute noch das Projekt von João vor. Dieser plant im Effinger eine neue Form von Bibliothek. Wer will, darf seine privaten, empfehlungswerten Bücher anderen zur Verfügung stellen. João sammelt die Titel, macht diese auf einer Webseite sichtbar und organisiert den Austausch. Wer ein Buch ausgeliehen hat, der schreibt eine kurze Rückmeldung, was ihm das Buch gebracht hat.
 
+**15.30 Uhr**
 
+Stühle flicken. Markus hat neue Gleiter/Schoner organisiert. Wie können die alten entfernt werden? Wie werden die neuen montiert? Passen diese überhaupt? Ich liebe diese Arbeiten. Etwas ausprobieren, Flicken, das macht Spass. Und die neuen Gleiter passen. Aufgabe gelöst.
 
-Stühle flicken. Markus hat neue Gleiter/Schoner organisiert. Wie können die alten entfernt werden? Wie werden die neuen montiert? Passen diese überhaupt?\
-Ich liebe diese Arbeiten. Etwas ausprobieren, Flicken, das macht Spass.
+**15.45 Uhr**
 
-\
-Nächste Desinfektionstour, Atmosphäre geniessen.\
+Nächste Desinfektionstour mit kurzen Gesprächen
 Etwas Zeit für mich. Notizen für den Blog ergänzen
 
 Bier um Vier bis Fünf. Austausch über Gott und die Welt und den Anteil des gesunden Menschenverstandes in diesen nicht ganz einfachen Zeiten. 
