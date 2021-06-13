@@ -1,13 +1,13 @@
 +++
 title = "Ein EffingerDienstTag"
 date = "2021-06-13"
-draft = true
+draft = false
 pinned = false
 image = "meine-geschichten.jpg"
 description = "Der Dienstag ist mein Effingertag: Ich bin als Host für die Community tätig, engagiere mich als Mentor und Gastgeber im Colearning, beschäftige mich im THES mit Bildung-einfach-anders und pflege den Kontakt mit ganz unterschiedlichen Menschen und Geschichten. Ich freue mich jede Woche auf diese Begegnungen und den Austausch. Hier ist die Geschichte vom 25. Mai."
 +++
 **06.15 Uhr**
-Früh aufstehen, frühstücken, im Zug nach Bern letzte Slack-Nachrichten lesen, Plan für unseren THES-Dienst-Tag zusammenstellen, Themen zum Diskutieren notieren, überlegen, was heute unbedingt besprochen, erledigt und beschlossen werden soll. Auf dem Weg an die Effingerstrasse mache ich einen kleinen Abstecher in die Bäckerei Glatz.
+Früh aufstehen, frühstücken, im Zug nach Bern letzte Slack-Nachrichten lesen, Plan für unseren THES-Dienst-Tag zusammenstellen, Themen zum Diskutieren notieren und überlegen, was heute unbedingt besprochen, erledigt und beschlossen werden soll. Auf dem Weg an die Effingerstrasse mache ich einen kleinen Abstecher in die Bäckerei Glatz.
 
 ![2 2 2 gibt nicht verkaufter Ware aus den Verkaufsstellen eine zweite Chance. Einwandfreie Backwaren mit einem Warenwert zwischen fünf und zehn Franken werden am zweiten Tag für zwei Franken verkauft.](folie1.jpg)
 
