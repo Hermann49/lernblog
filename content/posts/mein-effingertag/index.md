@@ -35,13 +35,11 @@ Und Michael Hüter meint zum Schluss des Gesprächs: *Unterstützende Begleiter 
 Vor der Pause muss noch der Container zurückgebracht, die Post geholt und verteilt werden.
 
 **10.00 Uhr** 
-
 ![](folie2.jpg)
 
 Joni hat für die Pause einen selbstgebackenen Geburtstagkuchen mitgebracht. Geniessen und Austauschen. Pausen sind so wertvoll. Die Diskussionen drehen sich heute vor allem um unseren Kommunikationskanal Slack. Neben viel Wissenswertem zum Umgang mit den vielen Infos erfahre ich, dass ich mit dem Lesezeichen Nachrichten markieren kann, damit ich diese später wieder finde, vertiefter lesen und bearbeiten kann.
 
 **10.30 Uhr**
-
 ![](colearning.jpg)
 
 Mit einem Mitglied der Effinger-Community bespreche ich mit Fredi und Markus einen möglichen Lernweg seiner Tochter, die sich aufs Gymnasium vorbereiten will und keinen Weg in der öffentlichen Schule gefunden hat, der ihr erlaubt hätte einen individuelleren Lernweg zu gehen. Wir diskutieren die Möglichkeiten diesen Bildungsweg im Colearning zu machen. Wir können eine unterstützende Begleitung anbieten. Ich kann mir vorstellen, dass ich eine Rolle als Drehscheibe für dieses Projekt übernehmen kann: Übersicht haben, vernetzen, Unterstützung und Reflexion anbieten, Lernende in Kontakt bringen, Mentor und/oder Coach sein.
@@ -49,12 +47,10 @@ Mit einem Mitglied der Effinger-Community bespreche ich mit Fredi und Markus ein
 > Chancen nutzen. Colearning weiterentwickeln. Den Bedürfnissen der Lernenden Rechnung tragen. Wir sind in Bewegung, in Fahrt, bilden uns weiter, kommen voran.
 
 **11.30 Uhr**
-
 Ich mache eine Desinfektionstour im Effinger. Es ist eine Hostaufgabe. Es ist auch Zeit für einen Rundgang, Zeit zu sehen, was alles im Coworking läuft, dreht, filmt, spricht, schweigt, austauscht, sitzt, steht, telefoniert, an Konferenzen teilnimmt, Kaffee trinkt ... die ganze Vielfalt im Coworking Effinger wird sichtbar.
 Ich beginne mit meinem Blog zu meinem EffingerTag. Mir fällt das Aufschreiben und Notieren leicht, die grosse Herausforderung wird nachher das Niederschreiben und das Veröffentlichen sein. Auch ein paar private Mails kann ich noch beantworten.
 
 **12.00 Uhr**
-
 Es ist Mittag. Ich löse Jonathan als Effinger-Tageshost ab, die Colearnenden verabschieden sich. Sie berichten kurz von ihren Lernerfahrungen. Ab heute gibt es ein neues Mittagsangebot der Kaffeebar: Bärner Pie mit Fleisch und Salat. Schmeckt fein.
 
 ![](gemeinsamstän-digkeit.jpg)
@@ -63,7 +59,6 @@ Ich esse im Aquarium und nehme so auch spontan am Stammtisch der Gruppe Gemeinsa
 <https://www.effinger.ch/blog/gemeinsamstaendigkeit/>
 
 **13.30 Uhr**
-
 Nach einer kurzen Kaffeepause treffe ich mich wieder mit Markus und Fredi. Wir sind das Kernteam *THES im Effinger* und bilden eine DrehScheibe, eine TankStelle, eine MutMacherei und ein CoKreAktionsLabor für Bildungsanliegen.
 
 ![](thes.jpg)
@@ -76,29 +71,23 @@ Unser nächster **THESDienstTAG** ist der 15. Juni.
 > Bildung ist die Fähigkeit, sich in der Welt zurechtzufinden und sich selbst zu helfen.
 
 **15.00 Uhr**
-
 ![](bibliothek.jpg)
 
 Ich stelle Fredi heute noch das Projekt von João vor. Dieser plant im Effinger eine neue Form von Bibliothek. Wer will, darf seine privaten, empfehlungswerten Bücher anderen zur Verfügung stellen. João sammelt die Titel, macht diese auf einer Webseite sichtbar und organisiert den Austausch. Wer ein Buch ausgeliehen hat, der schreibt eine kurze Rückmeldung, was ihm das Buch gebracht hat.
 
 **15.30 Uhr**
-
 Stühle flicken. Markus hat neue Gleiter/Schoner organisiert. Wie können die alten entfernt werden? Wie werden die neuen montiert? Passen diese überhaupt? Ich liebe diese Arbeiten. Etwas ausprobieren, flicken, das macht Spass. Und die neuen Gleiter passen. Aufgabe gelöst.
 
 **15.45 Uhr**
-
 Nächste Desinfektionstour mit kurzen Gesprächen und wieder etwas Zeit für mich, Notizen für den Blog ergänzen
 
 **16.00 Uhr**
-
 Bier um Vier bis Fünf. Geselliges Zusammensitzen und Austausch über Gott und die Welt und den Anteil des gesunden Menschenverstandes in diesen nicht ganz einfachen Zeiten. 
 
 ![](bier-um-vier.jpg)
 
 **17.00 Uhr**
-
 **Check-Out:** Lichter löschen, Fenster und Türen schliessen, Beamer ausschalten, Hostingtisch aufräumen, Teeküche putzen, Geschirr zum Abwaschen bringen und dann wieder einräumen, Kehricht entsorgen, Anschriften entfernen, Tische und Stühle ordentlich hinstellen. Noch sind einige Coworker anwesend. Markus übernimmt den letzten Kontrollgang, er geht etwas später nach Hause. Danke.
 
 **19.15 Uhr** 
-
 Ich bin wieder zu Hause. Was für ein erfolgreicher Tag. Er hat mich gefordert, inspiriert und erfüllt. Ich durfte **MIT**arbeiten, **MIT**denken und **MIT**wirken. Ich freue ich auf die nächsten Treffen, auf das nächste Hosting im Effinger.
