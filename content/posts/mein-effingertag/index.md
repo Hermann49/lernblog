@@ -67,12 +67,14 @@ Nach einer kurzen Kaffeepause treffe ich wieder mit Markus und Fredi. Wir bilden
 
 ![](thes.jpg)
 
-Fredi hat zum Verfassen des Thes-Newsletters Fragen zusammengestellt. In der Diskussion machen wir uns dann grundsätzliche Gedanken zum Wozu? und Wohin? Und die Erkenntnisse? THES (**T**ausch**H**aus/**E**du **S**pace ist zu einem wichtigen Player im Effinger geworden. Mit dem Colearning begleiten wir unterstützend ein Projekt, das sich von anderen Bildungsangeboten abhebt, das neue, andere Wege geht. Aus den monatlichen **THES**aktiv-Treffen sind viele andere Bildungsprojekte angestossen und angereichert werden. Markus schafft mit seinem aktiven Mitwirken im Bildungsforum ein nationales Netzwerk für Bildungstransformation. In unzähligen DienstTag-Treffen haben wir uns mit Bildungsinteressierten getroffen und ausgetauscht, haben Bildungsvorhaben inspiriert und Menschen Mut gemacht ihre Projekte umzusetzen. Wir sind unterwegs und wir bilden uns und machen den Effinger zu einem Lernort. Wir sind das Auge im Bildungstornado.
+Fredi hat zum Verfassen des Thes-Newsletters Fragen zusammengestellt. In der Diskussion machen wir uns dann grundsätzliche Gedanken zum Wozu? und Wohin? Und die Erkenntnisse? THES (**T**ausch**H**aus/**E**du **S**pace ist zu einem wichtigen Player im Effinger geworden. Mit dem Colearning begleiten wir unterstützend ein Projekt, das sich von anderen Bildungsangeboten abhebt, das neue, andere Wege geht. Aus den monatlichen **THES**aktiv-Treffen sind viele andere Bildungsprojekte angestossen und angereichert werden. Markus schafft mit seinem aktiven Mitwirken im Bildungsforum ein nationales Netzwerk für Bildungstransformation. In unzähligen DienstTag-Treffen haben wir uns mit Bildungsinteressierten getroffen und ausgetauscht, haben Bildungsvorhaben inspiriert und Menschen Mut gemacht ihre Projekte umzusetzen. Wir sind unterwegs und wir bilden uns und machen den Effinger zu einem Lernort. Wir sind das *Auge* im Bildungstornado.
 Unser nächster **THESDienstTAG** ist der 15. Juni.
 
+**15.00 Uhr**
+
+Ich stelle Fredi heute noch das Projekt von João vor. Dieser plant im Effinger eine neue Form von Bibliothek. Wer will, darf seine privaten, empfehlungswerten Bücher anderen zur Verfügung stellen. João sammelt die Titel, macht diese auf einer Webseite sichtbar und organisiert den Austausch. Wer ein Buch ausgeliehen hat, der schreibt eine kurze Rückmeldung, was ihm das Buch gebracht hat.
 
 
-Idee von João Bibliothek: Mehrwert? Kurze Rückmeldung schreiben. Was hat mir das Buch gebracht?
 
 Stühle flicken. Markus hat neue Gleiter/Schoner organisiert. Wie können die alten entfernt werden? Wie werden die neuen montiert? Passen diese überhaupt?\
 Ich liebe diese Arbeiten. Etwas ausprobieren, Flicken, das macht Spass.
