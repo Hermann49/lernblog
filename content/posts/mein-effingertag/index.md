@@ -11,7 +11,7 @@ Früh aufstehen
 im Zug nach Bern: letzte Slack-Nachrichten lesen, Plan für unseren THES-Dienst-Tag zusammenstellen, Themen zum Diskutieren, das muss ich heute unbedingt noch erledigen
 Auf dem Weg an die Effingerstrasse mache ich einen kleinen Abstecher in die Bäckerei Glatz.
 
-![2 2 2 gibt nicht verkaufter Ware aus den Verkaufsstellen eine zweite Chance. Einwandfreie Backwaren mit einem Warenwert zwischen fünf und zehn Franken werden am zweiten Tag für zwei Franken verkauft.](2-2-2.jpg)
+![2 2 2 gibt nicht verkaufter Ware aus den Verkaufsstellen eine zweite Chance. Einwandfreie Backwaren mit einem Warenwert zwischen fünf und zehn Franken werden am zweiten Tag für zwei Franken verkauft.](folie1.jpg)
 
 Um 07.45 Uhr im Effinger. Heute hat Jonathan das Hosting für den Vormittag übernommen. Der Stehtisch in der Lounge ist mein Lieblingsplatz. Hier hat man eine gute Übersicht über das Geschehen im Effinger. Hier spürst du die Stimmung. Hier kann die Effinger-Willkommenskultur gelebt und gepflegt werden.
 Ich unterstütze Jonathan beim Hosten. Heute muss ich noch den Container an die Effingerstrasse verschieben. Warum sind diese Container so schwer zu manövrieren?
@@ -20,7 +20,7 @@ Ich unterstütze Jonathan beim Hosten. Heute muss ich noch den Container an die 
 Er ist fassungslos, wie wir als Gesellschaft in dieser Krise mit unseren Kindern umgehen. Er zieht ein sorgenvolles Resümee: *Ich hätte nicht gedacht, dass meine kühnsten Befürchtungen wahr werden würden. Wir fügen den wenigen Kindern, die wir noch haben, grundlos historisch einmaliges Leid zu*. Im Interview spricht Hüter über den kollektiv anerzogenen Gehorsam, die Schule als Ort der Gewalt, den geheimen Lehrplan, ein nicht reformierbares Bildungssystem und eine kranke Gesellschaft, die gerade eine gesamte Generation misshandelt. Zu meinem Glück erzählt er am Schluss, nach meinem Empfinden nur kurz, auch von gelingenden Beziehungen, von Vertrauen, Liebe und Geborgenheit, und davon, wie eine glückliche Kindheit eigentlich aussehen sollte.\
 Hier der Link zum Interview auf Kaiser TV: <https://youtu.be/Bw4IHTvgHHY>
 
-![](thes_gelbgru-cc-88n-1-.png)
+![](folie4.jpg)
 
 **Austauschen, sich bilden mit Markus und Fredi.** 
 Im Zentrum steht das Interview mit Michael Hüter. Seine Wutrede gegen das heutige Bildungssystem hat mich erschüttert. Meine Fragen an die THES-Gruppe: Wie gehe ich mit Wut und Ärger um? Was mache ich, wenn ich merke, dass meine Gedanken und Ideen von anderen Formen der Bildung, von neuen Erkenntnisse aus der Lernforschung nur von ganz wenigen geteilt werden? Wie komme ich zu konstruktivem Handeln, wenn so viel Widerstand spürbar wird? Wie komme ich mit meinen eigenen und den fremden Widersprüchen klar?
@@ -31,7 +31,7 @@ Unterstützende Begleiter sind das, was jedes Kind im Heranwachsen braucht. Das 
 
 10.00 Uhr Pause
 
-![](download_kaffeepause_tageshost_11.2019.jpg)
+![](folie2.jpg)
 
 Heute hat Joni einen selbstgebackenen Geburtstagkuchen mitgebracht. Austauschen. Pausen sind so wertvoll. Die Diskussionen drehen sich heute vor allem um unseren Kommunikationskanal Slack. Neben viel Wissenswertem zum Umgang mit den vielen Infos erfahre ich, dass ich mit dem Lesezeichen Nachrichten markieren kann, damit ich diese später wieder finde, vertiefter lesen und bearbeiten kann.
 
@@ -79,6 +79,6 @@ Bier um Vier bis Fünf. Austausch über Gott und die Welt und den Anteil des ges
 . \
 checkout 
 
-Markus übernimmt das Schliessen, ergeht etwas später nach Hause. danke.
+Markus übernimmt das Schliessen, er geht etwas später nach Hause. danke.
 
 gegen 19.15 Uhr bin ich wieder zu Hause.  Was für ein erfolgreicher Tag. Erhalt mich gefordert, inspiriert und erfüllt.
