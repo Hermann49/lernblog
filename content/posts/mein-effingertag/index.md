@@ -32,6 +32,8 @@ Unterstützende Begleiter sind das, was jedes Kind im Heranwachsen braucht. Das 
 
 > Sei locker und lass nicht locker. 
 
+Vor der Pause muss noch der Container zurückgebracht, die Post geholt und verteilt werden.
+
 **10.00 Uhr** 
 
 ![](folie2.jpg)
@@ -67,7 +69,7 @@ Nach einer kurzen Kaffeepause treffe ich wieder mit Markus und Fredi. Wir bilden
 
 ![](thes.jpg)
 
-Fredi hat zum Verfassen des Thes-Newsletters Fragen zusammengestellt. In der Diskussion machen wir uns dann grundsätzliche Gedanken zum Wozu? und Wohin? Und die Erkenntnisse? THES (**T**ausch**H**aus/**E**du **S**pace ist zu einem wichtigen Player im Effinger geworden. Mit dem Colearning begleiten wir unterstützend ein Projekt, das sich von anderen Bildungsangeboten abhebt, das neue, andere Wege geht. Aus den monatlichen **THES**aktiv-Treffen sind viele andere Bildungsprojekte angestossen und angereichert werden. Markus schafft mit seinem aktiven Mitwirken im Bildungsforum ein nationales Netzwerk für Bildungstransformation. In unzähligen DienstTag-Treffen haben wir uns mit Bildungsinteressierten getroffen und ausgetauscht, haben Bildungsvorhaben inspiriert und Menschen Mut gemacht ihre Projekte umzusetzen. Wir sind unterwegs und wir bilden uns und machen den Effinger zu einem Lernort. Wir sind das *Auge* im Bildungstornado.
+Fredi hat zum Verfassen des Thes-Newsletters Fragen zusammengestellt. In der Diskussion machen wir uns dann grundsätzliche Gedanken zum Wozu? und Wohin? Und die Erkenntnisse? THES (**T**ausch**H**aus/**E**du **S**pace ist zu einem wichtigen Player im Effinger geworden. Mit dem Colearning begleiten wir unterstützend ein Projekt, das sich von anderen Bildungsangeboten abhebt, das neue, andere Wege geht. Aus den monatlichen **THES**aktiv-Treffen sind viele andere Bildungsprojekte angestossen und angereichert werden. Markus schafft mit seinem aktiven Mitwirken im Bildungsforum ein nationales Netzwerk für Bildungstransformation. In unzähligen DienstTag-Treffen haben wir uns mit Bildungsinteressierten getroffen und ausgetauscht, haben Bildungsvorhaben inspiriert und Menschen Mut gemacht ihre Projekte umzusetzen. Wir sind unterwegs, bilden uns und machen den Effinger zu einem Lernort. Wir sind einfach da, hören zu, geben Raum und Zeit und mischen uns ein Wir wirken mit Wirkung mit. Wir sind das *Auge* im Bildungstornado.
 Unser nächster **THESDienstTAG** ist der 15. Juni.
 
 > Bildung ist die Fähigkeit, sich in der Welt zurechtzufinden und sich selbst zu helfen.
@@ -88,11 +90,12 @@ Nächste Desinfektionstour mit kurzen Gesprächen und wieder etwas Zeit für mic
 
 **16.00 Uhr**
 
-Bier um Vier bis Fünf. Austausch über Gott und die Welt und den Anteil des gesunden Menschenverstandes in diesen nicht ganz einfachen Zeiten. Geselliges Zusammensitzen
+Bier um Vier bis Fünf. Geselliges Zusammensitzen und Austausch über Gott und die Welt und den Anteil des gesunden Menschenverstandes in diesen nicht ganz einfachen Zeiten. 
 
-. \
-checkout 
+**17.00 Uhr**
 
-Markus übernimmt das Schliessen, er geht etwas später nach Hause. danke.
+Check-Out. Markus übernimmt das Schliessen, er geht etwas später nach Hause. Danke.
 
-gegen 19.15 Uhr bin ich wieder zu Hause.  Was für ein erfolgreicher Tag. Er hat mich gefordert, inspiriert und erfüllt. Ich freue ich auf nächste Treffen, auf das nächste Hosting im Effinger.
+**19.15 Uhr** 
+
+bin ich wieder zu Hause.  Was für ein erfolgreicher Tag. Er hat mich gefordert, inspiriert und erfüllt. Ich freue ich auf nächste Treffen, auf das nächste Hosting im Effinger.
