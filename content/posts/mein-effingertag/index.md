@@ -53,10 +53,13 @@ Ich beginne mit meinem Blog zu meinem EffingerTag. Mir fällt das Aufschreiben u
 
 Es ist Mittag. Ich löse Jonathan als Effinger-Tageshost ab, die Colearnenden verabschieden sich. Sie berichten kurz von ihren Lernerfahrungen. Ab heute gibt es ein neues Mittagsangebot der Kaffeebar: Bärner Pie mit Fleisch und Salat. Schmeckt fein.
 
+![](gemeinsamstän-digkeit.jpg)
 
 Nicht ganz freiwillige Teilnahme am Stammtisch der Gruppe Gemeinsamständigkeit. 
 wertvoller Austausch, Einblicke in ganz unterschiedliche Arbeitsvorhaben und Projekte. Vernetzung und Bereicherung. AnTeilnahme und aktives Mitgestalten in Form des Ideenkorbes: jemand hat ein Anliegen, stellt etwas vor, die anderen geben Feedbacks bringen eigene Erfahrungen ein, bereichern die Gemeinschaft.
 <https://www.effinger.ch/blog/gemeinsamstaendigkeit/>
+
+**13.00 Uhr**
 
 
 
