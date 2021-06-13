@@ -67,12 +67,10 @@ Nach einer kurzen Kaffeepause treffe ich wieder mit Markus und Fredi. Wir bilden
 
 ![](thes.jpg)
 
-Fredi hat zum Verfassen des Thes-Newsletters Fragen zusammengestellt. In der Diskussion machen wir uns dann grundsätzliche Gedanken zum Wozu? und Wohin? Und die Erkenntnisse? THES (**T**ausch**H**aus/**E**du **S**pace ist zu einem wichtigen Player im Effinger geworden. Mit dem Colearning begleiten wir unterstützend ein Projekt, das sich von anderen Bildungsangeboten abhebt, das neue, andere Wege geht. Aus den monatlichen **THESa**ktiv sind viele andere Bildungsprojekte angestossen und angereichert werden.
+Fredi hat zum Verfassen des Thes-Newsletters Fragen zusammengestellt. In der Diskussion machen wir uns dann grundsätzliche Gedanken zum Wozu? und Wohin? Und die Erkenntnisse? THES (**T**ausch**H**aus/**E**du **S**pace ist zu einem wichtigen Player im Effinger geworden. Mit dem Colearning begleiten wir unterstützend ein Projekt, das sich von anderen Bildungsangeboten abhebt, das neue, andere Wege geht. Aus den monatlichen **THES**aktiv-Treffen sind viele andere Bildungsprojekte angestossen und angereichert werden. Markus schafft mit seinem aktiven Mitwirken im Bildungsforum ein nationales Netzwerk für Bildungstransformation. In unzähligen DienstTag-Treffen haben wir uns mit Bildungsinteressierten getroffen und ausgetauscht, haben Bildungsvorhaben inspiriert und Menschen Mut gemacht ihre Projekte umzusetzen. Wir sind unterwegs und wir bilden uns und machen den Effinger zu einem Lernort. Wir sind das Auge im Bildungstornado.
+Unser nächster **THESDienstTAG** ist der 15. Juni.
 
-\
-Weiterspinnen und weiterdenken der Gedanken von Fredi.
 
-wir sind unterwegs, wir bilden uns wir legen den Schwerpunkt auf unseren THESDienstTAG  Siehe Blatt von Fredi und Notizen Hermann 
 
 Idee von João Bibliothek: Mehrwert? Kurze Rückmeldung schreiben. Was hat mir das Buch gebracht?
 
@@ -90,4 +88,4 @@ checkout
 
 Markus übernimmt das Schliessen, er geht etwas später nach Hause. danke.
 
-gegen 19.15 Uhr bin ich wieder zu Hause.  Was für ein erfolgreicher Tag. Erhalt mich gefordert, inspiriert und erfüllt.
+gegen 19.15 Uhr bin ich wieder zu Hause.  Was für ein erfolgreicher Tag. Er hat mich gefordert, inspiriert und erfüllt. Ich freue ich auf nächste Treffen, auf das nächste Hosting im Effinger.
