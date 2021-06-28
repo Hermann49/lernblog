@@ -30,33 +30,17 @@ Wieder eine Perle für meine Sammlung.
 
 ![](perlen-bild-4.jpg)
 
-Für mich waren zwischenmenschliche Beziehungen, Anerkennung, Zuwendung und Vertrauen wichtige Voraussetzungen für ein gelingendes Miteinander in der Schule.
+Für mich waren zwischenmenschliche Beziehungen, Anerkennung, Zuwendung und Vertrauen wichtige Voraussetzungen für ein gutes Miteinander in der Schule. Joachim Bauer hat für das Gelingen die folgenden Komponenten beschrieben und sie auch als neurologischen Treibstoff für die Motivation bezeichnet: 
+
+> Sehen und Gesehen werden
+> Gemeinsame Aufmerksamkeit 
+> Emotionale Resonanz
+> Gemeinsames Handeln
+> Grundsätzliche Kooperationsbereitschaft
+> Das Verstehen von Motiven und Absichten
 
 
 
 
 
-
-
-
-Die Aussage "*Gute Beziehungen machen klug*" ist von Prof. Dr. Joachim Bauer – Internist, Psychiater 
-und Facharzt für Psychotherapeutische Medizin am Universitätsklinikum Freiburg. In einem Interview 
-sagt er: "Wir sollten uns bewusst machen und verinnerlichen, dass die Gestaltung guter Beziehungen 
-eine zentrale Lebensaufgabe ist. Die betrifft nicht nur das private Umfeld, sondern auch die Schulen
-\[...]. Bildung in den Schulen kann nur gelingen, wenn zwischen Lehrenden und Lernenden eine 
-kooperative Atmosphäre hergestellt werden kann. Genau daran scheitern derzeit aber viele Schulen. 
-Die Ursachen sind nicht nur destruktives Schülerverhalten, sondern eine stark zurückgehende 
-Elternverantwortung, fehlende Kooperation von Eltern mit der Schule und nicht zuletzt Defizite bei der 
-Beziehungskompetenz von Lehrkräften. An allen drei Punkten muss es zu deutlichen Veränderungen 
-kommen, sonst fahren wir die öffentlichen Schulen gegen die Wand \[...]." (Bauer, Interview "Prinzip 
-Menschlichkeit")
-Für Hermann Flükiger sind Anerkennung, Zuwendung und Vertrauen wichtige Motivationssysteme im 
-Unterricht, basierend auf "Beziehungskompetenz nach Joachim Bauer"2. Für gelingende 
-zwischenmenschliche Beziehungen braucht es die folgenden Komponenten:
-
-Sehen und Gesehen werden
-Gemeinsame Aufmerksamkeit 
-Emotionale Resonanz
-Gemeinsames Handeln
-Grundsätzliche Kooperationsbereitschaft
-Das Verstehen von Motiven und Absichten
+Übrigens: Natascha hat ihr 10. Schuljahr erfolgreich in Amerika verbracht.
