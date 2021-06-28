@@ -5,6 +5,7 @@ draft = true
 pinned = false
 image = "perlen-2.jpg"
 description = "Wir sollten uns bewusst machen und verinnerlichen, dass die Gestaltung guter Beziehungen eine zentrale Lebensaufgabe ist. Die betrifft nicht nur das private Umfeld, sondern auch die Schulen.\nBildung kann nur gelingen, wenn zwischen Lehrenden und Lernenden eine kooperative Atmosphäre hergestellt werden kann.\nAus *Gute Beziehungen machen klug* von Prof. Dr. Joachim Bauer"
+footnotes = "Verwendete Quellen:\nLeicht verändert und mit Beispielen aus der Schule ergänzt nach: Joachim Bauer, Prinzip Menschlichkeit, Hamburg 20075\r\nJ. Bauer, Warum ich fühle, was du fühlst, Heyne 2006\r\n"
 +++
 Gerade die kleinen Dinge machen unser Leben so besonders. Überall finden sich Perlen. 
 Ich habe in meiner Lehrertätigkeit immer besser verstanden, den Blick auf das Gelingende, auf das Positive zu richten und gemerkt, dass ich an jedem Tag, nach getaner Arbeit trotz Müdigkeit ein Gefühl der Bereicherung mit nach Hause nahm. Ich konnte jeden Tag grössere und vor allem kleinere Perlen einsammeln. Und das waren nicht nur Projekte, tolle Arbeiten, sondern es waren Entwicklungen, die die Jugendlichen machten, ihr Umgang mit sich, den anderen und ihrer Umwelt: Ein kurzes Gespräch, eine neue Erkenntnis, ein Dankeschön, eine Erfahrung, ein Verständnis, eine neue Beziehung, ein Erfolgserlebnis.
@@ -30,7 +31,9 @@ Wieder eine Perle für meine Sammlung. Ein Beispiel einer guten Beziehung auf Au
 
 ![](perlen-bild-4.jpg)
 
-Für mich waren zwischenmenschliche Beziehungen, Anerkennung, Zuwendung und Vertrauen wichtige Voraussetzungen für ein gutes Miteinander in der Schule. Joachim Bauer hat für das Gelingen die folgenden Komponenten beschrieben und sie auch als neurologischen Treibstoff für die Motivation bezeichnet: 
+Für mich waren zwischenmenschliche Beziehungen, Anerkennung, Zuwendung und Vertrauen wichtige Voraussetzungen für ein gutes Miteinander in der Schule. 
+
+Joachim Bauer hat für das Gelingen die folgenden Komponenten beschrieben und sie auch als neurologischen Treibstoff für die Motivation bezeichnet: 
 
 > Sehen und Gesehen werden
 > Gemeinsame Aufmerksamkeit 
