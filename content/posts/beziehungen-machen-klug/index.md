@@ -42,11 +42,11 @@ Joachim Bauer hat für das Gelingen die folgenden Komponenten beschrieben und si
 
 **Sehen und Gesehen werden**
 Er hat mir ein Lächeln geschenkt. Jugendliche haben – aufgrund ihres noch großen Bedürfnisses nach Spiegelungsprozessen mit Erwachsenen – ein sehr sensibles Wahrnehmungsvermögen, ob sie den Erwachsenen einen Blick wert sind, ob sie wahrgenommen werden. Oft genügt ein wohlwollender Blick
-•	Lass mich spüren, dass ich da bin
-•	Zeig mir, durch die Art, wie du auf mich reagierst, wo ich gut bin und wo ich mich verbessern muss. 
-•	Zeig mir, wer ich bin.
-•	Zeig mir, was ich werden kann, was meine Potentiale sind, was du mir zutraust
-•	Ermutige mich
+* Lass mich spüren, dass ich da bin
+* Zeig mir, durch die Art, wie du auf mich reagierst, wo ich gut bin und wo ich mich verbessern muss. 
+* Zeig mir, wer ich bin.
+* Zeig mir, was ich werden kann, was meine Potentiale sind, was du mir zutraust
+* Ermutige mich
 
 **Gemeinsame Aufmerksamkeit**
 Sich dem zuzuwenden, wofür sich eine andere Person interessiert, ist die einfachste Form der Anteilnahme und hat ein erhebliches Potential, Verbindung herzustellen. Das Selbstwertgefühl wird gesteigert: Ich bin jemand, Ich kann etwas, ich hinterlasse Spuren.
