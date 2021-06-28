@@ -26,7 +26,7 @@ Zu Beginn der Herbstferien fand ich unerwartet einen Brief in meinem Briefkasten
 
 *PS. Noch einmal vielen herzlichen Dank und im übrigen, das Briefschreiben hat meiner Mutter und mir viel Freude bereitet.*
 
-Wieder eine Perle für meine Sammlung. 
+Wieder eine Perle für meine Sammlung. Ein Beispiel einer guten Beziehung auf Augenhöhe, angereichert mit einer Prise Humor. 
 
 ![](perlen-bild-4.jpg)
 
@@ -38,6 +38,10 @@ Für mich waren zwischenmenschliche Beziehungen, Anerkennung, Zuwendung und Vert
 > Gemeinsames Handeln
 > Grundsätzliche Kooperationsbereitschaft
 > Das Verstehen von Motiven und Absichten
+
+Beziehungen machen klug.
+
+
 
 
 
