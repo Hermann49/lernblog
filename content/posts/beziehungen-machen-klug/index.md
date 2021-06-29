@@ -34,10 +34,15 @@ Wieder eine Perle für meine Sammlung. Ein Beispiel einer guten Beziehung auf Au
 Joachim Bauer hat für das Gelingen die folgenden Komponenten beschrieben und sie auch als neurologischen Treibstoff für die Motivation bezeichnet: 
 
 > Sehen und Gesehen werden
-> Gemeinsame Aufmerksamkeit 
+
+> Gemeinsame Aufmerksamkeit
+ 
 > Emotionale Resonanz
+
 > Gemeinsames Handeln
+
 > Grundsätzliche Kooperationsbereitschaft
+
 > Das Verstehen von Motiven und Absichten
 
 **Sehen und Gesehen werden**
