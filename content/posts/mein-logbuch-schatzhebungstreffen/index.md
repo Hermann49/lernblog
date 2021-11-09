@@ -1,6 +1,6 @@
 +++
 title = "Mein LOGBUCH-Schatzhebungstreffen"
-date = "2021-11-02"
+date = "2021-11-09"
 draft = true
 pinned = false
 image = "logbuch.jpg"
