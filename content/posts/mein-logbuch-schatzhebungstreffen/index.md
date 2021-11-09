@@ -52,11 +52,11 @@ Es bringt nichts, das Falsche immer besser zu machen. Wir müssen es anders mach
 
 **24. November 20**
 
-Nicht alles liegt bei mir, auch DU bist Teil der Lösung
+Nicht alles liegt bei mir, auch DU bist Teil der Lösung.
 
 **2. Dezember 20**
 
-Gespräch unter Kindern: Meine Eltern sind schon länger geschieden als dei-ne Eltern. Ich kann nur mit meinem Namen unterschreiben ich habe noch keine Unterschrift.
+Gespräch unter Kindern: Meine Eltern sind schon länger geschieden als deine Eltern. Ich kann nur mit meinem Namen unterschreiben, ich habe noch keine Unterschrift.
 
 **8. Dezember 20**
 
