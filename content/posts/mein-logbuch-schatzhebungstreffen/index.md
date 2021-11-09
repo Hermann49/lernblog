@@ -22,76 +22,43 @@ Jetzt ist wieder ein Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 * Kinder wollen sich zu eigenständigen Wesen entwickeln, voller eigener Ideen, Absichten, Meinungen, Wünsche, Werte und Vorlieben. Da-Sein ist der Sinn des Erwachsenen-Seins.
 
-14. Januar 20
-
-
+**14. Januar 20**
 
 Mach dich sichtbar
 
+**3. Februar 20**
 
-
-3. Februar 20
-
-
-
-24. Februar 20
-
-
+**4. Februar 20**
 
 Nur Menschen, die in ihrer Individualität wahrgenommen werden, sind auch zu einer gemeinschaftlichen Verbundenheit fähig
 
 Ich bestimme, was mich ärgert
 
-Lernen ist Dialog und ich vertraue in die Wandlungsfähigkeit des Menschen
+Lernen ist Dialog und ich vertraue in die Wandlungsfähigkeit des Mensche
 
-
-
-23. Juni 20
-
-
+**23. Juni 20**
 
 Colearning ist ein CoKreAktionsraum: Gestalten, unterwegs sein, in Bewe-gung sein, offen sein, sich zeigen, miteinander und gemeinsam, Begegnun-gen, kennenlernen, Neues entdecken, Anteilnahme, Vernetzen, Entwickeln
- 
 
-
-5. Oktober 20
-
-
+**5. Oktober 20**
 
 Was ist Lernen? Menschen befähigen die komplexe Welt zu bewältigen, lustvoll mit anderen eine eigene Zukunft gestalten. Wir müssen das Lernen befreien von Zeugnissen, Curriculums, Absichten, Zwängen und den Syste-men von Belehrenden. Christoph Schmitt
 
 Colearning? Wir machen keine Vorgaben, wir schaffen Gelegenheiten zu-sammen mit anderen die Welt zu entdecken
 
+**15. Oktober 20**
 
+Es bringt nichts, das Falsche immer besser zu machen. Wir müssen es anders machen.
 
-15. Oktober 20
-
-
-
-Es bringt nichts, das Falsche immer besser zu machen. Wir müssen es an-ders machen.
-
-
-
-24. November 20
-
-
+**24. November 20**
 
 Nicht alles liegt bei mir, auch DU bist Teil der Lösung
 
-
-
-2. Dezember 20
-
-
+**2. Dezember 20**
 
 Gespräch unter Kindern: Meine Eltern sind schon länger geschieden als dei-ne Eltern. Ich kann nur mit meinem Namen unterschreiben ich habe noch keine Unterschrift.
 
-
-
-
-8. Dezember 20
-
-
+**8. Dezember 20**
 
 Beziehungen machen klug. Ich bin in das Gelingen verliebt. Lernen lernen Leben lernen. nach Joachim Bauer
 
@@ -102,18 +69,13 @@ Verwendete Literatur
 Stangl, W. (2021). Stichwort: 'Ambiguitätstoleranz – Online Lexikon für Psychologie und Pädago-gik'. Online Lexikon für Psychologie und Pädagogik.
 WWW: https://lexikon.stangl.eu/12220/ambiguitaetstoleranz (2021-09-14)
 
-
 Was tue ich eigentlich, wenn ich tue, was ich tue?
 
 Lernen ist mich kennenzulernen, besser mit anderen umgehen zu können und ein vertiefteres Verständnis für diese Welt zu gewinnen.
 
-
 2. Februar 21
 
-
-
 Ermöglichen
-
 
 Lernen ermöglichen
 Menschen lernen ein Leben lang, Organisationen entwickeln sich ständig weiter.
@@ -128,51 +90,27 @@ Kooperation schafft ein Treibhausklima für Lernen.
 
 Recherche: Kooperationsexperten: Lernen ermöglichen
 
-
-
 23. Februar 21
-
-
-
-
-8. März 21
-
-
+24. März 21
 
 Storytelling: Menschen lieben Geschichten. Sie helfen uns zu lernen und zu verstehen.
 
-
 9. März 21
-
-
 
 Wir brauchen weniger BesserWisser wir brauchen mehr BesserMacher
 
-
-
 16. März 21
-
-
 
 Nichts ist klar … aber alles ist gut.
 
-
-
 6. April 21
-
-
 
 Frage: Wie kann das «Hier im Effinger-sein» als Lernen im Colearning be-zeichnet werden? Was heisst für mich Lernen in der Effinger-Community? Wie kann mein «Hier im Effinger sein» als Lernen im Colearning verstanden werden.
 Antwort:
 Colearning heisst auch: hier kann ich eigene Projekte realisieren, hier be-komme ich Unterstützung, hier wird nachgefragt, konfrontiert, gespiegelt. Hier bin ich auch Teil einer Community und ich leiste auch einen Beitrag zum «Wohl» der Effinger-Gemeinschaft. 
 
-
 11. Mai 21
-
-
-18. Mai 21
-
-
+12. Mai 21
 
 Kinder sind heute oft Waisen mit Eltern (Michael Hüter)
 Erwachsene sind unterstützende Begleiter
@@ -182,34 +120,19 @@ Alle sind Lehrer und Lehrerinnen
 Sie bauen Beziehungen auf
 Sie lassen die Kinder teilhaben
 
-
 Aus den Effinger-Grundsätzen:
 
 Gemeinsam wollen wir eine neue, sinnstiftende und lebensbejahende Form der (Zusammen-) Arbeit entdecken, in der es sich wie „Heimat“ anfühlt.
 
-
 7. September 21
-
-
 
 Kernsätze von Christoph Schmitt
 Wir Erwachsenen müssen nur da sein und präsent sein, wenn die Jugendli-chen uns brauchen und ihnen die Möglichkeit geben zusammen mit ande-ren ihren eigenen Fragen nachzugehen
 
-
-
 14. September 21
-
-
-
-
-
-
-
-
 
 Kek – kurz – einfach – klar -> 1-Satz-Botschaften
 
 Ich bin selbstwirksam in heiterer Gelassenheit unterwegs
 
 Ich will, ich kann, ich mache
-
