@@ -14,6 +14,10 @@ Jetzt ist wieder ein Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 **21. November 19**
 
-* Bildung ist das was übrig bleibt, wenn man alles was man in der Schule ge-lernt hat, wieder vergessen hat.
+* Bildung ist das was übrig bleibt, wenn man alles was man in der Schule gelernt hat, wieder vergessen hat.
 * Menschen sehnen sich nach Verbundenheit, wollen etwas bewirken, wollen mitgestalten. 
 * Meine Einstellung bestimmt mein Denken. Meine inneren Bilder, mein Herz bestimmen, wie wir denken.
+
+**11. Januar 20**
+
+* Kinder wollen sich zu eigenständigen Wesen entwickeln, voller eigener Ideen, Absichten, Meinungen, Wünsche, Werte und Vorlieben. Da-Sein ist der Sinn des Erwachsenen-Seins.
