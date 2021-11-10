@@ -5,7 +5,7 @@ draft = true
 pinned = false
 image = "logbuch.jpg"
 description = "Ein Logbuch ist in der Seefahrt ein vorgeschriebenes wichtiges Dokument. Hier werden die täglichen Ereignisse während der Fahrt lückenlos und nachvollziehbar erfasst und protokolliert. Es ist jedoch in erster Linie ein privates Protokoll und nicht zur Veröffentlichung bestimmt."
-footnotes = "Quellen und Inspirationen, so weit ich mich noch erinnern kann: Afrika, Kerschensteiner, Christoph Schmitt, Joachim Bauer, Kinder, Jugendliche, Effinger Grundsätze, Stangl,"
+footnotes = "Quellen und Inspirationen, so weit ich mich noch erinnern kann: Afrika, Kerschensteiner, Christoph Schmitt, Joachim Bauer, Kinder, Jugendliche, Effinger Grundsätze, Stangl, Fredi,"
 +++
 Ich liebe Bücher und meine Lieblingsbücher sind Leerbücher. Sie begleiten mich an Tagungen, Sitzungen, Treffen und an meinen Effinger Dienstagen. Sie sind meine Logbücher, aber an Stelle von Wetter, Navigation und wichtigen Ereignissen an Bord schreibe ich hier meist farbig und fantasievoll meine Gedanken, meine Erfahrungen, meine Abmachungen, Termine, Gehörtes, Gelesenes, Aufgefallenes und Erlebtes auf. Aus den Leerbüchern werden meine Lernbücher. 
 Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze, viele kleine Schätze und Perlen. Ich habe Lust einige zu präsentieren, sie mit euch zu teilen.
@@ -93,6 +93,5 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 **6. April 21**
 
-Frage: Wie kann das «Hier im Effinger-sein» als Lernen im Colearning bezeichnet werden? Was heisst für mich Lernen in der Effinger-Community? Wie kann mein «Hier im Effinger sein» als Lernen im Colearning verstanden werden?
-
-Antwort: Colearning heisst auch: hier kann ich eigene Projekte realisieren, hier bekomme ich Unterstützung, hier wird nachgefragt, konfrontiert, gespiegelt. Hier bin ich auch Teil einer Community und ich leiste auch einen Beitrag zum «Wohl» der Effinger-Gemeinschaft.
+* Frage: Wie kann das «Hier im Effinger-sein» als Lernen im Colearning bezeichnet werden? Was heisst für mich Lernen in der Effinger-Community? Wie kann mein «Hier im Effinger sein» als Lernen im Colearning verstanden werden?
+* Antwort: Colearning heisst auch: hier kann ich eigene Projekte realisieren, hier bekomme ich Unterstützung, hier wird nachgefragt, konfrontiert, gespiegelt. Hier bin ich auch Teil einer Community und ich leiste auch einen Beitrag zum «Wohl» der Effinger-Gemeinschaft.
