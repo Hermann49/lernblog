@@ -5,7 +5,7 @@ draft = true
 pinned = false
 image = "logbuch.jpg"
 description = "Ein Logbuch ist in der Seefahrt ein vorgeschriebenes wichtiges Dokument. Hier werden die täglichen Ereignisse während der Fahrt lückenlos und nachvollziehbar erfasst und protokolliert. Es ist jedoch in erster Linie ein privates Protokoll und nicht zur Veröffentlichung bestimmt."
-footnotes = "Quellen und Inspirationen, so weit ich mich noch erinnern kann: Afrika, Kerschensteiner, Christoph Schmitt, Joachim Bauer, Kinder, Jugendliche, Effinger Grundsätze, Stangl, Fredi,"
+footnotes = "Quellen und Inspirationen, so weit ich mich noch erinnern kann: Afrika, Kerschensteiner, Christoph Schmitt, Joachim Bauer, Kinder, Jugendliche, Effinger Grundsätze, Stangl und viele andere inspirierende Menschen im Coworking Effinger und Colearning Bern"
 +++
 Ich liebe Bücher und meine Lieblingsbücher sind Leerbücher. Sie begleiten mich an Tagungen, Sitzungen, Treffen und an meinen Effinger Dienstagen. Sie sind meine Logbücher, aber an Stelle von Wetter, Navigation und wichtigen Ereignissen an Bord schreibe ich hier meist farbig und fantasievoll meine Gedanken, meine Erfahrungen, meine Abmachungen, Termine, Gehörtes, Gelesenes, Aufgefallenes und Erlebtes auf. Aus den Leerbüchern werden meine Lernbücher. 
 Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze, viele kleine Schätze und Perlen. Ich habe Lust einige zu präsentieren, sie mit euch zu teilen.
