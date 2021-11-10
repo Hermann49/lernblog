@@ -5,7 +5,7 @@ draft = true
 pinned = false
 image = "logbuch.jpg"
 description = "Ein Logbuch ist in der Seefahrt ein vorgeschriebenes wichtiges Dokument. Hier werden die täglichen Ereignisse während der Fahrt lückenlos und nachvollziehbar erfasst und protokolliert. Es ist jedoch in erster Linie ein privates Protokoll und nicht zur Veröffentlichung bestimmt."
-footnotes = "Quellen und Inspirationen, so weit ich mich noch erinnern kann: Afrika, Kerschensteiner, Christoph Schmitt, Joachim Bauer, Kinder, Jugendliche, Effinger Grundsätze, Stangl und viele andere inspirierende Menschen im Coworking Effinger und Colearning Bern"
+footnotes = "Quellen und Inspirationen, so weit ich mich noch erinnern kann: Afrika, Kerschensteiner, Christoph Schmitt, Joachim Bauer, Michael Hüter, Kinder, Jugendliche, Effinger Grundsätze, Stangl und viele andere anregende Menschen im Coworking Effinger und Colearning Bern"
 +++
 Ich liebe Bücher und meine Lieblingsbücher sind Leerbücher. Sie begleiten mich an Tagungen, Sitzungen, Treffen und an meinen Effinger Dienstagen. Sie sind meine Logbücher, aber an Stelle von Wetter, Navigation und wichtigen Ereignissen an Bord schreibe ich hier meist farbig und fantasievoll meine Gedanken, meine Erfahrungen, meine Abmachungen, Termine, Gehörtes, Gelesenes, Aufgefallenes und Erlebtes auf. Aus den Leerbüchern werden meine Lernbücher. 
 Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze, viele kleine Schätze und Perlen. Ich habe Lust einige zu präsentieren, sie mit euch zu teilen.
@@ -85,7 +85,7 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 **9. März 21**
 
-* Wir brauchen weniger BesserWisser wir brauchen mehr BesserMacher
+* Wir brauchen weniger BesserWisser - wir brauchen mehr BesserMacher
 
 **16. März 21**
 
@@ -93,5 +93,23 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 **6. April 21**
 
-* Frage: Wie kann das «Hier im Effinger-sein» als Lernen im Colearning bezeichnet werden? Was heisst für mich Lernen in der Effinger-Community? Wie kann mein «Hier im Effinger sein» als Lernen im Colearning verstanden werden?
-* Antwort: Colearning heisst auch: hier kann ich eigene Projekte realisieren, hier bekomme ich Unterstützung, hier wird nachgefragt, konfrontiert, gespiegelt. Hier bin ich auch Teil einer Community und ich leiste auch einen Beitrag zum «Wohl» der Effinger-Gemeinschaft.
+* Frage: Wie kann das "Hier im Effinger-sein" als Lernen im Colearning bezeichnet werden? Was heisst für mich Lernen in der Effinger-Community? Wie kann mein "Hier im Effinger sein" als Lernen im Colearning verstanden werden?
+* Antwort: Colearning heisst auch: hier kann ich eigene Projekte realisieren, hier bekomme ich Unterstützung, hier wird nachgefragt, konfrontiert, gespiegelt. Hier bin ich auch Teil einer Community und ich leiste auch einen Beitrag zum "Wohl" der Effinger-Gemeinschaft.
+
+![](img_7880-2.jpg)
+
+**11. Mai 21**
+
+* Bildung einfach anders. Wir machen das einfach.
+
+**18. Mai 21**
+
+* Kinder sind heute oft Waisen mit Eltern 
+* Erwachsene sind unterstützende Begleiter: Sie lassen Kinder Fragen stellen. Sie sind kompetent und geben ihre Erfahrungen und ihr Wissen weiter. Alle sind Lehrer und Lehrerinnen. Sie bauen Beziehungen auf und lassen die Kinder teilhaben.
+* Aus den Effinger-Grundsätzen: Gemeinsam wollen wir eine neue, sinnstiftende und lebensbejahende Form der (Zusammen-) Arbeit entdecken, in der es sich wie „Heimat“ anfühlt.. 
+
+**7. September 21**
+
+* Wir Erwachsenen müssen nur da sein und präsent sein, wenn die Jugendlichen uns brauchen und ihnen die Möglichkeit geben zusammen mit anderen ihren eigenen Fragen nachzugehen
+
+**14. September 21**
