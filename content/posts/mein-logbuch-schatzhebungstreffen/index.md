@@ -66,3 +66,33 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 * Wir brauchen mehr Ambiguitätstoleranz, das heisst die Fähigkeit widersprüchliche Bedürfnisse auszuhalten, denn nur durch die Rollendistanz und Empathie lernt das Individuum neue und auch widersprüchliche Erwartungen der anderen, die den eigenen entgegengesetzt sind, zu ertragen.
 * Was tue ich eigentlich, wenn ich tue, was ich tue?
 * Lernen ist mich kennenzulernen, besser mit anderen umgehen zu können und ein vertiefteres Verständnis für diese Welt zu gewinnen.
+
+**2. Februar 21**
+
+* Lernen ermöglichen
+* Menschen lernen ein Leben lang, nachhaltige Organisationen entwickeln sich ständig weiter.
+* Konkurrenz erzeugt Druck, Angst und Misstrauen. Also ein Klima, in dem bewahrt, verhindert und egoistisch auf den eigenen Vorteil geschaut wird.
+* Wissen teilen, Lösungen gemeinsam erarbeiten, übergreifend kommunizieren und Routinen kritisch hinterfragen sind Zutaten für Lernen.
+* Das funktioniert nur in respekt- und vertrauensvollen Organisationskulturen. Kooperation schafft ein Treibhausklima für Lernen.
+
+**23. Februar 21**
+
+* Bin ich Teil der Lösung – oder bin ich Teil des Problems
+
+**8. März 21**
+
+* Storytelling: Menschen lieben Geschichten. Sie helfen uns zu lernen und zu verstehen.
+
+**9. März 21**
+
+* Wir brauchen weniger BesserWisser wir brauchen mehr BesserMacher
+
+**16. März 21**
+
+* Nichts ist klar … aber alles ist gut.
+
+**6. April 21**
+
+Frage: Wie kann das «Hier im Effinger-sein» als Lernen im Colearning bezeichnet werden? Was heisst für mich Lernen in der Effinger-Community? Wie kann mein «Hier im Effinger sein» als Lernen im Colearning verstanden werden?
+
+Antwort: Colearning heisst auch: hier kann ich eigene Projekte realisieren, hier bekomme ich Unterstützung, hier wird nachgefragt, konfrontiert, gespiegelt. Hier bin ich auch Teil einer Community und ich leiste auch einen Beitrag zum «Wohl» der Effinger-Gemeinschaft.
