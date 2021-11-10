@@ -79,7 +79,7 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 **23. Februar 21**
 
-* Bin ich Teil der Lösung – oder bin ich Teil des Problems
+* Bin ich Teil der Lösung – oder bin ich Teil des Problems?
 
 **8. März 21**
 
@@ -95,8 +95,8 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 **6. April 21**
 
-* Frage: Wie kann das "Hier im Effinger-sein" als Lernen im Colearning bezeichnet werden? Was heisst für mich Lernen in der Effinger-Community? Wie kann mein "Hier im Effinger sein" als Lernen im Colearning verstanden werden?
-* Antwort: Colearning heisst auch: hier kann ich eigene Projekte realisieren, hier bekomme ich Unterstützung, hier wird nachgefragt, konfrontiert, gespiegelt. Hier bin ich auch Teil einer Community und ich leiste auch einen Beitrag zum "Wohl" der Effinger-Gemeinschaft.
+* *Fragen:* Wie kann das "Hier im Effinger-sein" als Lernen im Colearning bezeichnet werden? Was heisst für mich Lernen in der Effinger-Community? Wie kann mein "Hier im Effinger sein" als Lernen im Colearning verstanden werden?
+* *Antworten:* Colearning heisst auch: hier kann ich eigene Projekte realisieren, hier bekomme ich Unterstützung, hier wird nachgefragt, konfrontiert, gespiegelt. Hier bin ich auch Teil einer Community und ich leiste auch einen Beitrag zum "Wohl" der Effinger-Gemeinschaft.
 
 ![](img_7880-2.jpg)
 
@@ -124,5 +124,5 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 Mein persönliches Fazit als 1-Satz-Botschaft:
 
-* **Ich bin in heiterer Gelassenheit selbstwirksam unterwegs**    *oder*
-* **Ich will, ich kann, ich mache**
+> **Ich bin in heiterer Gelassenheit selbstwirksam unterwegs, denn ...**\
+> **Ich will, ich kann, ich mache**
