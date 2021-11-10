@@ -1,7 +1,7 @@
 +++
 title = "Meine LOGBUCH-Schätze"
 date = "2021-11-10"
-draft = true
+draft = false
 pinned = false
 image = "logbuch.jpg"
 description = "Ein Logbuch ist in der Seefahrt ein vorgeschriebenes wichtiges Dokument. Hier werden die täglichen Ereignisse während der Fahrt lückenlos und nachvollziehbar erfasst und protokolliert. Es ist jedoch in erster Linie ein privates Protokoll und nicht zur Veröffentlichung bestimmt."
