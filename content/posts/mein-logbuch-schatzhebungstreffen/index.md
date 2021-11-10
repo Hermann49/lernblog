@@ -118,6 +118,9 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 **12. Oktober 21**
 
+![](kek-2.gif)
+
 Mein persönliches Fazit als 1-Satz-Botschaft:
+
 * **Ich bin in heiterer Gelassenheit selbstwirksam unterwegs**    *oder*
 * **Ich will, ich kann, ich mache**
