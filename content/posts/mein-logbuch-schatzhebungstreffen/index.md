@@ -5,10 +5,10 @@ draft = true
 pinned = false
 image = "logbuch.jpg"
 description = "Ein Logbuch ist in der Seefahrt ein vorgeschriebenes wichtiges Dokument. Hier werden die täglichen Ereignisse während der Fahrt lückenlos und nachvollziehbar erfasst und protokolliert. Es ist jedoch in erster Linie ein privates Protokoll und nicht zur Veröffentlichung bestimmt."
-footnotes = "Quellen und Inspirationen, so weit ich mich noch erinnern kann: Afrika, Kerschensteiner, Christoph Schmitt, Joachim Bauer, Michael Hüter, Kinder, Jugendliche, Effinger Grundsätze, Stangl und viele andere anregende Menschen im Coworking Effinger und Colearning Bern"
+footnotes = "Quellen und Inspirationen, so weit ich mich noch erinnern kann: Afrika, Kerschensteiner, Christoph Schmitt, Joachim Bauer, Michael Hüter, Arnold, Kinder, Fredi, Markus, Jugendliche, Effinger Grundsätze, Stangl und viele andere anregende Menschen im Coworking Effinger und Colearning Bern"
 +++
-Ich liebe Bücher und meine Lieblingsbücher sind Leerbücher. Sie begleiten mich an Tagungen, Sitzungen, Treffen und an meinen Effinger Dienstagen. Sie sind meine Logbücher, aber an Stelle von Wetter, Navigation und wichtigen Ereignissen an Bord schreibe ich hier meist farbig und fantasievoll meine Gedanken, meine Erfahrungen, meine Abmachungen, Termine, Gehörtes, Gelesenes, Aufgefallenes und Erlebtes auf. Aus den Leerbüchern werden meine Lernbücher. 
-Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze, viele kleine Schätze und Perlen. Ich habe Lust einige zu präsentieren, sie mit euch zu teilen.
+Ich liebe Bücher und meine Lieblingsbücher sind Leerbücher. Sie begleiten mich bei Tagungen, Sitzungen, Treffen und an meinen "Effinger Diensttagen". Sie sind meine Logbücher, aber an Stelle von Wetter, Navigation und wichtigen Ereignissen an Bord schreibe ich hier meist farbig und fantasievoll meine Gedanken, meine Erfahrungen, meine Abmachungen, Termine, Gehörtes, Gelesenes, Aufgefallenes und Erlebtes auf. Aus den Leerbüchern werden meine Lernbücher. 
+Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze, viele kleine Schätze und Perlen. Ich habe Lust einige davon zu präsentieren, sie mit euch zu teilen.
 
 ![](bild-logbuch.jpg)
 
@@ -32,18 +32,18 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 **24. Februar 20**
 
-* Nur Menschen, die in ihrer Individualität wahrgenommen werden, sind auch zu einer gemeinschaftlichen Verbundenheit fähig
-* Ich bestimme, was mich ärgert
-* Lernen ist Dialog und ich vertraue in die Wandlungsfähigkeit des Menschen
+* Nur Menschen, die in ihrer Individualität wahrgenommen werden, sind auch zu einer gemeinschaftlichen Verbundenheit fähig.
+* Ich bestimme, was mich ärgert.
+* Lernen ist Dialog und ich vertraue in die Wandlungsfähigkeit des Menschen.
 
 **23. Juni 20**
 
-* Colearning ist ein CoKreAktionsraum: Gestalten, unterwegs sein, in Bewegung sein, offen sein, sich zeigen, miteinander und gemeinsam, Begegnungen, kennenlernen, Neues entdecken, Anteilnahme, Vernetzen, Entwickeln 
+* Colearning ist ein CoKreAktionsraum: Gestalten, unterwegs sein, in Bewegung sein, offen sein, sich zeigen, miteinander und gemeinsam, Begegnungen, Kennenlernen, Neues entdecken, Anteilnahme, Vernetzen, Entwickeln. 
 
 **5. Oktober 20**
 
-* Was ist Lernen? Menschen befähigen die komplexe Welt zu bewältigen, lustvoll mit anderen eine eigene Zukunft gestalten. Wir müssen das Lernen befreien von Zeugnissen, Curriculums, Absichten, Zwängen und den Systemen von Belehrenden. 
-* Colearning? Wir machen keine Vorgaben, wir schaffen Gelegenheiten zusammen mit anderen die Welt zu entdecken
+* *Was ist Lernen?* Menschen befähigen die komplexe Welt zu bewältigen, lustvoll mit anderen eine eigene Zukunft gestalten. Wir müssen das Lernen befreien von Zeugnissen, Curriculums, Absichten, Zwängen und den Systemen von Belehrenden. 
+* *Colearning?* Wir machen keine Vorgaben, wir schaffen Gelegenheiten zusammen mit anderen die Welt zu entdecken.
 
 **15. Oktober 20**
 
@@ -53,11 +53,11 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 **24. November 20**
 
-* Nicht alles liegt bei mir, auch DU bist Teil der Lösung
+* Nicht alles liegt bei mir, auch DU bist Teil der Lösung.
 
 **2. Dezember 20**
 
-* Gespräch unter Kindern: Meine Eltern sind schon länger geschieden als deine Eltern. Ich kann nur mit meinem Namen unterschreiben ich habe noch keine Unterschrift.
+* *Gespräch unter Kindern:* Meine Eltern sind schon länger geschieden als deine Eltern. Ich kann nur mit meinem Namen unterschreiben ich habe noch keine Unterschrift.
 
 **8. Dezember 20**
 
@@ -75,9 +75,9 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 * Lernen ermöglichen
 * Menschen lernen ein Leben lang, nachhaltige Organisationen entwickeln sich ständig weiter.
-* Konkurrenz erzeugt Druck, Angst und Misstrauen. Also ein Klima, in dem bewahrt, verhindert und egoistisch auf den eigenen Vorteil geschaut wird.
+* Konkurrenz erzeugt Druck, Angst und Misstrauen, ein Klima, in dem bewahrt, verhindert und egoistisch auf den eigenen Vorteil geschaut wird.
 * Wissen teilen, Lösungen gemeinsam erarbeiten, übergreifend kommunizieren und Routinen kritisch hinterfragen sind Zutaten für Lernen.
-* Das funktioniert nur in respekt- und vertrauensvollen Organisationskulturen. Kooperation schafft ein Treibhausklima für Lernen.
+* Das funktioniert nur in respekt- und vertrauensvollen Organisationskulturen. Kooperation schafft ein Treibhausklima für das Lernen.
 
 **23. Februar 21**
 
@@ -112,11 +112,11 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 * Kinder sind heute oft Waisen mit Eltern 
 * Erwachsene sind unterstützende Begleiter: Sie lassen Kinder Fragen stellen. Sie sind kompetent und geben ihre Erfahrungen und ihr Wissen weiter. Alle sind Lehrer und Lehrerinnen. Sie bauen Beziehungen auf und lassen die Kinder teilhaben.
-* Aus den Effinger-Grundsätzen: Gemeinsam wollen wir eine neue, sinnstiftende und lebensbejahende Form der (Zusammen-) Arbeit entdecken, in der es sich wie „Heimat“ anfühlt.. 
+* *Aus den Effinger-Grundsätzen:* Gemeinsam wollen wir eine neue, sinnstiftende und lebensbejahende Form der (Zusammen-) Arbeit entdecken, in der es sich wie "Heimat" anfühlt.
 
 **7. September 21**
 
-* Wir Erwachsenen müssen nur da sein und präsent sein, wenn die Jugendlichen uns brauchen und ihnen die Möglichkeit geben zusammen mit anderen ihren eigenen Fragen nachzugehen
+* Wir Erwachsenen müssen nur da sein und präsent sein, wenn die Jugendlichen uns brauchen und ihnen die Möglichkeit geben zusammen mit anderen ihren eigenen Fragen nachzugehen.
 
 **14. September 21**
 
@@ -128,5 +128,5 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 Mein persönliches Fazit als 1-Satz-Botschaft:
 
-> **Ich bin in heiterer Gelassenheit selbstwirksam unterwegs, denn ...**\
-> **Ich will, ich kann, ich mache**
+> **Ich bin in heiterer Gelassenheit selbstwirksam unterwegs,** \
+> **ich will, ich kann, ich mache.**
