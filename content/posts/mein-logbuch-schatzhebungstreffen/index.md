@@ -47,7 +47,9 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 **15. Oktober 20**
 
-* Es bringt nichts, das Falsche immer besser zu machen. Wir müssen es an-ders machen.
+![](bildung.jpg)
+
+* Es bringt nichts, das Falsche immer besser zu machen. Wir müssen es anders machen.
 
 **24. November 20**
 
@@ -78,6 +80,8 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 * Das funktioniert nur in respekt- und vertrauensvollen Organisationskulturen. Kooperation schafft ein Treibhausklima für Lernen.
 
 **23. Februar 21**
+
+![](so-oder-so.png)
 
 * Bin ich Teil der Lösung – oder bin ich Teil des Problems?
 
