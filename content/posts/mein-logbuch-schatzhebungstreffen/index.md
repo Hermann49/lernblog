@@ -1,5 +1,5 @@
 +++
-title = "Mein LOGBUCH-Schatzhebungstreffen"
+title = "Meine LOGBUCH-Schätze"
 date = "2021-11-10"
 draft = true
 pinned = false
