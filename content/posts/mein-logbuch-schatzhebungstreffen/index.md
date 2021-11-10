@@ -69,6 +69,8 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 
 **2. Februar 21**
 
+![](ermöglichen.jpg)
+
 * Lernen ermöglichen
 * Menschen lernen ein Leben lang, nachhaltige Organisationen entwickeln sich ständig weiter.
 * Konkurrenz erzeugt Druck, Angst und Misstrauen. Also ein Klima, in dem bewahrt, verhindert und egoistisch auf den eigenen Vorteil geschaut wird.
