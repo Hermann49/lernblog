@@ -113,3 +113,11 @@ Jetzt ist das letzte Buch voll. Ich blättere durch und entdecke Lieblingssätze
 * Wir Erwachsenen müssen nur da sein und präsent sein, wenn die Jugendlichen uns brauchen und ihnen die Möglichkeit geben zusammen mit anderen ihren eigenen Fragen nachzugehen
 
 **14. September 21**
+
+* Colearning ist auch: TankStelle, DrehScheibe, MutMacherei, KokreAktionslabor
+
+**12. Oktober 21**
+
+Mein persönliches Fazit als 1-Satz-Botschaft:
+* **Ich bin in heiterer Gelassenheit selbstwirksam unterwegs**    *oder*
+* **Ich will, ich kann, ich mache**
