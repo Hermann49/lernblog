@@ -1,7 +1,7 @@
 +++
 title = "Auf den Pilz gekommen"
 date = "2021-12-23"
-draft = true
+draft = false
 pinned = false
 image = "pp-pilzprinzip-für-weihnachtsapéro-21.jpg"
 description = "Am letzten Schatzhebungstreffen des Colearning Bern, wo wir unsere Lernschätze und Perlen vorstellen, habe ich meine Erkenntnisse aus dem Lernunternehmen \"Pilzfarm\" präsentiert. Ich habe versucht, mein neues Wissen über Pilze mit Bildungsgrundsätzen im Colearning zu verknüpfen.  "
