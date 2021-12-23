@@ -4,9 +4,9 @@ date = "2021-12-22"
 draft = true
 pinned = false
 image = "pp-pilzprinzip-für-weihnachtsapéro-21.jpg"
-description = "hkdh"
+description = "Am letzten Schatzhebungstreffen des Colearning Bern, an dem wir unsere Lernschätze und Perlen vorstellen habe ich meine Erkenntnisse aus dem Lernunternehmen \"Pilzfarm\" präsentiert. Ich habe versucht, mein neues Wissen über Pilze mit Bildungsgrundsätzen im Colearning zu verknüpfen.  "
 +++
-nbcn
+n
 
 ![](folie5.jpg)
 
@@ -24,8 +24,6 @@ Was kann ich?
 Wohin gehöre ich?
 
 <!--EndFragment-->
-
-
 
 ![](folie7.jpg)
 
