@@ -6,15 +6,15 @@ pinned = false
 image = "pp-pilzprinzip-für-weihnachtsapéro-21.jpg"
 description = "Am letzten Schatzhebungstreffen des Colearning Bern, an dem wir unsere Lernschätze und Perlen vorstellen habe ich meine Erkenntnisse aus dem Lernunternehmen \"Pilzfarm\" präsentiert. Ich habe versucht, mein neues Wissen über Pilze mit Bildungsgrundsätzen im Colearning zu verknüpfen.  "
 +++
-Ich liebe Pilze, ich liebe bildliche Vergleiche und ich verknüpfe gerne meine Erkenntnisse zu einem Thema mit grundsätzlichen Anliegen zu meinem Bild von Bildung. So auch in unserem neusten Projekt im Colearning Bern.
+Ich liebe Pilze, ich liebe bildliche Vergleiche und ich verknüpfe gerne meine Erkenntnisse zu einem Thema mit grundsätzlichen Anliegen zu meinem Bild von Bildung. So auch in unserem neusten Projekt im Colearning Bern. 
 
 ![](folie5.jpg)
 
-Mit unserem Lernunternehmen "Pilzfarm" starten wir ein nachhaltiges Projekt. Die Idee: Mit dem Kaffeesatz aus der Effinger Kaffeebar züchten wir im Keller des Effingers Edelpilze und verkaufen unsere Produkte anschliessend wieder in der Kaffeebar. Wir lernen Pilze züchten und reflektieren begleitend unseren Lernprozess. Ich versuche mit diesem Blog ein paar Fakten über Pilze mit meinen Bild von Bildung zu verknüpfen.
+Mit unserem Lernunternehmen "Pilzfarm" starten wir ein nachhaltiges Projekt. Die Idee: Mit dem Kaffeesatz aus der Effinger Kaffeebar züchten wir im Keller des Effingers Edelpilze und verkaufen unsere Produkte anschliessend wieder in der Kaffeebar. Wir lernen Pilze züchten und reflektieren begleitend unseren Lernprozess. Ich versuche mit diesem Blog ein paar Fakten über Pilze mit meinem Bild von Bildung zu verknüpfen. Fragend, behauptend und mit einem Lächeln stelle ich mein "Pilzsystem" vor.
 
 ![](folie6.jpg)
 
-Pilze erfüllen eine wichtige Funktionen im Ökosystem. Sie zersetzen totes organisches Material wie Holz, Laub, Tierkadaver und halten so den Nährstoffkreislauf in Gang. Das feucht-warme Klima am Waldboden ist eine gute Ausgangslage für die Vermehrung. Pilze machen 40% der Biomasse der Erde aus. Pilze haben keine echten Wurzeln, keine Blätter und noch entscheidender: Pilze haben kein Blattgrün. Sie sind keine Pflanzen, keine Tiere, keine Bakterien, sondern bilden das eingeständige Reich der Pilze.
+Pilze erfüllen eine wichtige Funktionen im Ökosystem. Sie zersetzen totes organisches Material wie Holz, Laub, Tierkadaver und halten so den Nährstoffkreislauf in Gang. Das feucht-warme Klima am Waldboden ist eine gute Ausgangslage für die Vermehrung. Pilze machen 40% der Biomasse der Erde aus. Pilze haben keine echten Wurzeln, keine Blätter und noch entscheidender, Pilze haben kein Blattgrün. Sie sind keine Pflanzen, keine Tiere, keine Bakterien, sondern bilden das eingeständige Reich der Pilze.
 
 > Wer bin ich?
 > Was bin ich?
@@ -23,19 +23,28 @@ Pilze erfüllen eine wichtige Funktionen im Ökosystem. Sie zersetzen totes orga
 
 ![](folie7.jpg)
 
-Als Myzel wird die Gesamtheit aller fadenförmigen Zellen eines Pilzes bezeichnet. Meistens wird nur der Fruchtkörper als Pilz bezeichnet, wobei der eigentliche Pilz dieses unterirdische Geflecht aus Zellen ist. Sie können keine Energie aus Sonnenlicht gewinnen sondern sind auf organische Nährstoffe angewiesen. Sie nehmen die Nahrung durch die Zellwand auf. Dazu geben sie bestimmte Proteine oder Säuren an die Umgebung ab, also zum Beispiel auf das Stück Holz, auf dem sie wachsen. So wird das organische Material zersetzt und der Pilz nimmt die dabei entstehenden Nährstoffe wieder auf.
+Als Myzel wird die Gesamtheit der fadenförmigen Zellen eines Pilzes bezeichnet. Meistens wird nur der Fruchtkörper als Pilz bezeichnet, wobei der eigentliche Pilz dieses unterirdische Geflecht aus Zellen ist. Sie können keine Energie aus Sonnenlicht gewinnen sondern sind auf organische Nährstoffe angewiesen. Sie nehmen die Nahrung durch die Zellwand auf. Dazu geben sie bestimmte Proteine oder Säuren an die Umgebung ab, zum Beispiel auf das Stück Holz, auf dem sie wachsen. So wird das organische Material zersetzt und der Pilz nimmt die dabei entstehenden Nährstoffe wieder auf.
 
-> Und immer wieder die Fragen: Was steckt dahinter? darunter? 
+> Und immer wieder die Frage: Was steckt dahinter? darunter? 
+> So viel ist nicht bekannt. Das erfüllt mich mit DeMUT und Ehrfurcht
+> Wir sind miteinander verbunden
 > Zeig dich! 
 > Mach dich sichtbar!
 
 ![](folie9.jpg)
 
-kkjksdjkjkdjksj
+Die Zellfäden, die Hyphen sind der eigentliche Pilz. Alexander Fleming bemerkte 1928 zufällig im Labor, wie Schimmelpilze der Gattung Penicillium, die in eine seiner Staphylokokken-Kulturen hineingeraten waren, eine wachstumshemmende Wirkung auf die Bakterien hatten. Weitere Untersuchungen führten später zum Antibiotikum Penicillin. Die Entdeckung des Penicillins war ein Durchbruch in der Medizin. Plötzlich gab es einen Stoff, der Bakterien abtöten konnte und so wurde vielen Menschen das Leben gerettet.
+
+> Unser Lernweg geht oft Umwege und man trifft auf viel Unbekanntes, Neues, Unerwartetes.
+> Misserfolge fordern heraus und führen zu ganz neuen entscheidenden Erkenntnissen.
+> Fehler machen gehört zum Forschen und Lernen.
 
 ![](folie10.jpg)
 
-ksjdkjskdjskdjk
+Forschende nutzen dieses Prinzip für ihre eigenen Zwecke. Die Substanzen, welche die Pilze abgeben, sind nämlich teilweise hochinteressant als Pharmazeutika und Chemikalien. Dazu zählen zum Beispiel Statine (eingesetzt als Blutdrucksenker), Cyclosporin (wichtig bei Organtransplantationen) oder Drospirenone (Antibabypille). Um sie herzustellen, werden die Pilze in riesigen Bioreaktoren gezüchtet.
+
+
+
 
 ![](folie12.jpg)
 
