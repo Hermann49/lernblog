@@ -43,17 +43,19 @@ Die Zellfäden, die Hyphen sind der eigentliche Pilz. Alexander Fleming bemerkte
 
 Die 350 essbaren Pilzsorten, die es weltweit gibt, bilden nur einen Bruchteil der Artenvielfalt ab. Schätzungen gehen von 3,5 bis sechs Millionen aus. Wissenschaftlich beschrieben sind aktuell etwa 150.000. Davon sind vergleichsweise nur wenige überhaupt für das bloße Auge sichtbar und bilden den typischen Fruchtkörper aus, den wir aus dem Wald kennen. Viele Pilze sind giftig, ungeniessbar und können Krankheiten auslösen. Die Substanzen, welche die Pilze abgeben, sind aber hochinteressant als Pharmazeutika und Chemikalien. Dazu zählen zum Beispiel Statine, eingesetzt als Blutdrucksenker, Cyclosporin, wichtig bei Organtransplantationen oder Drospirenone, die bei der Herstellung der Antibabypille verwendet werden. Um sie herzustellen, werden die Pilze in riesigen Bioreaktoren gezüchtet.
 
-> Für mich heisst das, es gibt nicht nur das Gute oder das Böse. Es gibt auch das Gute im Bösen oder das Böse im Guten. Es ist nicht immer schwarz oder weiss. Es gilt auch in der Bildung die Balance zu suchen und zu finden. Wir brauchen Ambiguitätstoleranz: Wir lernen mit dem Nichtwissen tanzen und dem Unbekannten jonglieren.
+> Für mich heisst das, es gibt nicht nur das Gute oder das Böse. Es gibt auch das Gute im Bösen oder das Böse im Guten. Es ist nicht immer schwarz oder weiss, gut oder schlecht. Es gilt auch in der Bildung die Balance zu suchen und zu finden. Wir brauchen Ambiguitätstoleranz: Wir lernen mit dem Nichtwissen tanzen und dem Unbekannten jonglieren.
 
 ![](folie12.jpg)
 
-Die Fähigkeit der Hefepilze, Kohlenhydrate zu Kohlendioxid und Alkohol umzusetzen, wird bei der Lebensmittelherstellung genutzt. Den Prozess nennt man Gärung. Bereits im antiken Ägypten wurde beim Brotbacken und Bierbrauen Hefe verwendet. Aber erst 1857 konnte der französische Mikrobiologe Louis Pasteur zeigen, dass ein kleines, einzelliges Lebewesen für den Gärungsprozess verantwortlich ist.
+Die Fähigkeit der Hefepilze, Kohlenhydrate zu Kohlendioxid und Alkohol umzusetzen, wird bei der Lebensmittelherstellung genutzt. Den Prozess nennt man Gärung. Bereits im antiken Ägypten wurde beim Brotbacken und Bierbrauen Hefe verwendet. Aber erst 1857 konnte der französische Mikrobiologe Louis Pasteur zeigen, dass ein kleines, einzelliges Lebewesen, der Hefepilz, für den Gärungsprozess verantwortlich ist.
 
 > In der beziehungsorientierten Bildung gilt: Kleine Dinge haben oft grosse Wirkung. Ein Lächeln, eine freundliche Stimme, ein lobendes Zunicken, ein interessiertes Zuhören oder ein Danke bewirken, dass sich im Gegenüber etwas entwickelt und wandelt.
 
 ![](folie13.jpg)
 
-Mykorrhizapilze zum Beispiel leben in Symbiose mit den Wurzeln höherer Pflanzen und versorgen unsere Waldbäume mit Wasser und Nährstoffen. Dabei erfüllen Pilze in der Natur enorm wichtige Funktionen: Über 90 % unserer Landpflanzen leben in enger Verbindung mit Pilzen, die bei deren Nährstoffaufnahme, Stressresistenz und Humusbildung eine zentrale Rolle spielen.
+Mykorrhizapilze leben in Symbiose mit den Wurzeln höherer Pflanzen. Dabei erfüllen Pilze in der Natur enorm wichtige Funktionen: Über 90 % unserer Landpflanzen leben in enger Verbindung mit Pilzen, die bei deren Nährstoffaufnahme, Stressresistenz und Humusbildung eine zentrale Rolle spielen und das Überleben sichern.
+
+> Wir sind aufeinander angewiesen, sind soziale Wesen, leben und lernen gerne in Gemeinschaft. Teilen, Teilhabe, Anteilnahme sind wichtige Grundsätze im Colearning. Wir gestalten aktiv Beziehungs- und Bindungsfähigkeit.
 
 ![](folie16.jpg)
 
