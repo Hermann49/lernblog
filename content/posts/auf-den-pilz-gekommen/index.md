@@ -79,7 +79,7 @@ Eine wichtige Randbemerkung: Unsere selber gezüchteten Edelpilze aus der Pilzfa
 
 ![](folie30.jpg)
 
-Da meint doch einer: Man kann alle Pilze essen - mache nur einmal.
+Da meinte doch einer: Man kann alle Pilze essen - manche nur einmal.
 
 > Wenn vieles nicht sicher ist,
 > dann ist alles möglich.
