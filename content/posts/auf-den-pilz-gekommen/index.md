@@ -16,17 +16,16 @@ kskkfkkkkfkkf
 
 skhkskcjskjksjksjk
 
-> <!--StartFragment-->
->
-> Wer bin ich?
->
-> Was bin ich?
->
-> Was kann ich?
->
-> Wohin gehöre ich?
->
-> <!--EndFragment-->
+<!--StartFragment-->
+
+Wer bin ich?
+Was bin ich?
+Was kann ich?
+Wohin gehöre ich?
+
+<!--EndFragment-->
+
+
 
 ![](folie7.jpg)
 
