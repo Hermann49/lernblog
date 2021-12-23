@@ -20,13 +20,9 @@ skhkskcjskjksjksjk
 
 kskdskjksjdksj
 
-
-
 ![](folie9.jpg)
 
 kkjksdjkjkdjksj
-
-
 
 ![](folie10.jpg)
 
@@ -36,19 +32,19 @@ ksjdkjskdjskdjk
 
 skjsjjkjjkjkjkll
 
-
-
 ![](folie13.jpg)
 
 hjshjhj
-
-
 
 ![](folie16.jpg)
 
 sjhdjshjsakdadlajsk
 
+![](folie15.jpg)
 
+,awdghsdhkdshh
+
+> kjkjkkkkjkjk
 
 ![](folie30.jpg)
 
