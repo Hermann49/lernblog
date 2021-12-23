@@ -49,10 +49,11 @@ Die 350 essbaren Pilzsorten, die es weltweit gibt, bilden nur einen Bruchteil de
 
 Die Fähigkeit der Hefepilze, Kohlenhydrate zu Kohlendioxid und Alkohol umzusetzen, wird bei der Lebensmittelherstellung genutzt. Den Prozess nennt man Gärung. Bereits im antiken Ägypten wurde beim Brotbacken und Bierbrauen Hefe verwendet. Aber erst 1857 konnte der französische Mikrobiologe Louis Pasteur zeigen, dass ein kleines, einzelliges Lebewesen für den Gärungsprozess verantwortlich ist.
 
+> In der beziehungsorientierten Bildung gilt: Kleine Dinge haben oft grosse Wirkung. Ein Lächeln, eine freundliche Stimme, ein lobendes Zunicken, ein interessiertes Zuhören oder ein Danke bewirken, dass sich im Gegenüber etwas entwickelt und wandelt.
 
 ![](folie13.jpg)
 
-hjshjhj
+Mykorrhizapilze zum Beispiel leben in Symbiose mit den Wurzeln höherer Pflanzen und versorgen unsere Waldbäume mit Wasser und Nährstoffen. Dabei erfüllen Pilze in der Natur enorm wichtige Funktionen: Über 90 % unserer Landpflanzen leben in enger Verbindung mit Pilzen, die bei deren Nährstoffaufnahme, Stressresistenz und Humusbildung eine zentrale Rolle spielen.
 
 ![](folie16.jpg)
 
