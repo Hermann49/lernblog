@@ -26,7 +26,7 @@ Pilze erfüllen eine wichtige Funktionen im Ökosystem. Sie zersetzen totes orga
 Als Myzel wird die Gesamtheit der fadenförmigen Zellen eines Pilzes bezeichnet. Meistens wird nur der Fruchtkörper als Pilz bezeichnet, wobei der eigentliche Pilz dieses unterirdische Geflecht aus Zellen ist. Sie können keine Energie aus Sonnenlicht gewinnen sondern sind auf organische Nährstoffe angewiesen. Sie nehmen die Nahrung durch die Zellwand auf. Dazu geben sie bestimmte Proteine oder Säuren an die Umgebung ab, zum Beispiel auf das Stück Holz, auf dem sie wachsen. So wird das organische Material zersetzt und der Pilz nimmt die dabei entstehenden Nährstoffe wieder auf.
 
 > Und immer wieder die Frage: Was steckt dahinter? darunter? 
-> So viel ist nicht bekannt. Das erfüllt mich mit DeMUT und Ehrfurcht
+> So vieles ist nicht bekannt. Das erfüllt mich mit DeMUT und Ehrfurcht
 > Wir sind miteinander verbunden
 > Zeig dich! 
 > Mach dich sichtbar!
@@ -42,9 +42,6 @@ Die Zellfäden, die Hyphen sind der eigentliche Pilz. Alexander Fleming bemerkte
 ![](folie10.jpg)
 
 Forschende nutzen dieses Prinzip für ihre eigenen Zwecke. Die Substanzen, welche die Pilze abgeben, sind nämlich teilweise hochinteressant als Pharmazeutika und Chemikalien. Dazu zählen zum Beispiel Statine (eingesetzt als Blutdrucksenker), Cyclosporin (wichtig bei Organtransplantationen) oder Drospirenone (Antibabypille). Um sie herzustellen, werden die Pilze in riesigen Bioreaktoren gezüchtet.
-
-
-
 
 ![](folie12.jpg)
 
