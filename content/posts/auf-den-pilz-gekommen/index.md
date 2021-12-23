@@ -10,7 +10,8 @@ Ich liebe Pilze, ich liebe bildliche Vergleiche und ich verknüpfe gerne meine E
 
 ![](folie5.jpg)
 
-Mit unserem Lernunternehmen "Pilzfarm" starten wir ein nachhaltiges Projekt. Die Idee: Mit dem Kaffeesatz aus der Effinger Kaffeebar züchten wir im Keller des Effingers Edelpilze und verkaufen unsere Produkte anschliessend wieder in der Kaffeebar. Wir lernen Pilze züchten und reflektieren begleitend unseren Lernprozess. Ich versuche mit diesem Blog ein paar Fakten über Pilze mit meinem Bild von Bildung zu verknüpfen. Fragend, behauptend und mit einem Lächeln stelle ich mein "Pilzsystem" vor.
+Mit unserem Lernunternehmen "Pilzfarm" starten wir ein nachhaltiges Projekt. Die Idee: Mit dem Kaffeesatz aus der Effinger Kaffeebar züchten wir im Keller des Effingers Edelpilze und verkaufen unsere Produkte anschliessend wieder in der Kaffeebar. Wir lernen Pilze züchten und reflektieren begleitend unseren Lernprozess. Unsere Herausforderung: Wie gelingt es uns, Arbeitswelt und Lernwelt miteinander zu verbinden? 
+Ich versuche mit diesem Blog ein paar Fakten über Pilze mit meinem Bild von Bildung zu verknüpfen. Fragend, behauptend und mit einem Lächeln stelle ich mein "Pilzsystem" vor.
 
 ![](folie6.jpg)
 
@@ -37,7 +38,7 @@ Die Zellfäden, die Hyphen sind der eigentliche Pilz. Alexander Fleming bemerkte
 
 > Unser Lernweg geht oft Umwege und man trifft auf viel Unbekanntes, Neues, Unerwartetes.
 > Misserfolge fordern heraus und führen zu ganz neuen entscheidenden Erkenntnissen.
-> Fehler machen gehört zum Forschen und Lernen und Denken.
+> Fehler machen gehört zum Forschen, Lernen und Denken, wie Salz und Pfeffer in einem feinen Pilzgericht.
 
 ![](folie10.jpg)
 
@@ -55,7 +56,7 @@ Die Fähigkeit der Hefepilze, Kohlenhydrate zu Kohlendioxid und Alkohol umzuse
 
 Mykorrhizapilze leben in Symbiose mit den Wurzeln höherer Pflanzen. Dabei erfüllen Pilze in der Natur enorm wichtige Funktionen: Über 90 % unserer Landpflanzen leben in enger Verbindung mit Pilzen, die bei deren Nährstoffaufnahme, Stressresistenz und Humusbildung eine zentrale Rolle spielen und das Überleben sichern.
 
-> Wir sind aufeinander angewiesen, sind soziale Wesen, leben und lernen gerne in Gemeinschaft. Teilen, Teilhabe, Anteilnahme sind wichtige Grundsätze im Colearning. Wir gestalten aktiv Beziehungs- und Bindungsfähigkeit.
+> Wir sind aufeinander angewiesen, sind soziale Wesen, leben und lernen gerne in Gemeinschaft. Teilen, Teilhabe, Anteilnahme sind wichtige Grundsätze im Colearning. Wir gestalten aktiv Beziehungs- und Bindungsfähigkeit. Menschen lernen von und mit Menschen.
 
 ![](folie16.jpg)
 
@@ -72,7 +73,7 @@ Nach der Reaktorkatastrophe in Tschernobyl fiel vor allem in den südlichen Alpe
 Eine wichtige Randbemerkung: Unsere selber gezüchteten Edelpilze aus der Pilzfarm im Effinger sind garantiert cäsiumfrei, frisch und gesund.
 
 > ACHTUNG!
-> Die Bildung, wie sie an vielen Schulen vermittelt wird, kann ihre Gesundheit gefährden. Fragen Sie Bildungsforscher\*innen und die Colearner\*innen im Coworking Effinger Bern.
+> Die Bildung, wie sie an vielen Schulen vermittelt wird, kann ihre Gesundheit gefährden. Fragen Sie Bildungsforscher:innen und die Colearner:innen im Coworking Effinger Bern.
 
 ![](folie30.jpg)
 
