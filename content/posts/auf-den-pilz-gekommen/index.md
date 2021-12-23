@@ -37,15 +37,18 @@ Die Zellfäden, die Hyphen sind der eigentliche Pilz. Alexander Fleming bemerkte
 
 > Unser Lernweg geht oft Umwege und man trifft auf viel Unbekanntes, Neues, Unerwartetes.
 > Misserfolge fordern heraus und führen zu ganz neuen entscheidenden Erkenntnissen.
-> Fehler machen gehört zum Forschen und Lernen.
+> Fehler machen gehört zum Forschen und Lernen und Denken.
 
 ![](folie10.jpg)
 
-Forschende nutzen dieses Prinzip für ihre eigenen Zwecke. Die Substanzen, welche die Pilze abgeben, sind nämlich teilweise hochinteressant als Pharmazeutika und Chemikalien. Dazu zählen zum Beispiel Statine (eingesetzt als Blutdrucksenker), Cyclosporin (wichtig bei Organtransplantationen) oder Drospirenone (Antibabypille). Um sie herzustellen, werden die Pilze in riesigen Bioreaktoren gezüchtet.
+Die 350 essbaren Pilzsorten, die es weltweit gibt, bilden nur einen Bruchteil der Artenvielfalt ab. Schätzungen gehen von 3,5 bis sechs Millionen aus. Wissenschaftlich beschrieben sind aktuell etwa 150.000. Davon sind vergleichsweise nur wenige überhaupt für das bloße Auge sichtbar und bilden den typischen Fruchtkörper aus, den wir aus dem Wald kennen. Viele Pilze sind giftig, ungeniessbar und können Krankheiten auslösen. Die Substanzen, welche die Pilze abgeben, sind aber hochinteressant als Pharmazeutika und Chemikalien. Dazu zählen zum Beispiel Statine, eingesetzt als Blutdrucksenker, Cyclosporin, wichtig bei Organtransplantationen oder Drospirenone, die bei der Herstellung der Antibabypille verwendet werden. Um sie herzustellen, werden die Pilze in riesigen Bioreaktoren gezüchtet.
+
+> Für mich heisst das, es gibt nicht nur das Gute oder das Böse. Es gibt auch das Gute im Bösen oder das Böse im Guten. Es ist nicht immer schwarz oder weiss. Es gilt auch in der Bildung die Balance zu suchen und zu finden. Wir brauchen Ambiguitätstoleranz: Wir lernen mit dem Nichtwissen tanzen und dem Unbekannten jonglieren.
 
 ![](folie12.jpg)
 
-skjsjjkjjkjkjkll
+Die Fähigkeit der Hefepilze, Kohlenhydrate zu Kohlendioxid und Alkohol umzusetzen, wird bei der Lebensmittelherstellung genutzt. Den Prozess nennt man Gärung. Bereits im antiken Ägypten wurde beim Brotbacken und Bierbrauen Hefe verwendet. Aber erst 1857 konnte der französische Mikrobiologe Louis Pasteur zeigen, dass ein kleines, einzelliges Lebewesen für den Gärungsprozess verantwortlich ist.
+
 
 ![](folie13.jpg)
 
