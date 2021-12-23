@@ -59,11 +59,18 @@ Mykorrhizapilze leben in Symbiose mit den Wurzeln höherer Pflanzen. Dabei erfü
 
 ![](folie16.jpg)
 
-sjhdjshjsakdadlajsk
+Pilze als Nahrungsmittel sind weltweit bekannt. Manche erinnern in Geschmack und Konsistenz sogar ein bisschen an Fleisch. Der Trend geht nun dahin, Fleischersatzprodukte aus Pilz-Myzel herzustellen. Das Pilzfleisch ist gesund, es enthält Proteine, Aminosäuren und Ballaststoffe. Der Fleischersatz aus dem Bioreaktor ist viel effizienter und nachhaltiger als das tierische Original. Für die gleiche Menge Protein aus Pilzen wird bei Rindfleisch zehnmal, bei Hühnerfleisch doppelt so viel Wasser verbraucht. Und: Die ersten Pilzfäden können bereits nach wenigen Stunden geerntet werden.
+Es lassen sich auch andere Produkte ersetzen, die eigentlich auf Erdöl als Rohstoff basieren. Zum Beispiel Plastik oder Styropor. Denn Pilzfäden können in beliebigen Formen wachsen, werden getrocknet und verarbeitet wie andere Materialien. Je nach Art und äusseren Bedingungen sind sie hart oder flexibel. Sie haben gute thermische Eigenschaften und könnten deshalb als Isolierung in Zügen, Autos, Flugzeugen oder Raumschiffen dienen. Oder als Verpackungsmaterial – im Gegensatz zum Styropor jedoch mit geringem CO2-Abdruck und 100 Prozent biologisch abbaubar.
+Mit den Chemikalien, die von den Pilzen produziert werden, können Medikamente oder Weichmacher hergestellt werden. Pilzfasern können beliebig geformt und weiterverarbeitet werden: Zu Schuhleder oder zu Bodenbelägen, ähnlich wie Linoleum, zu Wandverkleidungen, oder zu Stofffasern, ähnlich der Baumwolle. Dabei sind die Pilzprodukte in der Regel ökonomischer, nachhaltiger und biologisch abbaubar. Für ein Kilo Baumwolle beispielsweise gehen rund 10.000 Liter Wasser drauf. Die gleiche Menge Textilien aus Pilzen braucht nur 100 Liter.
+Den Pilz-Innovationen gehört die Zukunft. Denn im Gegensatz zu klassischen, erdölbasierten Stoffen gelten sie als nachwachsender Rohstoff, sind nachhaltig und biologisch abbaubar.
+
+> Lernen geschieht im HIER und JETZT und ÜBERALL und IMMER. Bildung im Colearning ist mit wenig Aufwand nachhaltig, umfassend, vielfach anwendbar, offen für Neues … Alles ist möglich!
 
 ![](folie15.jpg)
 
-,awdghsdhkdshh
+Fast die Hälfte der gejagten Wildschweine im Misox musste entsorgt werden. Der Cäsiumgehalt im Fleisch war für die Verwertung zu Nahrungsmittel zu hoch. 
+
+
 
 > kjkjkkkkjkjk
 
