@@ -16,14 +16,10 @@ Mit unserem Lernunternehmen "Pilzfarm" starten wir ein nachhaltiges Projekt. Die
 
 Pilze erfüllen eine wichtige Funktionen im Ökosystem. Sie zersetzen totes organisches Material wie Holz, Laub, Tierkadaver und halten so den Nährstoffkreislauf in Gang. Das feucht-warme Klima am Waldboden ist eine gute Ausgangslage für die Vermehrung. Pilze machen 40% der Biomasse der Erde aus. Pilze haben keine echten Wurzeln, keine Blätter und noch entscheidender: Pilze haben kein Blattgrün. Sie sind keine Pflanzen, keine Tiere, keine Bakterien, sondern bilden das eingeständige Reich der Pilze.
 
-<!--StartFragment-->
-
-Wer bin ich?
-Was bin ich?
-Was kann ich?
-Wohin gehöre ich?
-
-<!--EndFragment-->
+> Wer bin ich?
+> Was bin ich?
+> Was kann ich?
+> Wohin gehöre ich?
 
 ![](folie7.jpg)
 
