@@ -68,12 +68,12 @@ Den Pilz-Innovationen gehört die Zukunft. Denn im Gegensatz zu klassischen, erd
 
 ![](folie15.jpg)
 
-Fast die Hälfte der gejagten Wildschweine im Misox musste entsorgt werden. Der Cäsiumgehalt im Fleisch war für die Verwertung zu Nahrungsmittel zu hoch. 
+Nach der Reaktorkatastrophe in Tschernobyl fiel vor allem in den südlichen Alpentälern viel radioaktiver Regen, der bis heute in den Böden messbar ist. Pilze nehmen auch diese Stoffe auf und die Wildschweine, die gerne mit ihrer Schnauze im Boden wühlen und auch viel Pilzmyzel fressen nehmen neben anderen Schadstoffen auch das hochgiftige Cäsium auf: Fast die Hälfte der gejagten Wildschweine im Misox musste entsorgt werden. Der Cäsiumgehalt im Fleisch war zu hoch. 
 
-
-
-> kjkjkkkkjkjk
+> ACHTUNG!
+> Die Bildung, wie sie an vielen Schulen vermittelt wird, kann ihre Gesundheit gefährden. Fragen Sie Bildungsforscher\*innen und die Colearner\*innen im Coworking Effinger Bern.
 
 ![](folie30.jpg)
 
-kdfjkjkjkjk
+> Wenn vieles nicht sicher ist,
+> dann ist alles möglich.
