@@ -14,17 +14,24 @@ Mit unserem Lernunternehmen "Pilzfarm" starten wir ein nachhaltiges Projekt. Die
 
 ![](folie6.jpg)
 
-Pilze erfüllen eine wichtige Funktionen im Ökosystem. Sie zersetzen totes organisches Material wie Holz, Laub und halten so den Nährstoffkreislauf in Gang. Das feucht-warme Klima am Waldboden ist eine gute Ausgangslage für die Vermehrung. Pilze machen 40% der Biomasse der Erde aus. Pilze haben keine echten Wurzeln, keine Blätter und noch entscheidender: Pilze haben kein Blattgrün. Sie sind keine Pflanzen, keine Tiere, keine Bakterien, sondern bilden das eingeständige Reich der Pilze.
+Pilze erfüllen eine wichtige Funktionen im Ökosystem. Sie zersetzen totes organisches Material wie Holz, Laub, Tierkadaver und halten so den Nährstoffkreislauf in Gang. Das feucht-warme Klima am Waldboden ist eine gute Ausgangslage für die Vermehrung. Pilze machen 40% der Biomasse der Erde aus. Pilze haben keine echten Wurzeln, keine Blätter und noch entscheidender: Pilze haben kein Blattgrün. Sie sind keine Pflanzen, keine Tiere, keine Bakterien, sondern bilden das eingeständige Reich der Pilze.
+
 <!--StartFragment-->
+
 Wer bin ich?
 Was bin ich?
 Was kann ich?
 Wohin gehöre ich?
+
 <!--EndFragment-->
 
 ![](folie7.jpg)
 
-kskdskjksjdksj
+Als Myzel wird die Gesamtheit aller fadenförmigen Zellen eines Pilzes bezeichnet. Meistens wird nur der Fruchtkörper als Pilz bezeichnet, wobei der eigentliche Pilz dieses unterirdische Geflecht aus Zellen ist. Sie können keine Energie aus Sonnenlicht gewinnen sondern sind auf organische Nährstoffe angewiesen. Sie nehmen die Nahrung durch die Zellwand auf. Dazu geben sie bestimmte Proteine oder Säuren an die Umgebung ab, also zum Beispiel auf das Stück Holz, auf dem sie wachsen. So wird das organische Material zersetzt und der Pilz nimmt die dabei entstehenden Nährstoffe wieder auf.
+
+> Und immer wieder die Fragen: Was steckt dahinter? darunter? 
+> Zeig dich! 
+> Mach dich sichtbar!
 
 ![](folie9.jpg)
 
