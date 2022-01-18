@@ -19,4 +19,10 @@ Auch das berühmte Milgram-Experiment von 1961 erwies sich im Nachhinein als man
 
 ![](im-grunde-gut-4.jpg)
 
-Die meisten Menschen verhalten sich in einer Katastrophensituation alles andere als egoistisch. Im Gegenteil: Gerade in der Krise offenbare sich unsere hilfsbereite Natur. Auch im Alltäglichen gibt es etliche freundliche Gesten, mitfühlende Worte oder Taten. Aber all das Positive, das uns Tag für Tag umgibt, sehen wir nicht. Es sei ja auch keine Sensation, sondern einfach normal, fast ein bisschen langweilig, so Bregman.
+Die meisten Menschen verhalten sich in einer Katastrophensituation alles andere als egoistisch. Im Gegenteil: Gerade in der Krise offenbare sich unsere hilfsbereite Natur. Auch im Alltäglichen gibt es etliche freundliche Gesten, mitfühlende Worte oder Taten. Aber all das Positive, das uns Tag für Tag umgibt, sehen wir nicht. Es sei ja auch keine Sensation, sondern einfach normal. Diese Geschichten sind zu langweilig, um sie packend erzählen zu können. Versuche, sie zu verfilmen, würden ein Flop. Das ist keine Überraschung, denn wir sind uns gewohnt, Sensationen und spannende, sogar schockierende Geschichten zu hören. Wenn man uns liesse, wären wir freundlich, sozial, mitfühlend, solidarisch, friedliebend, kooperativ. Immer mehr Wissenschaften und 
+historische Erfahrungen bestätigen heute, dass wir einander vertrauen und zuversichtlich kommunizieren wollen.
+
+![](im-grunde-gut-3.jpg)$
+
+Der Mensch ist nach Bregmann das einzige Lebewesen, das Scham zeigen kann. Wenn wir erröten, signalisieren wir damit unseren Mitmenschen, dass es uns wichtig ist, was sie von uns denken. So kann Vertrauen entstehen. Auch andere Emotionen zeigen sich in unseren Gesichtern. Dazu passend haben wir enorme Fähigkeiten ausgebildet, solche Signale zu deuten. Wir sind also eine äußerst offenherzige Spezies. Diese Offenheit macht uns extrem sozial – und hat uns einen enormen evolutionären Vorteil verschafft: die Fähigkeit zum sozialen Lernen. Durch Kooperation sind wir also klug geworden. 
+Diese typisch soziale Fähigkeit zeigt, dass uns wichtig ist, was andere denken. Das wiederum schafft Vertrauen und verbessert die Zusammenarbeit. So lernen wir voneinander und sind klüger als andere Arten. Kurzum: Der Mensch ist in der Gemeinschaft stark und konnte sich deshalb in der Evolution durchsetzen.
