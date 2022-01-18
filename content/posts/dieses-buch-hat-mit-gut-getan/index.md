@@ -4,5 +4,6 @@ date = "2022-01-18"
 draft = true
 pinned = false
 image = "im-grunde-gut.jpg"
+description = "Letztlich gibt es nur wenige Vorstellungen, die die Welt so sehr beeinflussen wie unser Menschenbild. Was wir voneinander annehmen, ist das, was wir hervorrufen“ schreibt Rutger Bregmann in seinem Buch, IM GRUNDE GUT. Die Herausforderungen unserer Zeit könnten laut ihm nur mit der Entwicklung eines anderen Menschenbildes bewältigt werden.\n"
 +++
-Selten hat ein Buch
+Rutger Bregmann appelliert an seine Leser*innen, sich zurückzubesinnen auf das, was uns ausmacht: unsere Fähigkeit zu Empathie und sozialem Handeln. Er rät aufeinander zuzugehen und sich gegenseitig zuzuhören. Zuviel schlechte Nachrichten zu meiden und stattdessen die guten zu suchen. Dann können wir gemeinsam nach und nach unser Menschenbild umkrempeln.
