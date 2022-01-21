@@ -32,7 +32,7 @@ Mit seinem Buch lenkt er unsere Aufmerksamkeit auf diese Seite der menschlichen 
 
 ![](im-grunde-gut-8.jpg)
 
-Eine wichtige Erkenntnis, die mir aus dem Buch bleibt, ist, dass vieles mit meiner Sicht auf die Welt zu tun hat. Und so will ich einige Hinweise, die Bregman am Schluss seines Buches unter **Lebensregeln für ein realistisches Menschenbild** vorstellt, in Zukunft stärker beachten:
+Eine wichtige Erkenntnis, die mir aus dem Buch bleibt, ist, dass vieles mit meiner Sicht auf die Welt zu tun hat. Und so will ich einige Hinweise, die Bregman am Schluss seines Buches unter **Lebensregeln für ein realistisches Menschenbild** vorstellt, in Zukunft noch stärker beachten:
 
 * Geh im Zweifelsfall vom Guten im Menschen aus. 
 * Denke in win-win-Szenarien. Helfen lohnt sich, da du auch selbst profitierst.
@@ -42,4 +42,4 @@ Eine wichtige Erkenntnis, die mir aus dem Buch bleibt, ist, dass vieles mit mein
 * Du darfst ruhig deine Nächsten gegenüber Fremden bevorzugen. Alles andere wäre unnatürlich.
 * Beschränke deine Nachrichtenkonsum. News machen süchtig und unglücklich.
 
-Mit dem letzten habe ich gerade begonnen und 2 News-Apps auf meinem Handy gelöscht. Es fühlt sich gut an. Ich bin stolz.
+Den letzten Tipp habe ich gerade umgesetzt und 3 News-Apps auf meinem Handy gelöscht. Es fühlt sich gut an. Ich bin stolz.
