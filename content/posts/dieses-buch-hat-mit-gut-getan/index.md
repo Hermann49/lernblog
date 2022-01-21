@@ -16,7 +16,7 @@ Bregman hat unzählige Studien zum menschlichen Verhalten kritisch überprüft u
 
 ![](im-grunde-gut-5.jpg)
 
-Die Nachrichten sind voll von Gewalt und Katastrophen. Laut Rutger Bregman sei das ein Grund dafür, warum die Mehrheit von uns davon ausgeht, wir Menschen seien von Natur aus böse, aggressiv und egoistisch. Doch was in den Medien erscheint, sind Ausnahmen und es würde ein völlig falsches Menschenbild vermittelt. Nach dem verheerenden Hurrikan Katrina berichteten viele Medien von Gewaltexzessen in New Orleans. Wie sich aber später zeigte, gab es vielmehr eine grosse Welle der Hilfsbereitschaft – über die wurde jedoch nicht berichtet. Oder das Stanford-Prison-Experiment: Die Wärter handelten oft nicht aus freien Stücken, sondern wurden zu gewalttätigem Handeln gedrängt. Als die BBC das Experiment 2001 unter kontrollierten Bedingungen wiederholte, zeigte sich, dass die Teilnehmer sich ganz anders verhielten, sich sogar miteinander verbrüderten. Auch das berühmte Milgram-Experiment von 1961 erwies sich nach Bergman als manipuliert. In dieser Studie sollten die Teilnehmer anderen Versuchspersonen schwere bis tödliche Stromstöße geben und man wollte beweisen, dass aus jedem Normalbürger unter den richtigen Bedingungen ein Henker werden konnte. Später zeigte sich, dass tatsächlich fast die Hälfte der Teilnehmer annahm, die Situation sei nicht echt. Auch beklagten sie sich, dass Milgram die Testpersonen zum Teil aggressiv bedrängte.
+Die Nachrichten sind voll von Gewalt und Katastrophen. Laut Rutger Bregman sei das ein Grund dafür, warum die Mehrheit von uns davon ausgeht, wir Menschen seien von Natur aus böse, aggressiv und egoistisch. Doch was in den Medien erscheint, sind Ausnahmen und es würde ein völlig falsches Menschenbild vermittelt. Nach dem verheerenden Hurrikan Katrina berichteten viele Medien von Gewaltexzessen in New Orleans. Wie sich aber später zeigte, gab es vielmehr eine grosse Welle der Hilfsbereitschaft – über die wurde jedoch nicht berichtet. Oder das Stanford-Prison-Experiment: Die Wärter handelten oft nicht aus freien Stücken, sondern wurden zu gewalttätigem Handeln gedrängt. Als die BBC das Experiment 2001 unter kontrollierten Bedingungen wiederholte, zeigte sich, dass die Teilnehmer sich ganz anders verhielten, sich sogar miteinander verbrüderten. Auch das berühmte Milgram-Experiment von 1961 erwies sich nach Bergman als manipuliert. In dieser Studie sollten die Teilnehmer anderen Versuchspersonen schwere bis tödliche Stromstöße geben und man wollte beweisen, dass aus jedem Normalbürger unter den richtigen Bedingungen ein Henker werden konnte. Später zeigte sich, dass tatsächlich fast die Hälfte der Teilnehmer annahm, die Situation sei nicht echt. Auch beklagten sie sich, dass Milgram die Testpersonen zum Teil aufdringlich bedrängte.
 
 ![](im-grunde-gut-4.jpg)
 
@@ -30,4 +30,16 @@ Der Mensch ist nach Bregmann das einzige Lebewesen, das Scham zeigten kann. Wenn
 
 Mit seinem Buch lenkt er unsere Aufmerksamkeit auf diese Seite der menschlichen Existenz und schreibt von einer neuen Geschichte der Menschheit. Er untersuchte und dokumentierte dies auf Grundlage vieler Studien, die zum menschlichen Verhalten durchgeführt wurden, die die solidarische Grundeinstellung und Freundlichkeit des Menschen nachweisen. Immer mehr Wissenschaften und historische Erfahrungen bestätigen, dass wir einander grundsätzlich vertrauen, dass wir zuversichtlich sind und miteinander kommunizieren wollen.
 
-![](im-grunde-gut-7.jpg)
+![](im-grunde-gut-8.jpg)
+
+Eine wichtige Erkenntnis, die mir aus dem Buch bleibt, ist, dass vieles mit meiner Sicht auf die Welt zu tun hat. Und so will ich einige Hinweise, die Bregman am Schluss seines Buches unter **Lebensregeln für ein realistisches Menschenbild** vorstellt, in Zukunft stärker beachten:
+
+* Geh im Zweifelsfall vom Guten im Menschen aus. 
+* Denke in win-win-Szenarien. Helfen lohnt sich, da du auch selbst profitierst.
+* Sei großzügig, gütig und freundlich – und steh dazu. Das wirkt ansteckend. Es fühlt sich gut an, weil es gut ist. 
+* Trainiere dein Mitgefühl. Wenn du zu empathisch bist, verstrickst du dich in Einzelperspektiven – das lähmt. 
+* Vermeide Schubladen. Höre anderen zu und versuche, sie zu verstehen, auch wenn du kein Verständnis aufbringen kannst.
+* Du darfst ruhig deine Nächsten gegenüber Fremden bevorzugen. Alles andere wäre unnatürlich.
+* Beschränke deine Nachrichtenkonsum. News machen süchtig und unglücklich.
+
+Mit dem letzten habe ich gerade begonnen und 2 News-Apps auf meinem Handy gelöscht. Es fühlt sich gut an. Ich bin stolz.
