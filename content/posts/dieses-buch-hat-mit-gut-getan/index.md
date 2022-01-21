@@ -29,3 +29,5 @@ Der Mensch ist nach Bregmann das einzige Lebewesen, das Scham zeigten kann. Wenn
 > Wenn man uns liesse, wären wir freundlich, sozial, mitfühlend, solidarisch, friedliebend und kooperativ.
 
 Mit seinem Buch lenkt er unsere Aufmerksamkeit auf diese Seite der menschlichen Existenz und schreibt von einer neuen Geschichte der Menschheit. Er untersuchte und dokumentierte dies auf Grundlage vieler Studien, die zum menschlichen Verhalten durchgeführt wurden, die die solidarische Grundeinstellung und Freundlichkeit des Menschen nachweisen. Immer mehr Wissenschaften und historische Erfahrungen bestätigen, dass wir einander grundsätzlich vertrauen, dass wir zuversichtlich sind und miteinander kommunizieren wollen.
+
+![](im-grunde-gut-7.jpg)
