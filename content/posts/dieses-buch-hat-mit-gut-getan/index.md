@@ -1,7 +1,7 @@
 +++
 title = "Dieses Buch hat mit gut getan"
 date = "2022-01-18"
-draft = true
+draft = false
 pinned = false
 image = "im-grunde-gut.jpg"
 description = "Letztlich gibt es nur wenige Vorstellungen, die die Welt so sehr beeinflussen wie unser Menschenbild. Was wir voneinander annehmen, ist das, was wir hervorrufen, schreibt Rutger Bregmann in seinem neuen Buch, IM GRUNDE GUT. Die Herausforderungen unserer Zeit könnten laut ihm nur mit der Entwicklung eines anderen Menschenbildes bewältigt werden."
