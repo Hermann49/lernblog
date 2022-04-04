@@ -63,4 +63,8 @@ Seit Januar 22 habe ich sehr viel gelernt.
 •	Ich kann abklären
 •	Ich halte Verpflichtungen ein
 •	Ich kann andere für unser Pilzfarmprojekt begeistern
-•	Ich kann viel über unser Lernunternehmen pilzfarm.be erzählen
+•	Ich kann viel über unser Lernunternehmen **pilzfarm.be** erzählen
+
+![](ich-kann-das.jpg)
+
+**Ich kann heute so vieles so viel besser.  Und das tut gut.**
