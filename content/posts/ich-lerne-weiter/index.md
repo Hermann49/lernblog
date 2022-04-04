@@ -1,7 +1,7 @@
 +++
 title = "Ich lerne weiter"
 date = "2022-04-04"
-draft = true
+draft = false
 pinned = false
 image = "ich-will-ich-kann-ich-mache.jpg"
 description = "Seit Januar 22 bin ich Teil des Lernunternehmens pilzfarm.be im Colearning Bern im Coworking Space Effinger\nSeit Januar 22 habe ich sehr viel gelernt. Ich kann heute so vieles so viel besser. \n"
