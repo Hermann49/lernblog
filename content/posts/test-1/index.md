@@ -1,7 +1,7 @@
 +++
 title = "befreit Lernen – das Lernen befreien "
-date = "2022-11-02"
-draft = true
+date = "2022-11-01"
+draft = false
 pinned = false
 image = "bild4.png"
 description = "Ich stelle mich der Colearning-Herausforderung, im Monat November jeden Tag einen kurzen Blogeintrag zu verfassen, frei nach meinem Motto: kek -> kurz, einfach, klar.\nIch will mich vom Zwang befreien, perfekt, viel und tiefgründig zu schreiben.\n"
