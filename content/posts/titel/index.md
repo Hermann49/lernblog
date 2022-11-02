@@ -6,7 +6,8 @@ pinned = false
 image = "spielende-kinder.jpg"
 description = "Peter Gray: Wenn Kindern die Freiheit und die Mittel gegeben werden, ihre eigenen Interessen in einer sicheren Umgebung zu verfolgen, dann blühen sie auf, entwickeln sich entlang vielfältiger und unvorhersehbarer Pfade und erwerben sich die nötigen Fähigkeiten und das nötige Selbstvertrauen, um die Heraus-forderungen des Lebens zu meistern."
 +++
-Ich bin in die Lektüre "befreit Lernen" eingetaucht: 
+Ich bin in die Lektüre "befreit Lernen" eingetaucht:
+ 
 Kapitel 1: ***Was haben wir der Kindheit angetan?*** 
 
 Das Buch beginnt mit einer Rückblende auf eigene Kindheiten und einer massiven Kritik an unserer heutigen Einstellung zur Bildung bei Kindern. 
