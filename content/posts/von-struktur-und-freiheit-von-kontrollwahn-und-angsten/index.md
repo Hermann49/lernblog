@@ -17,7 +17,9 @@ Was die Leistung verbessert, wird als Bildung verstanden so auch das Üben, das 
 Die meisten Freizeitangebote sind von Erwachsenen geleitete Aktivitäten. Mit dieser Überbetreuung, mit diesen vermeintlich hilfreichen Angeboten, mit diesen organisierten Freizeiten vermischt mit der Angst, dass wenn die Kinder nicht betreut, beobachtet oder begleitet werden, etwas Schlimmes passieren könnte, nehmen wir den Kindern etwas weg, das sie besser auf das Leben vorbreitet: Das freie Spielen.
 **Mein Fazit:** Unser Schulsystem hat sich verrannt, ist am Anschlag, ist teuer und produziert jede Menge Probleme, die wir nicht hätten, wenn wir befreit Lernen würden, wenn wir das Lernen aus den Fängen der Schule befreien würden.
 Für heute ist genug gelästert und geschimpft. 
+
 Was jetzt? 
+
 Dieses Zitat aus einer Colearning-Präsentation ist eine mögliche Antwort.
 
 ![](bild4.png)
