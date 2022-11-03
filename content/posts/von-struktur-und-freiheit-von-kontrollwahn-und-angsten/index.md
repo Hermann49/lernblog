@@ -15,9 +15,9 @@ Eltern bekommen ein schlechtes Gewissen, wenn die Hausaufgaben schlecht oder nur
 Ein weiters Übel ist unsere Mess- und Vergleichskultur. Gut ist, was gemessen und evaluiert werden kann. Was zählt ist Leistung, die beziffert wird und mit denen dann verglichen werden kann. Schüler:innen, Schulen, Kantone, ja ganze Nationen, um festzustellen, wer besser und wer schlechter ist. Kinder sind, nach Peter Gray Spielbälle in einem Wettbewerb, in dem Erwachsene um sie herum versuchen bei Tests und Prüfungen die höchstmögliche Punktzahl aus ihnen herauszupressen. 
 Was die Leistung verbessert, wird als Bildung verstanden so auch das Üben, das die Aufnahme prüfungsrelevanter Informationen ins Gedächtnis verbessern soll. Auch wenn diese Aufgaben überhaupt keinen Beitrag zum wirklichen Verständnis der Sachverhalte leistet. Und dann meint Gray noch, dass in den Augen vieler Eltern und Pädagogen die Kindheit weniger dem Lernen als dem Optimieren des Lebenslaufs dient. 
 Die meisten Freizeitangebote sind von Erwachsenen geleitete Aktivitäten. Mit dieser Überbetreuung, mit diesen vermeintlich hilfreichen Angeboten, mit diesen organisierten Freizeiten vermischt mit der Angst, dass wenn die Kinder nicht betreut, beobachtet oder begleitet werden, etwas Schlimmes passieren könnte, nehmen wir den Kindern etwas weg, das sie besser auf das Leben vorbreitet: Das freie Spielen.
-Mein Fazit: Unser Schulsystem hat sich verrannt, ist am Anschlag, ist teuer und produziert jede Menge Probleme, die wir nicht hätten, wenn wir befreit Lernen würden, wenn wir das Lernen aus den Fängen der Schule befreien würden.
+**Mein Fazit:** Unser Schulsystem hat sich verrannt, ist am Anschlag, ist teuer und produziert jede Menge Probleme, die wir nicht hätten, wenn wir befreit Lernen würden, wenn wir das Lernen aus den Fängen der Schule befreien würden.
 Für heute ist genug gelästert und geschimpft. 
 Was jetzt? 
-Ein Zitat aus einer unserer Colearning-Präsentationen könnte eine mögliche Antwort sein:
+Dieses Zitat aus einer Colearning-Präsentation ist eine mögliche Antwort.
 
 ![](bild4.png)
