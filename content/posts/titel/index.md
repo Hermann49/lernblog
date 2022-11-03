@@ -4,7 +4,8 @@ date = "2022-11-02"
 draft = false
 pinned = false
 image = "spielende-kinder.jpg"
-description = "Peter Gray: Wenn Kindern die Freiheit und die Mittel gegeben werden, ihre eigenen Interessen in einer sicheren Umgebung zu verfolgen, dann blühen sie auf, entwickeln sich entlang vielfältiger und unvorhersehbarer Pfade und erwerben sich die nötigen Fähigkeiten und das nötige Selbstvertrauen, um die Heraus-forderungen des Lebens zu meistern."
+description = "Peter Gray: Wenn Kindern die Freiheit und die Mittel gegeben werden, ihre eigenen Interessen in einer sicheren Umgebung zu verfolgen, dann blühen sie auf, entwickeln sich entlang vielfältiger und unvorhersehbarer Pfade und erwerben sich die nötigen Fähigkeiten und das nötige Selbstvertrauen, um die Herausforderungen des Lebens zu meistern."
+footnotes = "Bilder aus dem Netz"
 +++
 Ich bin in die Lektüre "befreit Lernen" eingetaucht:
  
