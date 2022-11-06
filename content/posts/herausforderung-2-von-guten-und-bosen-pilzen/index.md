@@ -10,7 +10,7 @@ Colearning Bern betreibt in den Kellerräumen des Effingers eine Pilzfarm. Wir b
 
 ![](bild2.jpg)
 
-Wir haben unsere Pilzzucht so optimiert, dass wir aus jedem 3kg-Substratbeutel mindestens 700g bis 1kg qualitativ hochwertige Ulmenseitlinge ernten und verkaufen konnten. Wir haben unseren Arbeitsaufwand so reduziert, dass wir die Farmingstunden zu zweit bewältigten. Es gelang uns, das Wachstum so zu steuern, dass wir eine Woche im Voraus wussten, wie viele Pilze nächste Woche geerntet werden können und haben 3 Gastrounternehmen gefunden, die uns Pilze abkaufen. Es ist uns gelungen mehrere Fruchtungsphasen einzuleiten und zu timen. Wir haben kaum Ausfälle und Mindertrag wegen schlechtem Farming oder mangelnder Hygiene Die Freude am Züchten ist durch den Erfolg im Effingerkeller mit den nicht optimalen Bedingungen gewachsen. Es haben sich 3 Personen gemeldet, die ihr Interesse an der Pilzfarm haben und uns in Zukunft aktiv unterstützen wollen.
+Wir haben unsere Pilzzucht so optimiert, dass wir aus jedem 3kg-Substratbeutel mindestens 700g bis 1kg qualitativ hochwertige Ulmenseitlinge ernten und verkaufen konnten. Wir haben unseren Arbeitsaufwand so reduziert, dass wir die Farmingstunden zu zweit bewältigten. Es gelang uns, das Wachstum so zu steuern, dass wir eine Woche im Voraus wussten, wie viele Pilze nächste Woche geerntet werden können und haben 3 Gastrounternehmen gefunden, die uns Pilze abkaufen. Es ist uns gelungen mehrere Fruchtungsphasen einzuleiten und zu timen. Wir hatten kaum Ausfälle und Mindertrag wegen schlechtem Farming oder mangelnder Hygiene Die Freude am Züchten ist durch den Erfolg im Effingerkeller mit den nicht optimalen Bedingungen gewachsen. Es haben sich 3 Personen gemeldet, die ihr Interesse an der Pilzfarm haben und uns in Zukunft aktiv unterstützen wollen.
 
 ![](bild3.jpg)
 
@@ -28,7 +28,7 @@ Und da waren noch die schwarzen Flecken an der einen Kellerwand. Wir haben einen
 
 Wir sammeln 100 Haferdrinkbeutel, waschen sie, schneiden sie auf, falten einen einfachen Rand, schneiden ein viereckiges Fenster in eine Seite, füllen einen Gefrierbeutel mit unserem bewährten Buchenholz-Effinger-Kaffeesatz-Substrat, stecken den Sack in die Haferdrinkbeutel und ein kleines Fenster erlaubt, dass das Myzel noch genügend Sauerstoff bekommt. Eine Infoetikette auf der Haferdrinkbox informiert über unser Lernunternehmen.
 
-Warten 
+Warten und hoffen 
 
 Nach 2 bis 3 Wochen in der Finsternis und angenehmer Temperatur hat das Myzel das Substrat vollständig durchwachsen und ist bereit für die Fruchtkörperbildung. Jetzt können wir die Pilzboxen verkaufen, denn für das weitere Wachstum braucht es nur Tageslicht, ein bisschen Feuchtigkeit und etwas Geduld. Nach 2 Wochen wachsen die Ulmenseitlinge aus dem Haferdrinkbeutel heraus und können geentete und genossen werden.
 
