@@ -9,7 +9,9 @@ footnotes = "Bildquelle: digitalhoch4"
 +++
 Ich habe gemerkt, dass ich Herausforderungen liebe. Für mich ist Lernen und das damit verbundene Sich-Verändern ein Ausdruck von sinnvollem Leben. Herausforderungen bewegen mich, machen mich agil und ich bleibe so auch ein interessanter Mitarbeiter im Effinger. 
 Meine Lebenserfahrungen, meine Gelassenheit, mein Können und mein Selbstvertrauen werden geschätzt und ich kann mit anderen zusammen auch anspruchsvolle Aufgaben lösen. Ich habe schon viele Herausforderungen gemeistert und bin stolz, wenn ich noch heute etwas machen kann, das ich bis jetzt noch nie gemacht habe. 
+
 **Woher ich diese Zuversicht habe? Dieses positive Denken?**
+
 Es sind meine Selbstwirksamkeitsüberzeugungen: 
 
 > Ich weiss, ich kann auch eine ungünstige Situation verstehen und verbessern. Ich sehe in Herausforderungen auch Sinnvolles, zum Leben und Lernen gehörendes. 
