@@ -14,7 +14,8 @@ Wir konnten unsere Pilzzucht so optimieren, dass wir aus jedem 3kg-Substratbeute
 
 ![](bild1.jpg)
 
-Und da waren noch die schwarzen Flecken an der einen Kellerwand. Wir haben einen Experten eingeladen und wollten vor einer fälligen Erweiterung wissen, was bedeutet eine Pilzproduktion für den Keller im Allgemeinen und welchen Einfluss haben die mutmasslichen Schimmelpilze auf unsere Pilzproduktion. Das Resultat dieser ersten kurzen Begehung war ernüchternd: Die schwarzen Flecken sind schwarzer Schimmelpilz und der gilt allgemein als giftig. Es ist eine Schimmelart, die zu Allergien, Augenrötungen, Atemnot und anderen Symptomen führen kann. Eine Minisanierung ohne Garantie auf längeren Erfolg würde Fr.5000.- und mehr kosten. Für uns Pilzfarmer:innen nicht finanzierbar. Was jetzt? 
+Und da waren noch die schwarzen Flecken an der einen Kellerwand. Wir haben einen Experten eingeladen und wollten vor einer fälligen Erweiterung wissen, was bedeutet eine Pilzproduktion für den Keller im Allgemeinen und welchen Einfluss haben die mutmasslichen Schimmelpilze auf unsere Pilzproduktion. Das Resultat dieser ersten kurzen Begehung war ernüchternd: Die schwarzen Flecken sind schwarzer Schimmelpilz und der gilt allgemein als giftig. Es ist eine Schimmelart, die zu Allergien, Augenrötungen, Atemnot und anderen Symptomen führen kann. Eine Minisanierung ohne Garantie auf längeren Erfolg würde Fr.5000.- und mehr kosten. Für uns Pilzfarmer:innen nicht finanzierbar. 
+Was jetzt? 
 
 1. Schritt: Wir haben unsere Pilzproduktion im Keller heruntergefahren und dann ganz eingestellt. 
 2. Schritt: Wir lassen uns unsere Begeisterung und Faszination für Pilze nicht von einem anderen Pilz nehmen. 
@@ -22,3 +23,5 @@ Und da waren noch die schwarzen Flecken an der einen Kellerwand. Wir haben einen
 4. Schritt: Wir suchen nach alternativen Pilzzuchtmöglichkeiten.
 5. Schritt: Wir finden eine andere Pilzzuchtform
 6. Schritt Wir produzieren jetzt Pilze in einer Haferdrink-Box
+
+   ![](pizbox.jpg)
