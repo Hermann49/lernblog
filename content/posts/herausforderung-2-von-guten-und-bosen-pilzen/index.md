@@ -26,16 +26,18 @@ Und da waren noch die schwarzen Flecken an der einen Kellerwand. Wir haben einen
 
    ![](pizbox.jpg)
 
-Wir sammeln 100 Haferdrinkbeutel, waschen sie, schneiden sie auf, falten einen einfachen Rand, schneiden ein viereckiges Fenster in eine Seite, füllen einen Gefrierbeutel mit unserem bewährten Buchenholz-Effinger-Kaffeesatz-Substrat, stecken den Sack in die Haferdrinkbeutel und ein kleines Fenster erlaubt, dass das Myzel noch genügend Sauerstoff bekommt. Eine Infoetikette auf der Ha-ferdrinkbox informiert über unser Lernunternehmen.
-Nun heisst es warten. Nach 2 bis 3 Wochen in der Finsternis und angenehmer Temperatur hat das Myzel das Substrat vollständig durchwachsen und ist bereit für die Fruchtkörperbildung. Jetzt können wir die Pilzboxen verkaufen denn für das weitere Wachstum braucht es nur Tageslicht, ein bisschen Feuchtigkeit und etwas Geduld. Nach 2 Wochen wachsen die Ulmenseitlinge aus dem Haferdrinkbeutel heraus und können geentete und genossen werden.
-   So hat uns der Schimmelbefall herausgefordert und uns zu ganz neuen Ansätzen und Lösungen verholfen. 
-   •	Dank der Pilzbox können wir mit unserer Pilzzucht weiterfahren.
-   •	Unser Lernunternehmen wird sichtbar, zeigt, was wir bisher versteckt im Effingerkeller pro-duziert haben.
-   •	Wir können unsere Begeisterung für Pilze mit anderen teilen.
-   •	Wir können für unser Lernunternehmen werben und weitere Mitarbeiter:innen gewinnen
-   •	Wir können weiter experimentieren, forschen und die Pilze noch besser verstehen.
-   Die Krise als Chance. Wie wahr!
+Wir sammeln 100 Haferdrinkbeutel, waschen sie, schneiden sie auf, falten einen einfachen Rand, schneiden ein viereckiges Fenster in eine Seite, füllen einen Gefrierbeutel mit unserem bewährten Buchenholz-Effinger-Kaffeesatz-Substrat, stecken den Sack in die Haferdrinkbeutel und ein kleines Fenster erlaubt, dass das Myzel noch genügend Sauerstoff bekommt. Eine Infoetikette auf der Haferdrinkbox informiert über unser Lernunternehmen.
 
-6.
-7.
-8.
+Warten 
+
+Nach 2 bis 3 Wochen in der Finsternis und angenehmer Temperatur hat das Myzel das Substrat vollständig durchwachsen und ist bereit für die Fruchtkörperbildung. Jetzt können wir die Pilzboxen verkaufen, denn für das weitere Wachstum braucht es nur Tageslicht, ein bisschen Feuchtigkeit und etwas Geduld. Nach 2 Wochen wachsen die Ulmenseitlinge aus dem Haferdrinkbeutel heraus und können geentete und genossen werden.
+
+So hat uns der Schimmelbefall herausgefordert und uns zu ganz neuen Ansätzen und Lösungen verholfen. 
+
+* Dank der Pilzbox können wir mit unserer Pilzzucht weiterfahren.
+* Unser Lernunternehmen wird sichtbar, zeigt, was wir bisher versteckt im Effingerkeller produziert haben.
+* Wir können unsere Begeisterung für Pilze mit anderen teilen.
+* Wir können für unser Lernunternehmen werben und weitere Mitarbeiter:innen gewinnen
+* Wir können weiter experimentieren, forschen und die Pilze noch besser verstehen.
+
+**Die Krise als Chance. Wie wahr!**
