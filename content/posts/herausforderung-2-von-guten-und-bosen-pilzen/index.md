@@ -8,7 +8,7 @@ description = "Schwarzer Schimmel gilt allgemein als giftig. Es ist eine Schimme
 +++
 Colearning Bern betreibt in den Kellerräumen des Effingers eine Pilzfarm. Wir bauen mitten in der Stadt Bern eine Pilzproduktion auf und lassen Edelpilze auf Buchenbriketts und hauseigenem Kaffeesatz wachsen. So wird ein Reststoff zu einem Rohstoff für ein hochwertiges Nahrungsmittel. Das Lernunternehmen ist der Versuch, Lernen als integralen Teil von Arbeit zu erfahren und ver-bindet auf neue Art Arbeit und Lernen. Nach einer halbjährigen Experimentierphase haben wir im Juni beschlossen richtig ins Pilze züchten einzusteigen. Mit Unterstützung von den Stadtpilzen Ba-sel mit viel Begeisterung und Support aus der Colearning-Community haben wir es geschafft, dass unser selbst gemischtes Pilzsubstrat quantitativ und qualitativ hochstehende Ulmenseitlinge her-vorbringt. Eine Erfolgsgeschichte.
 
-![](bild2.jpg)
+![](marlen.jpg)
 
 Wir haben unsere Pilzzucht so optimiert, dass wir aus jedem 3kg-Substratbeutel mindestens 700g bis 1kg qualitativ hochwertige Ulmenseitlinge ernten und verkaufen konnten. Wir haben unseren Arbeitsaufwand so reduziert, dass wir die Farmingstunden zu zweit bewältigten. Es gelang uns, das Wachstum so zu steuern, dass wir eine Woche im Voraus wussten, wie viele Pilze nächste Woche geerntet werden können und haben 3 Gastrounternehmen gefunden, die uns Pilze abkaufen. Es ist uns gelungen mehrere Fruchtungsphasen einzuleiten und zu timen. Wir hatten kaum Ausfälle und Mindertrag wegen schlechtem Farming oder mangelnder Hygiene Die Freude am Züchten ist durch den Erfolg im Effingerkeller mit den nicht optimalen Bedingungen gewachsen. Es haben sich 3 Personen gemeldet, die ihr Interesse an der Pilzfarm haben und uns in Zukunft aktiv unterstützen wollen.
 
