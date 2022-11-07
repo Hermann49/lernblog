@@ -1,11 +1,11 @@
 +++
 title = "Peter Gray: Schule raubt den Kindern Zeit und Freiheit"
 date = "2022-11-07"
-draft = true
+draft = false
 pinned = false
 image = "keien-schule.jpg"
 description = "Wie sind wir bloss zu dem Schluss gekommen, dass Bildung unserer Kinder am besten gelingt, wenn wir ihnen eine Umgebung aufzwingen, in der sie sich langweilen, unglücklich sin und Angst haben?"
-footnotes = "Bilder: Mount Athos experience, "
+footnotes = "Bilder: Mount Athos experience, Onetz"
 +++
 Ich bin wieder ins Buch von Peter Gray «befreit Lernen» eingetaucht und habe mir vorgenommen nicht mehr über die jetzigen Schulsysteme zu lästern. Aber die beiden Kapitel *Der Anstieg psychischer Störungen im Kinder- und Jugendalter* und *Die Freiheit der Kinder nimmt ab – psychische Störungen nehmen zu* haben mich noch einmal richtig in Rage gebracht. 
 Gray zitiert Studien, die zeigen und meine Beobachtungen bestätigen, dass Ängste und Depressionen in den letzten Jahren dramatisch zugenommen haben. Er zeigt auf, dass diese Zunahmen in den Volks- und Sekundarschulen genauso stark sind wie bei den Studierenden. Ein ebenso ernüchternder Gradmesser für das Sinken der psychischen Gesundheit ist der Anstieg der Selbstmordrate. Sie ist heute vier bis fünf Mal höher als vor 50 Jahren.
@@ -44,8 +44,8 @@ Meine eigene Lebensgeschichte, meine Erfahrungen als Vater und Oberstufenlehrer 
 •	Kinder wollen eigene Wege gehen
 •	… 
 
-Schaffen wir endlich Bedingungen und Umgebungen, die es unseren Kindern ermöglicht ihr Lernen selber zu bestimmen. 
+**Schaffen wir endlich Bedingungen und Umgebungen, die es unseren Kindern ermöglicht ihr Lernen selber zu bestimmen. 
 Kinder können viel mehr, als wir ihnen zutrauen. 
-Geben wir ihnen das Lernen zurück.
+Geben wir ihnen das Lernen zurück.**
 
 Fortsetzung folgt.
