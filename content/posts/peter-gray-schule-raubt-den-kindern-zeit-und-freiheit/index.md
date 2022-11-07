@@ -14,7 +14,7 @@ Die Gründe sind vielfältig und hängen sicher auch mit den Unsicherheiten unse
 > Gray schreibt: 
 > **Viel mehr als damit, wie die Welt wirklich ist, scheinen die Veränderungen mit der Art und Weise zu tun zu haben, wie junge Menschen die Welt betrachten.**
 
-Er schreibt, dass Menschen, die ihr Leben aktiv gestalten können, ihr Schicksal selbst in die Hand nehmen, selber bestimmen, die beeinflussen können, die sich nicht ausgeliefert fühlen, die sich selber kontrollieren sich besser fühlen, psychisch gesünder sind.
+Er schreibt, dass Menschen, die ihr Leben aktiv gestalten können, ihr Schicksal selbst in die Hand nehmen, selber bestimmen, die beeinflussen können, die sich nicht ausgeliefert fühlen, die sich selber kontrollieren, sich besser fühlen, psychisch gesünder sind.
 
 **Kontrollverlust.** 
 
@@ -26,22 +26,39 @@ Gray findet überzeugende Gründe, dass Ängste, Depressionen, Gefühle von Ausg
 ![](mount-athos-resort-kids-playing.jpg)
 
 Meine eigene Lebensgeschichte, meine Erfahrungen als Vater und Oberstufenlehrer stützen diese These vom "freien Spielen": 
+
 •	Kinder wollen selber tun, eigene Projekt verwirklichen
+
 •	Kinder wollen eigene Entscheidungen treffen
+
 •	Kinder stellen eigene Regeln auf und halten sich daran
+
 •	Kinder wollen ohne Erwachsene lernen
+
 •	Kinder wollen anderen auf Augenhöhe begegnen
+
 •	Kinder wollen keine Untergebenen sein
+
 •	Kinder wollen etwas wagen, wollen mutig sein, ihre Körper kontrollieren, sich ihren Ängsten stellen
+
 •	Kinder wollen herausfinden, was zu ihnen passt
+
 •	Kinder entdecken beim freien Spielen ihre Talente, Stärken und Vorlieben 
+
 •	Kinder sind interessiert
+
 •	Kinder fordern sich heraus
+
 •	Kinder üben
+
 •	Kinder sind neugierig
+
 •	Kinder wollen wissen
+
 •	Kinder sind begeisterungsfähig
+
 •	Kinder wollen eigene Wege gehen
+
 •	… 
 
 **Schaffen wir endlich Bedingungen und Umgebungen, die es unseren Kindern ermöglicht ihr Lernen selber zu bestimmen. 
