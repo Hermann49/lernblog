@@ -9,7 +9,7 @@ footnotes = "Bild: Kaufland"
 +++
 Meine Tochter schickt mir ab und zu per WhatsApp Bilder und Botschaften mit humoristischem Inhalt. Kürzlich erhielt ich das folgende Youtube-Video:
 
-**<https://youtu.be/HjPgdhRsGIQ>**
+**{{<youtube HjPgdhRsGIQ>}}**
 
 Gestern habe ich einen solchen Tag eingezogen. Ich wollte schreiben, hatte mir einen abwechslungsreichen Tag vorgenommen mit kreativen Einfällen auch über das Verkaufen unserer Effinger-Pilzbox.
 Nichts wollte gelingen. Flasche leer.
