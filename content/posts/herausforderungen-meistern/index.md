@@ -8,5 +8,5 @@ footnotes = "Dieser Blog wurde inspiriert von Andreas Hoffmann, Coach für Bewus
 +++
 **"Wer immer tut, was er schon kann, bleibt immer das, was er schon ist." – Henry Ford**
 
-Das ist eine Fortsetzung meines Blogs Herausforderungen 1. 
+Das ist eine Fortsetzung meines Blogs Herausforderungen 1: <https://hermann.netlify.app/herausforderung/>
 Ich will mehr darüberschreiben, will noch mehr weitergeben und mich zu diesem Thema noch mehr selber erforschen. Ich habe einen wunderbaren Artikel von Andreas Hofmann gefunden. Er ist Coach für Bewusstsein und authentische Selbstverwirklichung und unterstützt Selbstständige dabei, sich das Leben zu erschaffen, von dem sie schon immer geträumt haben. Ich verknüpfe hier das Gelesene mit meinen Erfahrungen im Effinger.
