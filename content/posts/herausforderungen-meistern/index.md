@@ -5,7 +5,7 @@ draft = true
 pinned = false
 image = "lampe.jpg"
 description = "Andreas Hoffmann: Was fast alle Herausforderungen gemeinsam haben ist, dass es sich um eine ungewohnte Situation handelt, in der du gefordert wirst. Stellst du dich einer Herausforderung, bringt es dich an deine Grenze und darüber hinaus."
-footnotes = "Dieser Blog wurde inspiriert von Andreas Hoffmann, Coach für Bewusstsein und authentische Selbstverwirklichung.\n\nSpielende Kinder aus \"Fritz und Fränzi\""
+footnotes = "Dieser Blog wurde inspiriert und bereichert von Andreas Hoffmann, Coach für Bewusstsein und authentische Selbstverwirklichung.\n\nSpielende Kinder aus \"Fritz und Fränzi\""
 +++
 **"Wer immer tut, was er schon kann, bleibt immer das, was er schon ist."** – Henry Ford
 
