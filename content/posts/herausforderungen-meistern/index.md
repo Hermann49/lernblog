@@ -32,7 +32,7 @@ Ich bin überzeugt, dass man an den Herausforderungen wächst, wenn man sich ihn
 ![](l_m_spielende_kinder_inti_margrit_stamm.jpg)
 
 Mein gelassener Umgang mit Herausforderungen hat auch mit meiner Lerngeschichte zu tun. Als Kind durfte ich (und manchmal musste ich) Sachen häufig selber flicken. Wie viele Velos konnte ich zum Fahren bringen, wie viele Wecker tickten wieder und wie viele Spielzeugautos funktionierten nachher.
-Und je öfter ich das machte, desto geschickter wurde ich im Umgang mit Herausforderungen. Beim Lösen der Aufgaben verstand ich immer besser, wie etwas funktionierte. Wir haben beim gemeinsamen freien Spielen so viele Sachen gemeinsam bewältigt und überstanden, dass ich bis heute von diesen "Urerfahrungen" profitiere. Wir stellten uns unseren Ängsten, meisterten Herausforderungen und wurden jeden Tag ein bisschen freier. Zusätzlich wuchs unser Selbstvertrauen und wir trauten uns immer mehr zu.  
+Je öfter ich das machte, desto geschickter wurde ich im Umgang mit Herausforderungen. Beim Lösen der Aufgaben verstand ich immer besser, wie etwas funktionierte. Wir haben beim gemeinsamen freien Spielen so viele Sachen gemeinsam bewältigt und überstanden, dass ich bis heute von diesen "Urerfahrungen" profitiere. Wir stellten uns unseren Ängsten, meisterten Herausforderungen und wurden jeden Tag ein bisschen freier. Zusätzlich wuchs unser Selbstvertrauen und wir trauten uns immer mehr zu.  
 
 **"Neue Herausforderungen erfordern neue Wege."** – Gottfried Niebaum 
 
