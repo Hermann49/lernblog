@@ -5,7 +5,7 @@ draft = true
 pinned = false
 image = "lampe.jpg"
 description = "Andreas Hoffmann: Was fast alle Herausforderungen gemeinsam haben ist, dass es sich um eine ungewohnte Situation handelt, in der du gefordert wirst. Stellst du dich einer Herausforderung, bringt es dich an deine Grenze und darüber hinaus."
-footnotes = "Dieser Blog wurde inspiriert von Andreas Hoffmann, Coach für Bewusstsein und authentische Selbstverwirklichung."
+footnotes = "Dieser Blog wurde inspiriert von Andreas Hoffmann, Coach für Bewusstsein und authentische Selbstverwirklichung.\n\nSpielende Kinder aus \"Fritz und Fränzi\""
 +++
 **"Wer immer tut, was er schon kann, bleibt immer das, was er schon ist."** – Henry Ford
 
@@ -26,7 +26,7 @@ Ich bin überzeugt, dass man an den Herausforderungen wächst, wenn man sich ihn
 
 **"Erfolg hat drei Buchstaben: TUN!"** – Johann Wolfgang von Goethe
 
-
+![](l_m_spielende_kinder_inti_margrit_stamm.jpg)
 
 Mein gelassener Umgang mit Herausforderungen hat auch mit meiner Lerngeschichte zu tun. Als Kind durfte ich (und manchmal musste ich) Sachen häufig selber flicken. Wir haben beim gemeinsamen freien Spielen so viele Sachen gemeinsam bewältigt und überstanden, dass ich bis heute von diesen "Urerfahrungen" profitiere. Wie viele Velos konnte ich zum Fahren bringen, wie viele Wecker konnte wieder zum Laufen bringen und wie viele Spielzeugautos funktionierten wieder.
 Je öfter ich das machte, desto geschickter wurde ich im Umgang mit Herausforderungen und beim Lösen der Aufgaben verstand ich immer besser, wie etwas funktionierte.
