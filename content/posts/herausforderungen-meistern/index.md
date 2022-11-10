@@ -1,7 +1,7 @@
 +++
 title = "Herausforderungen meistern"
 date = "2022-11-10"
-draft = true
+draft = false
 pinned = false
 image = "lampe.jpg"
 description = "Andreas Hoffmann: Was fast alle Herausforderungen gemeinsam haben ist, dass es sich um eine ungewohnte Situation handelt, in der du gefordert wirst. Stellst du dich einer Herausforderung, bringt es dich an deine Grenze und darüber hinaus."
@@ -29,7 +29,7 @@ Ich bin überzeugt, dass man an den Herausforderungen wächst, wenn man sich ihn
 ![](l_m_spielende_kinder_inti_margrit_stamm.jpg)
 
 Mein gelassener Umgang mit Herausforderungen hat auch mit meiner Lerngeschichte zu tun. Als Kind durfte ich (und manchmal musste ich) Sachen häufig selber flicken. Wie viele Velos konnte ich zum Fahren bringen, wie viele Wecker tickten wieder und wie viele Spielzeugautos funktionierten nachher.
- Und je öfter ich das machte, desto geschickter wurde ich im Umgang mit Herausforderungen. Beim Lösen der Aufgaben verstand ich immer besser, wie etwas funktionierte. Wir haben beim gemeinsamen freien Spielen so viele Sachen gemeinsam bewältigt und überstanden, dass ich bis heute von diesen "Urerfahrungen" profitiere. Wir stellten uns unseren Ängsten, meisterten Herausforderungen und wurden jeden Tag ein bisschen freier. Zusätzlich wuchs unser Selbstvertrauen und wir trauten uns immer mehr zu  
+Und je öfter ich das machte, desto geschickter wurde ich im Umgang mit Herausforderungen. Beim Lösen der Aufgaben verstand ich immer besser, wie etwas funktionierte. Wir haben beim gemeinsamen freien Spielen so viele Sachen gemeinsam bewältigt und überstanden, dass ich bis heute von diesen "Urerfahrungen" profitiere. Wir stellten uns unseren Ängsten, meisterten Herausforderungen und wurden jeden Tag ein bisschen freier. Zusätzlich wuchs unser Selbstvertrauen und wir trauten uns immer mehr zu.  
 
 **"Neue Herausforderungen erfordern neue Wege."** – Gottfried Niebaum 
 
@@ -44,8 +44,10 @@ Am nächsten Tag konnten wir in entspannter Atmosphäre eine gute Lösung für d
 ![](aggression-haupttext-kind-zeigt-stinkefinger-1-scaled.jpg)
 
 Herausforderungen haben auch mit dem Überwinden von Ängsten zu tun. Sie hindern einem oft etwas zu unterzunehmen. Das Überwinden kann man üben, wenn man weiss, dass man im Nachhinein immer schlauer ist, dass nicht alles so verläuft wie geplant, dass Fehler machen zu jeder Weiterentwicklung gehören. Fehler sind nach meinen Erfahrungen Grundbedingung, dass sich überhaupt etwas verändert. Rückschläge sind normal und unangenehme Situationen sind auch immer Lerngelegenheiten. Du darfst ausprobieren, Neues wagen und dich mit anderen darüber austauschen.
-Mit jedem Auftrag im Effinger lerne ich dazu, lerne Herausforderungen anzunehmen und zu meistern. Mit dem Bewältigen wachse ich.
+Mit jedem Auftrag im Effinger lerne ich dazu, lerne Herausforderungen anzunehmen und zu meistern. Jedes Bewältigen steigert mein Selbstbewusstsein.
 
 **"Lernen ist wie rudern gegen den Strom, sobald man damit aufhört, treibt man zurück."** – Chinesische Weisheit
 
 Die täglichen Herausausforderungen und die speziellen hier im Effinger erhalten mich gesund, fordern meinen Geist und erlauben mir immer noch zu wachsen. Das Selbstvertrauen in meine Fähigkeiten und meine Selbstwirksamkeitsüberzeugungen kann ich hier in vielfältigen Situationen trainieren und regelmässig meistern.
+
+**"So schön!"** - Hermann
