@@ -28,8 +28,7 @@ Ich bin überzeugt, dass man an den Herausforderungen wächst, wenn man sich ihn
 
 ![](l_m_spielende_kinder_inti_margrit_stamm.jpg)
 
-Mein gelassener Umgang mit Herausforderungen hat auch mit meiner Lerngeschichte zu tun. Als Kind durfte ich (und manchmal musste ich) Sachen häufig selber flicken. Wir haben beim gemeinsamen freien Spielen so viele Sachen gemeinsam bewältigt und überstanden, dass ich bis heute von diesen "Urerfahrungen" profitiere. Wie viele Velos konnte ich zum Fahren bringen, wie viele Wecker konnte wieder zum Laufen bringen und wie viele Spielzeugautos funktionierten wieder.
-Je öfter ich das machte, desto geschickter wurde ich im Umgang mit Herausforderungen und beim Lösen der Aufgaben verstand ich immer besser, wie etwas funktionierte.
+Mein gelassener Umgang mit Herausforderungen hat auch mit meiner Lerngeschichte zu tun. Als Kind durfte ich (und manchmal musste ich) Sachen häufig selber flicken. Wie viele Velos konnte ich zum Fahren bringen, wie viele Wecker tickten wieder und wie viele Spielzeugautos funktionierten nachher. Und je öfter ich das machte, desto geschickter wurde ich im Umgang mit Herausforderungen. Beim Lösen der Aufgaben verstand ich immer besser, wie etwas funktionierte. Wir haben beim gemeinsamen freien Spielen so viele Sachen gemeinsam bewältigt und überstanden, dass ich bis heute von diesen "Urerfahrungen" profitiere. Wir stellten uns unseren Ängsten, meisterten Herausforderungen und wurden jeden Tag ein bisschen freier. Zusätzlich wuchs unser Selbstvertrauen und wir trauten uns immer mehr zu  
 
 **"Neue Herausforderungen erfordern neue Wege."** – Gottfried Niebaum 
 
@@ -38,3 +37,10 @@ Eine Schlüsselszene hat mich auf diesem Weg bestärkt:
 Es war nach an einer grossen Pause. Als ich mit meiner Kollegin ins Klassenzimmer trat befand sich die Klasse in heller Aufregung. Es hatte in der Pause eine üble Schlägerei gegeben und die verletzenden Gesten und Worte fanden Fortsetzung im Klassenzimmer. Ich liess die Schülerinnen und Schüler im Kreis absitzen und wollte kurz wissen, was genau geschehen war. Nach den Schilderungen mit unterschiedlichen Wahrnehmungen schaute mich die Klasse erwartungsvoll an und erwartete wahrscheinlich ein Statement, eine Verurteilung, ein Donnerwetter oder eine Lösung. Meine Reaktion: Ich dachte deine kurzen Moment nach und meinte: Jetzt erleben wir einen spannenden Moment. Jetzt geht es endlich um etwas ganz Wichtiges: Unser Zusammenleben in der Klasse, Gewalt, Streit, Konflikte. Das ist kein Rollenspiel, das ist das wahre Leben. Meine Kollegin zuckte zusammen. Wie kannst du so etwas interessant finden?
 Ich hatte keine Lösung, das sagte ich auch der Klasse. Aber ich forderte alle auf, bis morgen nachzudenken, wie wir aus dieser vertrackten Situation herausfinden. Dann sitzen wir hier wieder zusammen und teilen unsere Lösungsvorschläge. Und jetzt fahren wir mit unseren Projekten weiter.
 Ich brauche nicht zu erwähnen, dass am nächsten Tag in entspannter Atmosphäre der Konflikt gelöst werden konnte.
+
+Herausforderungen haben auch mit dem Überwinden von Ängsten zu tun. Sie hindern einem oft etwas zu unterzunehmen. Das Überwinden kann man üben, wenn man weiss, dass man im Nachhinein immer schlauer ist, dass nicht alles so verläuft wie geplant, dass Fehler machen zu jeder Weiterentwicklung gehören, Grundbedingung sind, dass sich überhaupt etwas verändert. Rückschläge sind normal, unangenehme Situationen sind auch immer Lerngelegenheiten. Du darfst ausprobieren, Neues wagen und dich mit anderen darüber austauschen.
+Mit jedem Auftrag im Effinger lerne ich dazu, lerne Herausforderungen anzunehmen und zu meistern. Mit dem Bewältigen wachse ich.
+
+**"Lernen ist wie rudern gegen den Strom, sobald man damit aufhört, treibt man zurück."** – Chinesische Weisheit
+
+Die täglichen Herausausforderungen und die speziellen hier im Effinger erhalten mich gesund, fordern meinen Geist und erlauben mir noch zu wachsen. Das Selbstvertrauen in meine Fähigkeiten und meine Selbstwirksamkeitsüberzeugungen kann ich hier in vielfältigen Situationen trainieren und regelmässig meistern.
