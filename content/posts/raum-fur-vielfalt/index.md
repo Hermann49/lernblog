@@ -1,7 +1,7 @@
 +++
 title = "Raum für Vielfalt"
 date = "2022-11-12"
-draft = true
+draft = false
 pinned = false
 image = "beziehungen-machen-klug.jpg"
 description = "Wir sind alle verschieden: Verschiedene Sprachen, Religionen, Charaktere, Alter, Grösse, Gewicht, Hautfarbe ... Wir sind unterschiedlich weit in der Mathematik, im Französisch, im Deutsch, beim Sprechen und Schreiben ... Das macht das Ganze spannend."
