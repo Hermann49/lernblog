@@ -1,10 +1,11 @@
 +++
 title = "Und sie bewegt sich doch"
 date = "2022-11-11"
-draft = true
+draft = false
 pinned = false
 image = "zerknulltes_zeugnis.jpg"
 description = "Bald wieder Schulen ohne Noten in Bern? Im Rahmen eines Versuchs sollen Kinder an Berner Schulen notenfrei beurteilt werden dürfen. Der Stadtrat hat einer entsprechenden Motion zugestimmt."
+footnotes = "Inspiriert und beeinflusst haben mich die Argumente unter der folgenden Adresse: \n[https://www.mein-lernen.at/deutsch/aufsatz/eroerterung/pro-und-kontra](https://www.mein-lernen.at/deutsch/aufsatz/eroerterung/pro-und-kontra/13510-eroerterung-schulnoten-pro-und-kontra-argumente)"
 +++
 Galileo Galilei musste im Jahre 1633 seiner Lehre von der Erdbewegung abschwören. Man erzählt sich, dass er nach dem Widerruf gesagt haben soll: "Und sie bewegt sich doch!"
 Dieser Satz ging mir durch den Kopf als ich vorgestern die folgende Pressemitteilung lesen konnte:
