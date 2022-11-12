@@ -14,7 +14,7 @@ Dieser Satz ging mir durch den Kopf als ich vorgestern die folgende Pressemittei
 
 Endlich passiert etwas. Es kommt etwas Bewegung in unser selektives Schulsystem. 
 
-An die Adresse der 12 Gegenstimmen, das heisst an die SVP: **Vergesst** endlich, dass Noten Orientierung schaffen, dass Noten geben einfach nachvollziehbar ist, dass Noten ein klare Rückmeldung zu den Leistungen der Schüler:innen ist. **Vergesst**, dass Noten Anreize schaffen, motovieren. Das gilt vielleicht für eine kleine Elite. **Vergesst**, dass Noten helfen mit Misserfolgen umzugehen. Schüler:innen denken nach 3 bis 4 solchen Misserfolgsjahren, dass sie wahrscheinlich der Misserfolg sind. Und das "aus Fehlern lernen" wird zur Herkulesaufgabe, wenn der Berg der Misserfolge jeden Tag höher wird. **Gebt endlich zu**, dass aus eurer Sichtweise die Hauptaufgabe der Schule und der Bildung das Zuliefern von angepassten Jugendlichen für die Wirtschaft ist. **Vergesst**,dass Noten Vergleiche ermöglichen. Wir vergleichen meistens Birnen mit Äpfeln und mit Melonen und mit Zitronen und mit Zahnbürsten ..
+An die Adresse der 12 Gegenstimmen, das heisst an die SVP: **Vergesst** endlich, dass Noten Orientierung schaffen, dass Noten einfach nachvollziehbar sind, dass Noten eine klare Rückmeldung zu den Leistungen der Schüler:innen sind. **Vergesst**, dass Noten Anreize schaffen, motovieren. Das gilt vielleicht für eine kleine Elite. **Vergesst**, dass Noten helfen, mit Misserfolgen umzugehen. Schüler:innen denken nach 3 bis 4 solchen Misserfolgsjahren, dass sie wahrscheinlich selber der Misserfolg sind. Und das "aus Fehlern lernen" wird zur Herkulesaufgabe, wenn der Berg der Misserfolge jeden Tag höher wird. **Gebt endlich zu**, dass aus eurer Sichtweise die Hauptaufgabe der Schule und der Bildung das Zuliefern von angepassten Jugendlichen für die Wirtschaft ist. **Vergesst**, dass Noten Vergleiche ermöglichen. Wir vergleichen meistens Birnen mit Äpfeln und mit Melonen und mit Zitronen und mit Zahnbürsten ...
 
 ![](img_2793.jpg)
 
@@ -24,7 +24,7 @@ Noten erzeugen Druck bei Schüler:innen, bei Lehrer:innen und den Eltern. Man ma
 
 Die Notengebung hängt stark von der einzelnen Lehrperson ab, vom subjektiven Empfinden der jeweiligen Lehrperson, von Sympathie, von der Art sich zu kleiden, vom Geschlecht, vom Beruf der Eltern, von der sozialen Situation der Familie und von Anpassungsfähigkeit.
 
-Schlechte Noten demotivieren, geben das Gefühl versagt zu haben, weniger wertvoll zu sein sind kränkend und beschämend.
+Schlechte Noten demotivieren, geben das Gefühl versagt zu haben, weniger wertvoll zu sein, sind kränkend und beschämend.
 
 Noten lähmen kritisches Denken, führen zu einer Fehlervermeidungsstrategie und zu ausgeklügelten Betrugssystemen.
 
@@ -39,9 +39,9 @@ Noten sind von gestern, fördern vor allem das fächerbezogene Denken und verges
 
 > **Wer weiss und nicht handelt, hat nicht begriffen.**
 
-Kinder und Jugendliche werden mit Noten kaum gefördert. Im Gegenteil. Wissbegierde, Entwicklung und Neugierde werden gebremst und verhindert.
+Kinder und Jugendliche werden mit Noten kaum gefördert. Im Gegenteil. Kreativität, Wissbegierde, Entwicklung und Neugierde werden gebremst und verhindert.
 
-Weil man es immer so gemacht hat, ist einfach kein Argument mehr gegen die Abschaffung der Noten. Die Mehrheit des Stadtparlamentes von Bern will einen anderen Weg ermöglichen. 
+"Weil man es immer so gemacht hat", ist einfach kein Argument mehr gegen die Abschaffung der Noten. Die Mehrheit des Stadtparlamentes von Bern will einen anderen Weg ermöglichen. 
 
 **Ein wenig Freude herrscht.**
 
