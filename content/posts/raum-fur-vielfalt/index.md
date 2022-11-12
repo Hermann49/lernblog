@@ -92,4 +92,4 @@ Und über eines reden wir sehr viel. Über das Klassenklima. Wenn das gut ist, d
 
 **"Am besten lernen wir, wenn wir selbständig sind."**
 
-Und Dominik Pokrivac (ein Schüler) schreibt: "Fragen Sie doch ab und zu mal Ihre Schülerinnen und Schüler, wenn Sie nicht mehr weiter wissen, wie sie sich fühlen, wie sie Ihren Unterricht finden, dann haben Sie, liebe Lehrerinnen und Lehrer, mehr Freude am Lehren und sie, die Schülerinnen und Schüler, bestimmt mehr Freude am Lernen."
+Dominik Pokrivac (Schüler) schreibt: "Fragen Sie doch ab und zu mal Ihre Schülerinnen und Schüler, wenn Sie nicht mehr weiter wissen, wie sie sich fühlen, wie sie Ihren Unterricht finden, dann haben Sie, liebe Lehrerinnen und Lehrer, mehr Freude am Lehren und sie, die Schülerinnen und Schüler, bestimmt mehr Freude am Lernen."
