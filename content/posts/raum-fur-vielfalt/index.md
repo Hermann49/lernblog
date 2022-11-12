@@ -67,6 +67,8 @@ Hier dürfen wir selber organisieren, eigene Ideen einbringen und Verantwortung 
 * Eine andere Gruppe organisiert zusammen mit dem Elternrat und dem Kulturkreis der Kirchgemeinde, im Mai einen Begegnungstag mit den verschiedensten Kulturen, die in Aarwangen leben. Wir bieten 25 verschiedene Speisen aus den unterschiedlichsten Ländern an.
 * Die Knaben haben die Werkstatt Real c gegründet. Lehrerinnen und Lehrer können dann Sachen bei uns zum Flicken bringen oder kleinere Möbel für die Schulzimmergestaltung in Auftrag geben. Wir dürfen dafür die Werkstunden einsetzen.
 
+![](lernen-lernen-leben-lernen.jpg)
+
 **Der Klassenrat**
 In der wöchentlichen Sitzung besprechen wir regelmässig Probleme und Anliegen im Zusammenhang mit der Schule, erhalten Informationen, tauschen positive und negative Erlebnisse aus, geben Rückmeldungen und planen gemeinsam. Am Donnerstag von 8 bis 9 Uhr haben wir Zeit zum Äussern von Anliegen, zum Formulieren von Unbehagen, zum Dampfablassen, zum Klären und Diskutieren. Hier können wir über alles reden. Die Leitung hat die 9. Klasse. Die 7. oder 8. Klasse schreibt das Protokoll. Wichtig ist: Die Beschlüsse sind verbindlich, sie gelten.
 
