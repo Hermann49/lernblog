@@ -14,10 +14,10 @@ Da habe ich in meinem Archiv eine Perle gefunden, die ich euch gern zeigen möch
 
 ![](vielfalt.jpg)
 
-**Wir sind alle verschieden.**
+**Wir sind alle verschieden**
 Verschiedene Sprachen, Religionen, Charaktere, Alter, Grössen, Gewicht, Hautfarben... Wir sind unterschiedlich weit in der Mathematik, im Französisch, im Deutsch, beim Sprechen und Schreiben ... Das macht das Ganze spannend.
 
-**Wir lernen in einer altersgemischten Klasse.** 
+**Wir lernen in einer altersgemischten Klasse**
 Herr Flükiger sagt immer, dass wir, um überzeugend zu wirken, 10 Punkte zusammentragen sollen. Das sind unsere 10 Argumente für das altersgemischte Lernen:
 
 1. Die Älteren können die Jüngeren in das Schulsystem einführen.
@@ -38,3 +38,7 @@ Die Einrichtung des Klassenzimmers ist uns wichtig. Eine gute Lernumgebung hilft
 Eine der grössten Herausforderungen ist das Anfangen. Das gelingt uns besser, wenn wir uns Ziele setzen, wenn wir motiviert sind, einen guten Arbeitsplatz haben, selber bestimmen dürfen und wenn wir Erfolg haben. Zu Beginn des Schuljahres bestimmen wir in einem längeren Verfahren unsere Klassenabmachungen. Wir beschränken uns auf 3 wichtige Regeln, die unsere Zusammenarbeit leiten. Hier ein Beispiel:
 
 ![](klassenabmachung.jpg)
+
+**Die Lerngruppen**
+Die Tischgruppen sind auch Lerngruppen: Am Anfang des Schuljahres sitzen die neuen 7. Klässler neben 8./9. Klässlern. Mit dem Götti-Gotte-System werden die Neuen mit unserer Schule vertraut. Das entlastet auch die Lehrpersonen. Bis die Tischgruppen zusammenpassen braucht es manchmal Wochen. Beziehungen müssen geklärt werden. Wer kann mich wirklich unterstützen? Wer lenkt mich ab?
+Im Zentrum der Lerngruppen steht das Lernen und wir üben, dass Privatgespräche in die Pausen gehören. Wir setzen viel Zeit für das Planen ein. Von Dienstag bis Donnerstag haben wir SOL (Selbstsorganisiertes Lernen). Im Wochenblatt stehen die Aufträge. Herr Flükiger gibt uns am Dienstag einen Überblick zu den Aufgaben. Wir wissen, was wir wie erledigen müssen. Die Termine sind bekannt. Wir wissen auch, wann Förderangebote stattfinden, wann wir uns im Kreis treffen und austauschen. Wir lernen die Zeit gut einzuteilen, damit wir möglichst viel in der Schule lösen und wenig zuhause machen müssen.
