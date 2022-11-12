@@ -45,8 +45,8 @@ Kinder und Jugendliche werden mit Noten kaum gefördert. Im Gegenteil. Kreativit
 
 **Ein wenig Freude herrscht.**
 
-![](img_e2792.jpg)
+Den umgekehrten Weg geht der Kanton Zürich: Hier will das bürgerlich-dominierte Parlament die Schulnotenpflicht im Gesetz verankern: Genug Gutmenschentum, genug Sozialexperimente und genug linker Wissenschaftskram!
 
-Den umgekehrten Weg geht der Kanton Zürich: Hier will das bürgerlich-dominierte Parlament die Schulnotenpflicht im Gesetz verankern: Genug Gutmenschentum, Sozialexperimenten und linken Wissenschaftskram!
+![](img_e2792.jpg)
 
 Die Notengebung wird zum politischen Spielball. Zürcher:innen dürfen weiter unter den Ungerechtigkeiten von Noten schimpfen. Berner:innen dürfen auf einen kleinen Schritt Richtung kindergerechtere Bildung hoffen.
