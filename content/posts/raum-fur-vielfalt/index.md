@@ -12,7 +12,7 @@ Was könnte sich eignen?
 Es sollte wieder einmal eine positive Botschaft sein. 
 Da habe ich in meinem Archiv eine Perle gefunden, die ich euch gern zeigen möchte. Unter dem Motto **"Gute Beziehungen machen klug"** stellte sich meine ehemalige Klasse, die 7.–9. Real c aus Aarwangen regelmässig an Weiterbildungsveranstaltungen, an der PH an Workshops oder an Schilftagen vor. Die Schüler und die Schülerinnen haben mit ihren Bildern und eigenen Texten ihren Schulalltag präsentiert und gezeigt, wie sie ihr Lernen zusammen mit mir organisiert hatten. Ein paar Bilder und ein paar Textausschnitte möchte ich hier unbedingt zeigen:*
 
-![]()
+![](vielfalt.jpg)
 
 **Wir sind alle verschieden**
 Verschiedene Sprachen, Religionen, Charaktere, Alter, Grössen, Gewicht, Hautfarben... Wir sind unterschiedlich weit in der Mathematik, im Französisch, im Deutsch, beim Sprechen und Schreiben ... Das macht das Ganze spannend.
@@ -37,13 +37,13 @@ Die Einrichtung des Klassenzimmers ist uns wichtig. Eine gute Lernumgebung hilft
 **Der Anfang**
 Eine der grössten Herausforderungen ist das Anfangen. Das gelingt uns besser, wenn wir uns Ziele setzen, wenn wir motiviert sind, einen guten Arbeitsplatz haben, selber bestimmen dürfen und wenn wir Erfolg haben. Zu Beginn des Schuljahres bestimmen wir in einem längeren Verfahren unsere Klassenabmachungen. Wir beschränken uns auf 3 wichtige Regeln, die unsere Zusammenarbeit leiten. Hier ein Beispiel:
 
-![]()
+![](klassenabmachung.jpg)
 
 **Die Lerngruppen**
 Die Tischgruppen sind auch Lerngruppen: Am Anfang des Schuljahres sitzen die neuen 7. Klässler neben 8./9. Klässlern. Mit dem Götti-Gotte-System werden die Neuen mit unserer Schule vertraut. Das entlastet auch die Lehrpersonen. Bis die Tischgruppen zusammenpassen braucht es manchmal Wochen. Beziehungen müssen geklärt werden. Wer kann mich wirklich unterstützen? Wer lenkt mich ab?
 Im Zentrum der Lerngruppen steht das Lernen und wir üben, dass Privatgespräche in die Pausen gehören. Wir setzen viel Zeit für das Planen ein. Von Dienstag bis Donnerstag haben wir SOL (Selbstsorganisiertes Lernen). Im Wochenblatt stehen die Aufträge. Herr Flükiger gibt uns am Dienstag einen Überblick zu den Aufgaben. Wir wissen, was wir wie erledigen müssen. Die Termine sind bekannt. Wir wissen auch, wann Förderangebote stattfinden, wann wir uns im Kreis treffen und austauschen. Wir lernen die Zeit gut einzuteilen, damit wir möglichst viel in der Schule lösen und wenig zuhause machen müssen.
 
-![]()
+![](lerngruppe.jpg)
 
 **Selbst und ständig - selbstständig**
 Wir lösen die meisten Aufträge selber. Wir sind für das, was wir machen, selber verantwortlich. Es ist interessanter, etwas selber herauszufinden. Das selber Tun macht mehr Spass. Es kommt auf mich drauf an, ich bin gefragt. Man lernt es so auch besser. Das „Selbstständige Arbeiten“ ist auch eine wichtige Schlüsselkompetenz bei der Berufswahl, beim Suchen und Finden einer Lehrstelle. Wir dürfen zusammenarbeiten. Wir haben Lernpartnerschaften, die sich gegenseitig unterstützen. Am liebsten lernen wir mit einem Partner oder einer Partnerin zusammen. Gemeinsam lernen ist cool, den Erfolg teilen, mitdenken, mitfühlen.
