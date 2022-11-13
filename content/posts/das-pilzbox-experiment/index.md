@@ -16,7 +16,7 @@ So steht es auf dem Flyer, den wir im Coworking Space zusammen mit einer Musterb
 
 Die grösste Herausforderung bei der Gestaltung des Flyers war für mich das Beschränken. Wie viel Information braucht es? Was ist für das Verständnis nötig? Was spricht an? Was interessiert? Da ist das Resultat:
 
-![](bild-flyer.png)
+![](bild-flyer-final.png)
 
 Es war wieder eine dieser Herausforderungen, die so einfach aussehen, rückblickend sich als sehr zeitaufwändig herausstellten. Am meisten Zeit verbringe ich bei der konkreten Umsetzung der Ideen am PC. Ich arbeite nur mit einem Word-Programm. Es ist aber nicht das "Herausfinden" von Möglichkeiten - es ist mein latent vorhandener Anspruch etwas perfekt zu machen, der mir am meisten zu schaffen macht. Ich könnte stundenlang ausprobieren, verwerfen, wieder neu anfangen, andere Farben und Sujets wählen ... es ist verlockend, es gibt so viele Möglichkeiten.
 
