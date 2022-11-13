@@ -20,4 +20,18 @@ Die grösste Herausforderung bei der Gestaltung des Flyers war für mich das Bes
 
 Es war wieder eine dieser Herausforderungen, die so einfach aussehen, rückblickend sich als sehr zeitaufwändig herausstellten. Am meisten Zeit verbringe ich bei der konkreten Umsetzung der Ideen am PC. Ich arbeite nur mit einem Word-Programm. Es ist aber nicht das "Herausfinden" von Möglichkeiten - es ist mein latent vorhandener Anspruch etwas perfekt zu machen, der mir am meisten zu schaffen macht. Ich könnte stundenlang ausprobieren, verwerfen, wieder neu anfangen, andere Farben und Sujets wählen ... es ist verlockend, es gibt so viele Möglichkeiten.
 
-Dann muss ich mich entscheiden.
+Ich muss mich entscheiden. 
+
+Entscheiden? Darin kommt doch auch das Scheiden vor, das Trennen, das Verabschieden. 
+
+Darum tue ich mich schwer. Kann ich doch nicht so leicht loslassen?
+
+Ich muss weglassen, kann nicht alles, muss mich bescheiden.
+
+Bescheidenheit
+
+Ich habe es gegoogelt: 
+
+> Die **Bescheidenheit** ist eine Charaktereigenschaft, die ein geringes Streben oder Verlangen nach Ansprüchen beschreibt, selbst wenn daraus ein Vorteil oder Gewinn resultieren würde. Zudem beschreibt es ein Bewusstsein für Wertschätzung von Dingen und das bewusste Nichtverlangen von besonders Wertvollem.
+
+So komme ich von der Gestaltung eines einfachen Flyers für unsere Pilzbox zu ganz grundsätzlichen Überlegungen und Gedanken. Ein weiterer Grund sich Herausforderungen zu stellen. Es ergeben sich plötzlich ganz neue Wege, neue Denkrichtungen. Ich lasse mich gerne ablenken und merke, dass das Begehen von Nebenpfaden mir noch ganz andere Horizonte eröffnen. Fazit: Ich habe einen Flyer gestaltet und nebenbei einen schönen Sonntag-Gedankengang gemacht.
