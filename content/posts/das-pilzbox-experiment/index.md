@@ -1,7 +1,7 @@
 +++
 title = "Das Pilzbox-Experiment"
 date = "2022-11-13"
-draft = true
+draft = false
 pinned = false
 image = "pilzbox-als-werbung.jpg"
 description = "Mit einer Effinger-Pilzbox kannst du selber Pilze züchten. Mit etwas Licht, Zimmertemperatur, 2mal täglichem Befeuchten und ein bisschen Geduld kannst du in 2 Wochen ein köstliches Pilzgericht mit Ulmenseitlingen zubereiten. "
