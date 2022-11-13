@@ -10,7 +10,7 @@ Seit einer Woche durchwächst das Myzel in unseren Effinger-Pilzboxen unser Effi
 
 Im Blog "Vom Geld und anderen Werten" <https://hermann.netlify.app/von-geld-und-anderen-werten/> habe ich von den Schwierigkeiten geschrieben, einen Preis zu bestimmen. Jetzt habe ich mich überzeugen lassen, mehr zu verlangen. 
 
-Der Preis beträgt Fr. 12.50 pro Box.
+**Der Preis beträgt Fr. 12.50 pro Box.**
 
 So steht es auf dem Flyer, den wir im Coworking Space zusammen mit einer Musterbox hinlegen wollen. Auch auf den Slack-Channels, den Webseiten und den sozialen Medien wollen wir auf unser Produkt aufmerksam machen.
 
