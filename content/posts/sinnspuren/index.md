@@ -1,7 +1,7 @@
 +++
 title = "Sinnspuren"
 date = "2022-11-14"
-draft = true
+draft = false
 pinned = false
 image = "was-tue-ich.jpg"
 description = "Menschen wollen ihr Dasein sinnstiftend erleben und Sinnspuren hinterlassen. Fragen nach dem Sinn sind für mich die Lebensfragen und sie begleiten mich in den letzten Jahren immer häufiger."
