@@ -15,25 +15,26 @@ In den Semesterkursen, den halbjährigen Weiterbildungsangeboten der PH Bern, di
 
 Ich habe hier ein paar Fragen ausgewählt. Wie oder was würdest du antworten? Am besten gelingt diese Selbsterforschung zusammen mit einer vertrauten Person. Lasst euch dann von den folgenden Fragen leiten:
 
-•	Was gibt mir Halt in meinem Leben?
-•	Wo habe ich Orte, wo ich gut sein kann und mich geborgen fühle?
-•	Wo kann ich Raum einnehmen für mich?
-•	Wo kann ich sein und werde sein gelassen? 
-•	Mag ich mich? Was mag ich an mir?
-•	Kann ich mit mir sein, allein sein?
-•	Wann und wie gönne ich mir Zeit für mich?
-•	Welche Gefühle gestehe ich mir zu?
-•	Was ist mein Wesentliches, mein Eigenes?
-•	Wenn es ganz nach mir ginge, was würde ich tun?
-•	Wie viel Zeit verbringe ich mit dem, was mir wesentlich ist?
-•	Was schätze ich an mir? Wofür werde ich geschätzt?
-•	Ich bin da, wofür ist es gut, dass ich da bin?
-•	Was ist im Hier und Jetzt gefragt von mir?
-•	Was kann nur ich tun?
-•	Wo bin ich gefragt?
-•	Welche Bedeutung hatten Krisenzeiten und Herausforderungen in meinem Leben?
-•	Wo finde ich Sinn oder Sinnspuren? 
-•	Wie lasse ich mich einfliessen in diese Welt und wie erfüllt sich darin für mich Sinn?
+* Was gibt mir Halt in meinem Leben?
+* Wo habe ich Orte, wo ich gut sein kann und mich geborgen fühle?
+* Wo kann ich Raum einnehmen für mich?
+* Wo kann ich sein und werde sein gelassen? 
+* Mag ich mich? Was mag ich an mir?
+* Kann ich mit mir sein, allein sein?
+* Wann und wie gönne ich mir Zeit für mich?
+* Welche Gefühle gestehe ich mir zu?
+* Was ist mein Wesentliches, mein Eigenes?
+* Wenn es ganz nach mir ginge, was würde ich tun?
+* Wie viel Zeit verbringe ich mit dem, was mir wesentlich ist?
+* Was schätze ich an mir? Wofür werde ich geschätzt?
+* Ich bin da, wofür ist es gut, dass ich da bin?
+* Was ist im Hier und Jetzt gefragt von mir?
+* Was kann nur ich tun?
+* Wo bin ich gefragt?
+* Welche Bedeutung hatten Krisenzeiten und Herausforderungen in meinem Leben?
+* Wo finde ich Sinn oder Sinnspuren? 
+* Wie lasse ich mich einfliessen in diese Welt und wie erfüllt sich darin für mich Sinn?
 
 Zum Schluss meine Lieblingsfrage: 
-**•	Wie lebe ich meine ureigene Kreativität im Alltag?**
+
+* **Wie lebe ich meine ureigene Kreativität im Alltag?**
