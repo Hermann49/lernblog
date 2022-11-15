@@ -4,6 +4,8 @@ date = "2022-11-15"
 draft = false
 pinned = false
 image = "img_2826.jpg"
+description = "Aus Zeit online: Müde, unkonzentriert, leicht abzulenken: Etwa alle 60 bis 90 Minuten brauchen Körper und Geist eine Pause, denn die Konzentrationsfähigkeit des Menschen ist nicht auf Dauerbeanspruchung ausgelegt. Ärzte empfehlen etwa jede Stunde eine kleine Unterbrechung von wenigen Minuten."
+footnotes = "Bild: Gegoogelt"
 +++
 
 Im Colearning Bern haben wir eine Blog-Challenge gestartet: Alle 4 Teilnehmer verpflichtete sich, jeden Tag einen Blogeintrag zu verfassen.
