@@ -1,6 +1,6 @@
 +++
 title = "Sinnspuren"
-date = "2022-11-14"
+date = "2022-11-15"
 draft = false
 pinned = false
 image = "was-tue-ich.jpg"
