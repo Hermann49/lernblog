@@ -21,7 +21,7 @@ Halen - Eine urbane Siedlung mitten im Wald
 Die rechtlichen und organisatorischen Strukturen der Siedlung Halen sind so einfach und schlank wie ihre Architektur. Zuständig für die 83 Wohnhäuser sind allein deren Eigentümer. Über alle Gemeinschaftsanlagen befindet die Eigentümergesellschaft. Ihre Beschlüsse werden von der Verwaltung, einem Milizorgan mit fünf bis sieben Mit-gliedern, umgesetzt. 
 Die Eigentümergesellschaft der Siedlung Halen ist ein im Handelsregister eingetragener Verein mit Statuten. Mitglieder sind alle Hauseigentümer. Oberstes Organ des Vereins ist die Eigentümerversammlung, welche jährlich mindestens einmal zusammenkommt und alle wichtigen Entscheide über das Gemeinschaftseigentum (Schwimmbad, Sportplatz, Wald, Wege, Laden, Waschküche, Einstellhalle etc.) trifft.*
 
-![](halen-2.jpg)
+![](dorfi.jpeg)
 
 Meine Tochter ist eine alleinerziehende, berufstätige Mutter und Keanu ein Einzelkind. Sie wohnt in der Siedlung Halen. Keanu ist nie allein. Atelier 5 hat in der Halen das  afrikanische Sprichwort "Für die Erziehung eines Kindes braucht es ein ganzes Dorf" exemplarisch umgesetzt.
 
