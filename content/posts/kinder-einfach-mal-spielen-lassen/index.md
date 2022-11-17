@@ -21,16 +21,16 @@ Die Eigentümergesellschaft der Siedlung Halen ist ein im Handelsregister einget
 
 ![](halen-2.jpg)
 
-Meine Tochter ist eine alleinerziehende, berufstätige Mutter und Keanu ein Einzelkind. Aber Keanu ist nie allein. In der Siedlung gilt das afrikanische Sprichwort: "Für die Erziehung eines Kindes braucht es ein ganzes Dorf."
+Meine Tochter ist eine alleinerziehende, berufstätige Mutter und Keanu ein Einzelkind. Sie wohnt in der Siedlung Halen. Keanu ist nie allein. Atelier 5 hat in der Halen das  afrikanische Sprichwort "Für die Erziehung eines Kindes braucht es ein ganzes Dorf" exemplarisch umgesetzt.
 
-Und wenn sich Keanu mit anderen in der Siedlung bewegt, habe ich viel Zeit für mich. Ich treffe mich mit anderen Erwachsenen auf dem Dorfi, ich kann etwas für mich erledigen oder ich kann einfach beobachten.
-Ich höre und sehe, wie die Kinder miteinander umgehen. Ich sehe, wie sie spielen, wie Grosse und Kleine miteinander umgehen, aufeinander Rücksicht nehmen, wie sie gemeinsam etwas aushecken, wie sie abmachen, was sie nun machen wollen, wie sie die Rollen verteilen, wie sie streiten und sich wieder finden, wie sie einander trösten, wie sie lachen, wie sie Pläne schmieden, wie sie Mutproben veranstalten, wie sie herumklettern, mit Stühlen und Tischen Burgen bauen, mit Kalkstiften ganze Geschichten auf den Platz malen, mit Velos und Trottis Rennen organisieren.
+Wenn sich Keanu mit anderen Kindern in der Siedlung bewegt, habe ich beim Hüten viel Zeit für mich. Ich treffe mich mit anderen Erwachsenen auf dem Dorfi, ich kann etwas für mich erledigen oder ich kann einfach beobachten.
+Ich höre und sehe, wie die Kinder miteinander umgehen. Ich sehe, wie sie spielen, wie Grosse und Kleine miteinander spielen, aufeinander Rücksicht nehmen, wie sie gemeinsam etwas aushecken, wie sie abmachen, was sie nun machen wollen, wie sie die Rollen verteilen, wie sie streiten und sich wieder finden, wie sie einander trösten, wie sie lachen, wie sie Pläne schmieden, wie sie Mutproben veranstalten, wie sie herumklettern, mit Stühlen und Tischen Burgen bauen, mit Kalkstiften ganze Geschichten auf den Platz malen, mit Velos und Trottis Rennen organisieren.
 
 ![](spielende-kinder.jpg)
 
 **Hier dürfen Kinder spielen.** 
 
-Die Siedlung ist ein kleines Dorf. Sehr durchmischt mit unterschiedlichstem Alter,  Kulturen und Lebensweisen. 
+Die Siedlung ist ein kleines Dorf. Sehr durchmischt mit unterschiedlichster Altersstruktur,  mit ganz verschiedenen Kulturen und vielfältigen Lebensweisen. 
 
 Im Winter öffnet am Mittwoch das Beizli zu einem gemeinsamen Anlass. Jemand bietet etwas an. Gestern gab es Suppe und Brot. Die Familien treffen und begegnen sich. Als Nicht-Halenbewohner fühlte ich mich sofort willkommen, werde eingeladen mich zu anderen an einen Tisch zu setzen. Bei solchen Anlässen sind die Kinder immer dabei und finden sich sofort wieder zum Spielen: Sie spielen Verstecken im Beizli, tollen herum. Von Spielgruppenkind bis zum 5. Klässler sind alle dabei und werden von den anderen Kindern aufgefordert mitzumachen. Nachher spielen sie Fangis auf dem schon finsteren Dorfplatz. Für einige eine kleine Mutprobe, aber sie überwinden ihre Ängste im Spielen.
 Wenn jemand mit seinen Kindern etwas unternimmt, dann sind oft auch die anderen eingeladen mitzuwirken. So entstehen unzählige gruslige Halloweenkürbisse, die einem überall in der Nacht angrinsen. Jemand organisiert einen Tanzworkshop, einen Flohmarkt, den Besuch des Samichlaus, das Wichtelen vor Weihnachten, eine Openair-Disco auf dem Sportplatz, einen Sonntagsbrunch und vieles mehr.
@@ -39,9 +39,14 @@ Wenn jemand mit seinen Kindern etwas unternimmt, dann sind oft auch die anderen 
 
 **Immer sind die Kinder dabei.**
 
-Die Erwachsenen sind da, helfen wenn nötig, mahnen wenn etwas aus dem Ruder läuft, trösten und pflegen wenn sich jemand weh tut. Sie bilden den geschützten Raum, den die Kinder auch brauchen und den Eltern die Sicherheit gibt: Es ist sicher jemand da. 
-Die Kinder wachsen in der Halen in einem sozialen Gefüge auf. Sie haben ganz unterschiedliche Ansprechpartner:innen. Die Kindererziehung, wenn ich diesen Begriff noch brauchen darf, ist auf eine ganze Siedlung verteilt. Eltern sind entlastet und sind selber ein wichtiger Teil dieses urbanen Dorfes.
-Das war für mich am Anfang gewöhnungsbedürftig. Ich musste loslassen. Gelassenheit. Wenn ich heute nicht weiss, wo Keanu ist, dann frage ich auf dem Dorfi. Jemand weiss es bestimmt, hilft mir beim Suchen und fragt weiter und die fragen wieder jemanden und plötzlich ist Keanu wieder da:  "Ich war  auf dem Sportplatz und habe ganzvergessen, dass ich heimkommen sollte. Wir hatten gerade einen coolen Kletterbaum gefunden."
+Die Erwachsenen sind da, helfen wenn nötig, mahnen wenn etwas aus dem Ruder läuft, trösten und pflegen wenn sich jemand weh tut. Sie bilden den geschützten Raum, den die Kinder auch brauchen und den anderen Eltern die Sicherheit gibt: Es ist sicher jemand da. 
+Die Kinder wachsen in der Halen in einem sozialen Gefüge auf. Sie haben ganz unterschiedliche Ansprechpartner:innen. Die Kindererziehung, wenn ich diesen Begriff noch brauchen darf, ist auf eine ganze Siedlung verteilt. Eltern sind entlastet und sind selber ein wichtiger Teil dieses urbanen, sozialen Dorfes.
+Das war für mich am Anfang gewöhnungsbedürftig. Ich musste loslassen. Gelassenheit. Wenn ich heute nicht weiss, wo Keanu ist, dann frage ich auf dem Dorfi. Jemand weiss es bestimmt, hilft mir beim Suchen und fragt weiter und die fragen wieder jemanden und plötzlich ist Keanu wieder da:  "Ich war  auf dem Sportplatz und habe ganz vergessen heimkommen. Wir hatten gerade einen coolen Kletterbaum gefunden."
 
-Mein Appell an Architekten, Bauherren, Städte- und Siedlungsplaner, Baukommissionen und Politiker: 
-Baut afrikanische Dörfer. Das dies auch in Städten möglich ist, zeigt die Initiative Urbane Dörfer, die hier im Effinger entstanden ist:
+Mein Appell an Architekten, Bauherren, Städte- und Siedlungsplaner, Baukommissionen und Politiker:innen:
+
+**Baut mehr afrikanische Dörfer.** 
+
+Das dies auch in Städten möglich ist, zeigt die Initiative Urbane Dörfer, die hier im Effinger entstanden ist:
+<https://www.urbanedoerfer.ch/>
+Es lohnt sich dabei zu sein.
