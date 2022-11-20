@@ -1,13 +1,13 @@
 +++
 title = "Kreativität und kritisches Denken"
 date = "2022-11-20"
-draft = true
+draft = false
 pinned = false
 image = "digitale-kompetenzen.jpg"
 description = "Kritisch Denken und kreativ handeln heisst für mich: Herausforderungen annehmen, die Wohlfühlzone verlassen, Bewährtes in Frage stellen und Neues wagen. Am besten gelingt mir das, wenn ich zusammen mit anderen kreative Lösungen suchen und finden darf. "
 footnotes = "Auszug aus \"The Barometer Story - A Probleme in Teaching Critical Thinking\" von Dr. A Calandra, veröffentlicht in Current Science, Teacher's Edition Vol. XLIX, No. 14, Section 1, January 6-10,1964, herausgegeben von American Education Publications, 1250 Fairwood Avenue, Columbus, Ohio 43216\nTitelbild: Mit digitalen Kompetenzen vorbereitet in die Schule starten. Devpost."
 +++
-Kritisches Denken und kreatives Lösungssuchen gehören gemäss meinen Erfahrungen zu den Grundanforderungen oder Schlüsselkompetenzen bei der Bewältigung der heutigen Probleme, beim erfolgreichen Suchen nach Lösungen. Sie sind für mich wichtig für mein **"Ich darf lernen"**.
+Kritisches Denken und kreatives Lösungssuchen gehören gemäss meinen Erfahrungen zu den Grundanforderungen oder Schlüsselkompetenzen bei der Bewältigung der heutigen Probleme, beim erfolgreichen Suchen nach Lösungen. Sie sind wichtig für mein **"Ich darf lernen"**.
 Kritisch Denken und kreativ handeln heisst für mich Herausforderungen annehmen, die Wohlfühlzone verlassen, Bewährtes in Frage stellen und Neues wagen. Am besten gelingt mir das, wenn ich zusammen mit anderen fantsievolle Lösungen suchen und finden darf. 
 Eine solche Kreativgeschichte sind unsere Pilzboxen vom Colearning-Lernunternehmen im Effinger. Ende Oktober waren wir am Boden, ein Schimmelpilz im Keller hat unsere bewährte Pilzzucht verunmöglicht. 
 
