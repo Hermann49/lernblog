@@ -19,6 +19,7 @@ Wir waren trotzig und liessen uns unsere Begeisterung und Faszination für Pilze
 <https://hermann.netlify.app/herausforderung-2-von-guten-und-bosen-pilzen/>
 
 Und da kam die Idee mit den Pilzboxen: In leeren Haferdrinkbeuteln mit Effinger-Kaffeesatz und Buchenholzspänen aus dem Emmental, Ulmenseitlinge züchten. Ich hatte schon mal zu Hause in diese Richtung mit Erfolg experimentiert und etwas Ähnliches im Coop gesehen. Dort verkaufen sie Natura-Austern-Pilzboxen. Und was die können, das schaffen wir auch. 
+
 **Und wir haben es geschafft.**
 
 * 98 Pilzboxen haben wir zurechtgeschnitten.
@@ -55,7 +56,7 @@ An dieser Stelle fragte ich meinen Kollegen, ob er aufgeben wolle - er wollte. A
 
 ![](barometer-bild-3.png)
 
-"Prima", sagte ich. "Wissen Sie noch eine andere Möglichkeit?" - "Ja", erwiderte der Schuler. "Da gibt es noch eine sehr grundsätzliche Methode, die Ihnen gefallen wird. Sie nehmen das Barometer und gehen die Treppen hoch. Dabei markieren Sie die Höhe der Wand jeweils in .Barometer-Einheiten'. Dann brauchen Sie nur diese .Barometer-Einheiten' zusammenzuzählen und Sie erhalten die Höhe des Gebäudes in .Barometer-Einheiten'. Es ist allerdings eine sehr handgreifliche» Methode."
+"Prima", sagte ich. "Wissen Sie noch eine andere Möglichkeit?" - "Ja", erwiderte der Schüler. "Da gibt es noch eine sehr grundsätzliche Methode, die Ihnen gefallen wird. Sie nehmen das Barometer und gehen die Treppen hoch. Dabei markieren Sie die Höhe der Wand jeweils in .Barometer-Einheiten'. Dann brauchen Sie nur diese .Barometer-Einheiten' zusammenzuzählen und Sie erhalten die Höhe des Gebäudes in .Barometer-Einheiten'. Es ist allerdings eine sehr handgreifliche Methode."
 
 ![](barometer-bild-4.png)
 
