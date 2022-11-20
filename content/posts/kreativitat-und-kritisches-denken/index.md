@@ -5,7 +5,7 @@ draft = true
 pinned = false
 image = "digitale-kompetenzen.jpg"
 description = "Kritisch Denken und kreativ handeln heisst für mich: Herausforderungen annehmen, die Wohlfühlzone verlassen, Bewährtes in Frage stellen und Neues wagen. Am besten gelingt mir das, wenn ich zusammen mit anderen kreative Lösungen suchen und finden darf. "
-footnotes = "Auszug aus \"The Barometer Story - A Probleme in Teaching Critical Thinking\" von Dr A Calandra, veröffentlicht in Current Science, Teacher's Edition Vol. XLIX, No. 14, Section 1, January 6-10,1964, herausgegeben von American Education Publications, 1250 Fairwood Avenue, Columbus, Ohio 43216\n"
+footnotes = "Auszug aus \"The Barometer Story - A Probleme in Teaching Critical Thinking\" von Dr. A Calandra, veröffentlicht in Current Science, Teacher's Edition Vol. XLIX, No. 14, Section 1, January 6-10,1964, herausgegeben von American Education Publications, 1250 Fairwood Avenue, Columbus, Ohio 43216\nTitelbild: Mit digitalen Kompetenzen vorbereitet in die Schule starten. Devpost."
 +++
 Kritisches Denken und kreatives Lösungssuchen gehören gemäss meinen Erfahrungen zu den Grundanforderungen oder Schlüsselkompetenzen bei der Bewältigung der heutigen Probleme, beim erfolgreichen Suchen nach Lösungen. Sie sind für mich wichtig für mein **"Ich darf lernen"**.
 Kritisch Denken und kreativ handeln heisst für mich Herausforderungen annehmen, die Wohlfühlzone verlassen, Bewährtes in Frage stellen und Neues wagen. Am besten gelingt mir das, wenn ich zusammen mit anderen fantsievolle Lösungen suchen und finden darf. 
@@ -20,21 +20,22 @@ Wir waren trotzig und liessen uns unsere Begeisterung und Faszination für Pilze
 
 Und da kam die Idee mit den Pilzboxen: In leeren Haferdrinkbeuteln mit Effinger-Kaffeesatz und Buchenholzspänen aus dem Emmental, Ulmenseitlinge züchten. Ich hatte schon mal zu Hause in diese Richtung mit Erfolg experimentiert und etwas Ähnliches im Coop gesehen. Dort verkaufen sie Natura-Austern-Pilzboxen. Und was die können, das schaffen wir auch. 
 **Und wir haben es geschafft.**
-98 Pilzboxen haben wir zurechtgeschnitten. 
-98 Plastiksäcke mit einem «Atmungsfenster» versehen.
-98 mal 400g Substrat abgefüllt.
-98 Boxen mit Infos und Anleitungen beschriftet.
-98 Säcke im Keller 2 Wochen lang in der Dunkelheit vom Ulmenseitlingmyzel durchwachsen lassen. 
-Wir haben uns sichtbar gemacht, haben von den Pilzboxen gesprochen, haben Muster gezeigt, haben einen Flyer gestaltet und andere mit dem Pilzfiber angesteckt. Sie gestalteten den Webauftritt neu. Sie organisierten Bestellung und Verkauf auf unserer Webseite. Sie haben auf allen möglichen Kanälen für unser Produkt geworben. 
-Auf meinem Twint-Konto sind erste Bezahlungen eingegangen
+
+* 98 Pilzboxen haben wir zurechtgeschnitten.
+* 98 Plastiksäcke mit einem «Atmungsfenster» versehen.
+* 98 mal 400g Substrat abgefüllt.
+* 98 Boxen mit Infos und Anleitungen beschriftet.
+* 98 Säcke im Keller 2 Wochen lang in der Dunkelheit vom Ulmenseitlingmyzel durchwachsen lassen.
+
+Wir haben uns sichtbar gemacht, haben von den Pilzboxen gesprochen, haben Muster gezeigt, haben einen Flyer gestaltet und andere mit dem Pilzfiber angesteckt. Sie gestalteten den Webauftritt neu. Sie organisierten Bestellung und Verkauf auf unserer Webseite. Sie haben auf allen möglichen Kanälen für unser Produkt geworben. Auf meinem Twint-Konto sind schon erste Bezahlungen eingegangen
 
 Es hat funktioniert dank
 
-> kritischem Mitdenken, Kreativität, Kommunikation und Kollaboration 
+> **kritischem Mitdenken, Kreativität, Kommunikation und Kollaboration** 
 
 Ab morgen, Montag, 21. November verkaufen wir unsere Boxen an alle, die gerne selber Pilze züchten, die Pilze mögen, die ein passendes Geschenk suchen oder einfach unser Lernunternehmen unterstützen wollen.
 
-Ich möchte euch Leser:innen zum heutigen Sonntag und zur Thematik **Kreativität und kritisches Denken** eine Geschichte schenken, die ich vor sehr langer Zeit gehört hatte und die ich oft in meinen Weiterbildungsveranstaltungen vorgelesen und mit auf den Heimweg gegeben hatte. 
+Ich möchte euch, liebe Leser:innen zum heutigen Sonntag und zur Thematik **Kreativität und kritisches Denken** eine Geschichte schenken, die ich vor sehr langer Zeit gehört und die ich oft in meinen Weiterbildungsveranstaltungen vorgelesen und mit auf den Heimweg gegeben habe.
 Viel Spass beim Lesen. 
 Wer die Geschichte schon kennt, kann hier mit dem Lesen des Blogs aufhören und kreativ die "gewonnene" Zeit geniessen.
 
