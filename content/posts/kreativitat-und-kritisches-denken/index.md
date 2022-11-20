@@ -3,9 +3,13 @@ title = "Kreativität und kritisches Denken"
 date = "2022-11-20"
 draft = true
 pinned = false
-description = "Ein Hochhaus, ein Barometer und kritisches Denken Alexander Calandra Ins Deutsche übertragen \nund mit Zeichnungen versehen von Helge Weinreb"
+image = "digitale-kompetenzen.jpg"
+description = ""
 footnotes = "Auszug aus \"The Barometer Story - A Probleme in Teaching Critical Thinking\" von Dr A Calandra, veröffentlicht in Current Science, Teacher's Edition Vol. XLIX, No. 14, Section 1, January 6-10,1964, herausgegeben von American Education Publications, 1250 Fairwood Avenue, Columbus, Ohio 43216"
 +++
+Ein Hochhaus, ein Barometer und kritisches Denken Alexander Calandra Ins Deutsche übertragen 
+und mit Zeichnungen versehen von Helge Weinreb
+
 Vor einiger Zeit rief mich ein Kollege an und bat mich, ihm als Sachverständiger bei der Benotung einer Prüfungs-aufgabe zu helfen. Offensichtlich wollte er einem Schüler für die Bearbeitung einer Physikaufgabe keinen Punkt geben. Der Schüler jedoch meinte, er müsste die volle Punktzahl bekommen, wenn es mit rechten Dingen zuginge. Lehrer und Schüler waren übereingekommen, zur Klärung dieser Frage einen Unparteiischen heranzuziehen und hatten mich dazu auserkoren. Ich ging in das Arbeitszimmermeines Kollegen und las mir die Prüfungsaufgabe durch: «Zeigen Sie, wie man mit Hilfe eines Barometers die Höhe eines Hochhauses bestimmen kann.» Die Ant-wort des Studenten: «Man nimmt das Barometer mit aufs Dach, bindet es an eine lange Schnur und lässt es daran auf die Strasse hinunter. Dann holt man es wieder herauf und misst die Länge der Schnur. Diese Länge entspricht der Höhe des Gebäudes.»
 
 ![](barometer-bild-1.png)
