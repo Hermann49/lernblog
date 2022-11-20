@@ -4,9 +4,42 @@ date = "2022-11-20"
 draft = true
 pinned = false
 image = "digitale-kompetenzen.jpg"
-description = ""
+description = "Kritisch Denken und kreativ handeln heisst für mich Herausforderungen annehmen, die Wohlfühlzone verlassen, Bewährtes in Frage stellen und Neues wagen. Am besten gelingt mir das, wenn ich zusammen mit anderen kreative Lösungen suchen und finden darf. "
 footnotes = "Auszug aus \"The Barometer Story - A Probleme in Teaching Critical Thinking\" von Dr A Calandra, veröffentlicht in Current Science, Teacher's Edition Vol. XLIX, No. 14, Section 1, January 6-10,1964, herausgegeben von American Education Publications, 1250 Fairwood Avenue, Columbus, Ohio 43216"
 +++
+Kritisches Denken und kreatives Lösungssuchen gehören gemäss meinen Erfahrungen zu den Grundanforderungen oder Schlüsselkompetenzen bei der Bewältigung der heutigen Probleme, beim erfolgreichen Suchen nach Lösungen. Sie sind für mich wichtig für mein **"Ich darf lernen"**.
+Kritisch Denken und kreativ handeln heisst für mich Herausforderungen annehmen, die Wohlfühlzone verlassen, Bewährtes in Frage stellen und Neues wagen. Am besten gelingt mir das, wenn ich zusammen mit anderen kreative Lösungen suchen und finden darf. 
+Eine solche Kreativgeschichte sind unsere Pilzboxen vom Colearning-Lernunternehmen im Effinger. Ende Oktober waren wir am Boden, ein Schimmelpilz im Keller hat unsere bewährte Pilzzucht verunmöglicht. 
+
+Und jetzt?
+
+Wir sassen wir zusammen, vergassen das Lamentieren und suchten nach neuen Möglichkeiten Pilze zu züchten. Andere Räume? Zuhause? Pause bis Keller saniert? 
+Wir waren trotzig und liessen uns unsere Begeisterung und Faszination für Pilze nicht von einem anderen Pilz nehmen. Siehe auch Lernblog: von guten und bösen Pilzen.
+
+<https://hermann.netlify.app/herausforderung-2-von-guten-und-bosen-pilzen/>
+
+Und da kam die Idee von den Pilzboxen.
+In leeren Haferdrinkbeuteln mit Effinger-Kaffeesatz und Buchenholzspänen aus dem Emmental Ulmenseitlinge  zu züchten. Ich hatte schon mal Hause in diese Richtung mit Erfolg experimentiert Etwas ähnliches hatte ich mal im Coop gesehen. Dort verkaufen sie auch Pilzboxen. Und was die können, das schaffen wir auch. 
+Und wir haben es geschafft.
+98 Pilzboxen haben wir zurechtgeschnitten. 98 Plastiksäcke mit einem «Atmungsfenster» versehen.
+98 mal 400 Substrat abgefüllt
+98 Boxen mit Infos und Anleitungen beschriftet.
+98 Säcke im Keller 2 Wochen lang in der Dunkelheit vom Ulmenseitlingmyzel durchwachsen lassen.
+Und dann kamen noch andere Pilzfarmer:innen dazu. Sie organisierten Bestellung und Verkauf auf unserer Web-seite. Sie haben auf allen möglichen Kanälen für unser Produkt geworben. Aug meinem Twint-Konto sind ersten Bezahlungen eingegangen
+Es hat funktioniert. 
+Kreativität, Kommunikation und Kollaboration 
+Ab morgen, Montag, 21. November verkaufen wir unsere Boxen an alle, die gerne Pilze selber mal züchten, die Pilze mögen, die ein passendes Geschenk suchen oder einfach unser Lernunternehmen unterstützen wollen.
+
+Ich möchte euch Leser:innen zum heutigen Sonntag und zur Thematik Kreativität und kritisches Denken eine Geschichte schenken, die ich vor sehr langer Zeit mal gehört hatte und die ich oft in meinen Weiterbildungsveranstaltungen vorgelesen und mit auf den Heimweg gegeben habe. 
+Viel Spass beim Lesen 
+und wer die Geschichte schon kennt, kann hier mit dem Lesen des Blogs aufhören und kreativ die «gewonnene» Zeit geniessen.
+
+
+
+
+
+
+
 Ein Hochhaus, ein Barometer und kritisches Denken Alexander Calandra Ins Deutsche übertragen 
 und mit Zeichnungen versehen von Helge Weinreb
 
