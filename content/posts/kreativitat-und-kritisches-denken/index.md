@@ -5,7 +5,7 @@ draft = true
 pinned = false
 image = "digitale-kompetenzen.jpg"
 description = "Kritisch Denken und kreativ handeln heisst für mich: Herausforderungen annehmen, die Wohlfühlzone verlassen, Bewährtes in Frage stellen und Neues wagen. Am besten gelingt mir das, wenn ich zusammen mit anderen kreative Lösungen suchen und finden darf. "
-footnotes = "Auszug aus \"The Barometer Story - A Probleme in Teaching Critical Thinking\" von Dr A Calandra, veröffentlicht in Current Science, Teacher's Edition Vol. XLIX, No. 14, Section 1, January 6-10,1964, herausgegeben von American Education Publications, 1250 Fairwood Avenue, Columbus, Ohio 43216"
+footnotes = "Auszug aus \"The Barometer Story - A Probleme in Teaching Critical Thinking\" von Dr A Calandra, veröffentlicht in Current Science, Teacher's Edition Vol. XLIX, No. 14, Section 1, January 6-10,1964, herausgegeben von American Education Publications, 1250 Fairwood Avenue, Columbus, Ohio 43216\n"
 +++
 Kritisches Denken und kreatives Lösungssuchen gehören gemäss meinen Erfahrungen zu den Grundanforderungen oder Schlüsselkompetenzen bei der Bewältigung der heutigen Probleme, beim erfolgreichen Suchen nach Lösungen. Sie sind für mich wichtig für mein **"Ich darf lernen"**.
 Kritisch Denken und kreativ handeln heisst für mich Herausforderungen annehmen, die Wohlfühlzone verlassen, Bewährtes in Frage stellen und Neues wagen. Am besten gelingt mir das, wenn ich zusammen mit anderen fantsievolle Lösungen suchen und finden darf. 
@@ -50,19 +50,17 @@ In der Tat war das eine ausserordentlich interessante Antwort, nur - konnte man 
 
 ![](barometer-bild-2.png)
 
-An dieser Stelle fragte ich meinen Kollegen, ob er aufgeben wolle - er wollte. Als ich das Arbeitszimmer meines Kollegen bereits verlassen wollte, fiel mir ein, dass der Schüler behauptet hatte, er habe noch andere Lösungsvor-schläge. Ich fragte ihn danach. «O ja», sagte der Schüler, «es gibt noch eine ganze Reihe von Möglichkeiten, um die Höhe eines Hochhauses mit einem Barometer zu ermitteln. Zum Beispiel können Sie an einem sonnigen Tag das Barometer mit nach draussen nehmen und seine Hohe sowie die Länge seines Schattens abmessen. Dann messen Sie, wie lang der Schatten des Hochhauses ist und bestimmen mit einer einfachen Verhältnisgleichung die Höhe des Gebäudes.»
+An dieser Stelle fragte ich meinen Kollegen, ob er aufgeben wolle - er wollte. Als ich das Arbeitszimmer meines Kollegen bereits verlassen wollte, fiel mir ein, dass der Schüler behauptet hatte, er habe noch andere Lösungsvorschläge. Ich fragte ihn danach. "O ja", sagte der Schüler, "es gibt noch eine ganze Reihe von Möglichkeiten, um die Höhe eines Hochhauses mit einem Barometer zu ermitteln. Zum Beispiel können Sie an einem sonnigen Tag das Barometer mit nach draussen nehmen und seine Hohe sowie die Länge seines Schattens abmessen. Dann messen Sie, wie lang der Schatten des Hochhauses ist und bestimmen mit einer einfachen Verhältnisgleichung die Höhe des Gebäudes."
 
 ![](barometer-bild-3.png)
 
-«Prima», sagte ich. «Wissen Sie noch eine andere Möglichkeit?» - «Ja», erwiderte der Schuler. «Da gibt es noch eine sehr grundsätzliche Methode, die Ihnen gefallen wird. Sie nehmen das Barometer und gehen die Treppen hoch. Dabei markieren Sie die Höhe der Wand jeweils in .Barometer-Einheiten'. Dann brauchen Sie nur diese .Barometer-Einheiten' zusammenzuzählen und Sie erhalten die Höhe des Gebäudes in .Barometer-Einheiten'. Es ist allerdings eine sehr «handgreifliche» Methode.» 
+"Prima", sagte ich. "Wissen Sie noch eine andere Möglichkeit?" - "Ja", erwiderte der Schuler. "Da gibt es noch eine sehr grundsätzliche Methode, die Ihnen gefallen wird. Sie nehmen das Barometer und gehen die Treppen hoch. Dabei markieren Sie die Höhe der Wand jeweils in .Barometer-Einheiten'. Dann brauchen Sie nur diese .Barometer-Einheiten' zusammenzuzählen und Sie erhalten die Höhe des Gebäudes in .Barometer-Einheiten'. Es ist allerdings eine sehr handgreifliche» Methode."
 
 ![](barometer-bild-4.png)
 
 "Sollten Sie an einer etwas subtileren Methode interessiert sein, dann könnten Sie das Barometer an eine Schnur binden und es als Pendel schwingen lassen. 
-Sie bestimmen den Wert von ,g' (Schwerebeschleunigung in der Formel T=2^i/1/g) auf Strassenniveau und auf dem Dach. Aus der Differenz zwischen g1 und g2 können sie prinzipiell die Höhe des Gebäudes errechnen.»  
+Sie bestimmen den Wert von ,g' (Schwerebeschleunigung in der Formel T=2^i/1/g) auf Strassenniveau und auf dem Dach. Aus der Differenz zwischen g1 und g2 können sie prinzipiell die Höhe des Gebäudes errechnen."  
 
 ![](barometer-bild-5.png)
 
-Schliesslich meinte er: «Wenn Sie mich nicht auf eine physikalische Lösung festlegen, dann gibt es noch viele an-dere Möglichkeiten. Zum Beispiel könnten Sie das Barometer nehmen und beim Hausmeister anklopfen. Wenn er sich meldet, dann sprechen Sie wie folgt: .Lieber Herr Hausmeister, ich habe hier ein wunderbares Barometer. Wenn Sie mir die Höhe dieses Hauses verraten, dann gehört es Ihnen.'» Hier endlich fragte ich den Schüler, ob er die erwartete Losung wirklich nicht wisse. Er gab zu, dass er sie wusste. Aber, so fügte er hinzu, er sei es leid, dass die Lehrer immer versuchten, ihm beizubringen, wie er denken und seinen kritischen Verstand gebrauchen sollte, statt ihm grundsätzliche Zusammenhänge zu zeigen und zu erklären. Deswegen habe er beschlossen, an einem Beispiel einmal zu zeigen, was für ein Theater das sei
-
-Auszug aus «The Barometer Story - A Probleme in Teaching Critical Thinking» von Dr A Calandra, veröffentlicht in Current Science, Teacher's Edition Vol. XLIX, No. 14, Section 1, January 6-10,1964, herausgegeben von American Education Publications, 1250 Fairwood Avenue, Columbus, Ohio 43216
+Schliesslich meinte er: "Wenn Sie mich nicht auf eine physikalische Lösung festlegen, dann gibt es noch viele andere Möglichkeiten. Zum Beispiel könnten Sie das Barometer nehmen und beim Hausmeister anklopfen. Wenn er sich meldet, dann sprechen Sie wie folgt: "Lieber Herr Hausmeister, ich habe hier ein wunderbares Barometer. Wenn Sie mir die Höhe dieses Hauses verraten, dann gehört es Ihnen." Hier endlich fragte ich den Schüler, ob er die erwartete Losung wirklich nicht wisse. Er gab zu, dass er sie wusste. Aber, so fügte er hinzu, er sei es leid, dass die Lehrer immer versuchten, ihm beizubringen, wie er denken und seinen kritischen Verstand gebrauchen sollte, statt ihm grundsätzliche Zusammenhänge zu zeigen und zu erklären. Deswegen habe er beschlossen, an einem Beispiel einmal zu zeigen, was für ein Theater das sei.
