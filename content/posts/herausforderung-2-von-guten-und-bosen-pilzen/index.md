@@ -32,7 +32,7 @@ Wir sammeln 100 Haferdrinkbeutel, waschen sie, schneiden sie auf, falten einen e
 
 Warten und hoffen 
 
-Nach 2 bis 3 Wochen in der Finsternis und angenehmer Temperatur hat das Myzel das Substrat vollständig durchwachsen und ist bereit für die Fruchtkörperbildung. Jetzt können wir die Pilzboxen verkaufen, denn für das weitere Wachstum braucht es nur Tageslicht, ein bisschen Feuchtigkeit und etwas Geduld. Nach 2 Wochen wachsen die Ulmenseitlinge aus dem Haferdrinkbeutel heraus und können geentete und genossen werden.
+Nach 2 bis 3 Wochen in der Finsternis und angenehmer Temperatur hat das Myzel das Substrat vollständig durchwachsen und ist bereit für die Fruchtkörperbildung. Jetzt können wir die Pilzboxen verkaufen, denn für das weitere Wachstum braucht es nur Tageslicht, ein bisschen Feuchtigkeit und etwas Geduld. Nach 2 Wochen wachsen die Ulmenseitlinge aus dem Haferdrinkbeutel heraus und können geerntet und genossen werden.
 
 So hat uns der Schimmelbefall herausgefordert und uns zu ganz neuen Ansätzen und Lösungen verholfen. 
 
