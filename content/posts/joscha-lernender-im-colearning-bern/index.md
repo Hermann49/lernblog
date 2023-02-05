@@ -4,12 +4,16 @@ date = "2023-02-05"
 draft = true
 pinned = false
 image = "bild1.png"
-description = "Seit vier "
+description = "Seit 4 Monaten begleite ich Joscha als Mentor bei seinem Lernen im Colearning Bern. Mich interessiert schon seit längerer Zeit, wie Menschen lernen, warum sie etwas genauso machen und was sie in ihrem Lernen unterstützt."
 +++
-In der 6. Klasse habe ich die Volksschule verlassen und wurde Homeschooler. Die Volksschule mit ihrem Notensystem hat mich sehr eingeschränkt und gestresst. Ich war unglücklich. 
-Ich bin ein sehr neugieriger Mensch, will selber etwas machen, will selbstständig meinen Projekten und Ideen nachgehen. Diese Freiheiten konnte die Schule nicht bieten.
+Seit 4 Monaten begleite ich Joscha als Mentor bei seinem Lernen im Colearning Bern. Mich interessiert schon seit längerer Zeit, wie Menschen lernen, warum sie etwas genauso machen und was sie in ihrem Lernen unterstützt. Für mich ist immer wieder erstaunlich, wie gut Jugendliche sagen können, was sie wirklich brauchen, was sie bewegt und wie bereichernd für beide Seiten ein solcher Dialog ist.
 
-Seit 2 ½ Jahren bin ich jetzt 2 bis 3 Halbtage pro Woche als Colearner im Coworking Effinger. Und ich werde hier im Sommer eine Lehre als Mediamatiker beginnen. YOLU
+Die folgenden Aussagen sind aus einem längeren Interview mit Joscha:
+
+In der 6. Klasse habe ich die Volksschule verlassen und wurde Homeschooler. Die Volksschule mit ihrem Notensystem hatte mich zu sehr eingeschränkt und gestresst. Ich war unglücklich. 
+Ich bin ein sehr neugieriger Mensch, will selber etwas machen, will selbstständig meinen Projekten und Ideen nachgehen. Diese Freiheiten konnte die Schule mir nicht bieten.
+
+Seit 2 ½ Jahren bin ich jetzt 2 bis 3 Halbtage pro Woche als Colearner im Coworking Effinger. Und ich werde hier im Sommer eine Lehre als Mediamatiker beginnen. Ich mache bei YOLU mit
 
 Im Gegensatz zur Schule habe ich hier im Colearning viele Entscheidungsmöglichkeiten. Hier kann ich meine Projekte verwirklichen, hier kann ich meinen Ideen nachgehen. Ich bin hier unter Gleich-altrigen und Erwachsenen mitten im Leben. Jetzt ist mein Lernen sinnvoll geworden, ich bin moti-viert. 
 Im Effinger habe ich entdeckt, was ich gut kann, wo meine Stärken, meine Potenziale sind. In den Projekten und eigen Arbeiten habe ich gemerkt, was ich gerne mache oder machen würde. Hier wird ganzheitlich gelernt, der Effinger ist ein Lernort. Für mich gibt es jetzt keine Trennung mehr zwischen Schulzeit und Freizeit. Jeder macht etwas anderes und trotzdem arbeiten wir zusammen. Meine Fähigkeiten sind gefragt, ich bin ein wichtiger Teil der Community. 
