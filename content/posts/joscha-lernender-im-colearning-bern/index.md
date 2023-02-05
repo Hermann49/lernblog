@@ -9,7 +9,7 @@ description = "Seit 4 Monaten begleite ich Joscha als Mentor bei seinem Lernen i
 Seit 4 Monaten begleite ich Joscha als Mentor bei seinem Lernen im Colearning Bern. Mich interessiert schon seit längerer Zeit, wie Menschen lernen, warum sie etwas genauso machen und was sie in ihrem Lernen unterstützt. Für mich ist immer wieder erstaunlich, wie gut Jugendliche sagen können, was sie wirklich brauchen, was sie bewegt und wie bereichernd für beide Seiten ein solcher Dialog ist.
 Die folgenden Aussagen sind aus einem längeren Interview mit Joscha:
 
-![]()
+![](interview-1714370_640.jpg)
 
 In der 6. Klasse habe ich die Volksschule verlassen und wurde Homeschooler. Die Volksschule mit ihrem Notensystem hatte mich zu sehr eingeschränkt und gestresst. Ich war unglücklich. Ich bin ein sehr neugieriger Mensch, will selber etwas machen, will selbstständig meinen Projekten und Ideen nachgehen. Diese Freiheiten konnte die Schule mir nicht bieten.
 Seit 2 ½ Jahren bin ich jetzt 2 bis 3 Halbtage pro Woche als Colearner im Coworking Effinger. Und ich werde hier im Sommer eine Lehre als Mediamatiker beginnen. Ich bin der erste Lernende bei YOLU, einer Organisation, die eine Lehre im Coworking Effinger anbietet. 
