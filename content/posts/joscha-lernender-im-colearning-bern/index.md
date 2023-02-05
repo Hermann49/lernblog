@@ -5,6 +5,7 @@ draft = true
 pinned = false
 image = "bild1.png"
 description = "Seit 4 Monaten begleite ich Joscha als Mentor bei seinem Lernen im Colearning Bern. Mich interessiert schon seit längerer Zeit, wie Menschen lernen, warum sie etwas genauso machen und was sie in ihrem Lernen unterstützt."
+footnotes = ""
 +++
 Seit 4 Monaten begleite ich Joscha als Mentor bei seinem Lernen im Colearning Bern. Mich interessiert schon seit längerer Zeit, wie Menschen lernen, warum sie etwas genauso machen und was sie in ihrem Lernen unterstützt. Für mich ist immer wieder erstaunlich, wie gut Jugendliche sagen können, was sie wirklich brauchen, was sie bewegt und wie bereichernd für beide Seiten ein solcher Dialog ist.
 
@@ -19,6 +20,8 @@ Die Schule ist in ihrem System gefangen, Lernzeiten sind organisiert und zeitlic
 Als Effianer seit dem 2023 übernehme ich hier noch mehr Verantwortung für die Community. An Freitagen bin ich Gastgeber für den Coworking Space. Colearning Bern ist ein Lernort. Ich darf experimentieren, ausprobieren, Fehler machen, Arbeiten vorstellen, mein Lernen dokumentieren und reflektieren, mein Wissen und Können sinnvoll nutzen. Hier schreibe ich Blogs über mein Lernen, gestalte Flyer, drehe Videos, bearbeite Filmsequenzen, übernehme Aufträge, gestalte Erklärvideos zum Beispiel für pilzfarm.be und werbe für unser Projekt Pilzfarm. 
 Ich steige nach und nach in die Arbeitswelt ein. 
 Das Schulische (Mathematik, Sprachen) bearbeite ich zuhause, auch als Vorbereitung für die Berufslehre. So lerne ich auch Dinge, die ich nicht so gerne mache. Ich lerne mit Unangenehmen umzugehen. Aber jetzt weiss ich, wozu das sinnvoll ist, denn ich will eine Berufslehre erfolgreich bestehen.
+
+![](veraenderungszitate-sprueche-veraenderung-lustig-schoen-neuanfang-leben.jpg)
 
 Wenn ich Bildungsdirektor wäre, dann müsste sich die Schule weiterentwickeln und wandeln. Meine Schule ist ein kreativer Ort, wo neues Wissen und Können gefördert wird. Grundsätzliches steht im Zentrum. Inspiriert wird meine Schule durch Pädagogen, Menschen, die ihren Job lieben, die junge Menschen gerne bei der Arbeit, beim Lernen an eigenen Projekten begleiten, die mir vor allem Freiheiten in der Wahl der Themen gewähren. Die Schule ist ein Ausprobierraum. Die Jugendlichen haben Mentoren und Coaches. Die Lehrpersonen sind interessiert zu erfahren was Jugendliche beschäftigt.
 Für mich heisst Lernen, dass ich meine Projekte verwirklichen kann, dass ich von anderen lernen darf, dass ich helfen kann und dass ich Zuwendung und Beachtung bekomme. Lernen ist für mich leben.
