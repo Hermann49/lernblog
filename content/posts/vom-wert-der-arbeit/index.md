@@ -21,15 +21,14 @@ Und wenn ich jetzt noch die Materialkosten dazurechne, dann kostet uns eine Box 
 ![](enttauscht.jpg)
 Das ist ernüchternd. Denn ich habe die Kellermiete, die Investitionen in die Geräte fürs Mischen, das 10er-Abo für die Tätigkeit im CoWorking Space und die Präsenzzeiten beim Verkauf im Effinger noch gar nicht mitgerechnet. All das würde den Verdienst sicher auf ein paar Rappen herunterdrücken.
 Wir müssten hunderte, ja tausende von Pilzboxen herstellen, um Geld für weitere Investitionen zu gewinnen. 
-Oder wir müssen anders rechnen.
-Wir müssen den Preis erhöhen und mindestens Fr. 20.- für eine Box verlangen. 
-Frage? Nehmen uns die Kunden diese Preiserhöhung ab? Würden wir dann noch so erfolgreich verkaufen? Suchen wir Kunden ganz woanders, wo der Preis für ein solches Produkt nicht so eine wichtige Rolle spielt? 
-Müssen wir den Wert des Produktes noch genauer beschreiben: lokal, ideal, original, sozial und phänomenal.
+**Oder wir müssen anders rechnen.**
+Wir müssen den Preis erhöhen und mindestens Fr. 20.- für eine Box verlangen. Nehmen uns die Kunden diese Preiserhöhung ab? Würden wir dann noch so erfolgreich verkaufen? Suchen wir Kunden ganz woanders, wo der Preis für ein solches Produkt nicht so eine wichtige Rolle spielt? 
+Müssen wir den Wert des Produktes noch genauer beschreiben: **lokal, ideal, original, sozial und phänomenal.**
 Oder müssen wir die Löhne anders sehen, den Gewinn anders verteilen?
 ![](zwinkerndes-auge.png)
 Wir könnten zum Beispiel 4 Kategorien von Beteiligungen machen
 
-1. Jugendliche bekommen für ihr Mitwirken ein Taschengeld, einen kleinen symbolischen Beitrag für das Ausliefern der Ware, für die Gestaltung von Flyern und Videos oder das Mithelfen beim Mischen.
-2. Senioren haben ein altersbedingtes garantiertes Grundeinkommen und schenken ihre Zeit für den Aufbau des Lernunternehmens pilzfarm.be. Sie erhalten Entschädigungen in Form einer Pilzbox oder erhaltene frische geerntete Ulmenseitlinge, wenn wir wieder im grösseren Umfang im Keller Pilze züchten.
-3. Erwerbstätige, die «voll im Berufsleben» stehen oder Student:innen erhalten für ihre Arbeit bei pilzfarm.be eine Entschädigung, die zwischen Fr. 20.- und Fr. 30.- pro Stunde beträgt.
+1. Die Jugendlichen bekommen für ihr Mitwirken ein Taschengeld, einen kleinen symbolischen Beitrag für das Ausliefern der Ware, für die Gestaltung von Flyern und Videos oder das Mithelfen beim Mischen.
+2. Die Senior:innen haben ein altersbedingtes garantiertes Grundeinkommen und schenken ihre Zeit für den Aufbau des Lernunternehmens pilzfarm.be. Sie erhalten Entschädigungen in Form einer Pilzbox oder erhaltene frisch geerntete Ulmenseitlinge, wenn wir wieder im grösseren Umfang im Keller Pilze züchten.
+3. Erwerbstätige, die «voll im Berufsleben» stehen oder Student:innen erhalten für ihre Arbeit bei pilzfarm.be eine Entschädigung, zwischen Fr. 20.- und Fr. 30.- pro Stunde.
 4. Wir organisieren Workshops zum Thema «Selber Pilze züchten». Die Teilnehmenden helfen uns beim Mischen und Vorbereiten, der aufwändigsten Arbeit beim Pilze züchten, erhalten dabei grundlegende Infos und praktische Tipps und entlasten uns. Sie kaufen uns dann Pilzboxen und Säcke mit Substrat zum Marktpreis ab: eine Box für Fr. 12.50, ein Zuchtsack (je nach Grösse) für Fr. 20.- bis Fr. 30.- ab.
