@@ -6,6 +6,7 @@ pinned = false
 image = "bild-pilzbox.jpg"
 description = "Was kostet eigentlich eine Pilzbox? Wie viel verdienen wir wirklich beim Verkauf einer Pilzbox zum Preis von Fr. 12.50? Lohnt sich das Ganze? In diesem Blog versuche ich eine Annäherung an die Kostenwahrheit."
 +++
+Was kostet eigentlich eine Pilzbox? Wie viel verdienen wir wirklich beim Verkauf einer Pilzbox zum Preis von Fr. 12.50? Lohnt sich das Ganze? In diesem Blog versuche ich eine Annäherung an die Kostenwahrheit.
 Nach der erfolgreichen Weihnachtsaktion, wir haben 100 Pilzboxen verkauft, war die Freude gross. Im Januar haben wir nun eine Standortbestimmung gemacht und überlegt, wie es mit der pilzfarm.be weitergehen soll. Ein neuer erweiterter Businessplan wurde erstellt, ein Aktionsplan soll die Arbeit auf drei wesentliche beschränkt und wir haben 3 interessierte Personen gewonnen, die bei pilzfarm.be mitwirken wollen.
 ![](59.1.jpg)
 Eine Frage von Joscha, unserem Colearner in der Pilzfarmgruppe, hat mich motiviert, mal auszurechen, was eine Pilzbox wirklich kostet.
@@ -19,17 +20,13 @@ Jetzt habe ich mal gerechnet welchen Arbeitsaufwand wir leisten
 Wenn ich jetzt rechne und einen recht niedrigen Stundenlohn von Fr. 30.00 einsetze, dann kostet der Arbeitsaufwand für eine Pilzbox mindestens Fr. 10.00
 Und wenn ich jetzt noch die Materialkosten dazurechne, dann kostet uns eine Box Fr. 11.60 und es bleibt uns ein Gewinn von 90 Rp.
 ![](enttauscht.jpg)
-
 Das ist ernüchternd. Denn ich habe die Kellermiete, die Investitionen in die Geräte fürs Mischen, das 10er-Abo für die Tätigkeit im CoWorking space und die Präsenzzeiten beim Verkauf im Effinger noch gar nicht mitgerechnet. Das würde den Verdienst sicher auf ein paar Rappen herunterdrücken.
-
 Wir müssten hunderte, ja tausende von Pilzboxen herstellen, um Geld für weitere Investitionen zu gewinnen. 
 Oder wir müssen anders rechnen.
 Wir müssen den Preis erhöhen und mindestens Fr. 20.- für eine Box verlangen. 
 Frage? Nehmen uns die Kunden diese Preiserhöhung ab? Würden wir dann noch so erfolgreich verkaufen? Suchen wir Kunden ganz woanders, wo der Preis für ein solches Produkt nicht so eine wichtige Rolle spielt? 
 Müssen wir den Wert des Produktes noch genauer beschreiben: lokal, ideal, original, sozial und phänomenal.
-
 Oder müssen wir die Löhne anders sehen, den Gewinn anders verteilen?
-
 ![](zwinkerndes-auge.png)
 Wir könnten zum Beispiel 4 Kategorien von Beteiligungen machen
 1.	Jugendliche bekommen für ihr Mitwirken ein Taschengeld, einen kleinen symbolischen Beitrag für das Ausliefern der Ware, für die Gestaltung von Flyern und Videos oder das Mithelfen beim Mischen.
