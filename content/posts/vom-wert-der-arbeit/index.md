@@ -39,12 +39,14 @@ Oder müssen wir die Löhne anders sehen, den Gewinn anders verteilen?
 4. Wir organisieren Workshops zum Thema «Selber Pilze züchten». Die Teilnehmenden helfen uns beim Mischen und Vorbereiten - der aufwändigsten Arbeit beim Pilze züchten - erhalten dabei grundlegende Infos und praktische Tipps und entlasten uns. Sie kaufen uns dann Pilzboxen und Säcke mit Substrat zum Marktpreis ab: eine Box für Fr. 12.50, ein Zuchtsack (je nach Grösse) für Fr. 20.- bis Fr. 30.- ab
 
 **Eine spannende Ausgangslage.** 
-Wie haben bis jetzt im Lernunternehmen Pilzfarm Bern den Fokus auf das Lernen gerichtet und wir können Pilze züchten. Wir garantieren Ernteerfolg. Wenn wir jetzt das Unternehmerische anschauen, dann müssen wir auch hier einen Lernprozess machen. Es ist wie bei den Pilzen, die für ihr Wachstum eine gute Substratmischung, die korrekten Temperaturen, die ideale Luftfeuchtigkeit und das nötige Licht brauchen.
+
+Wir haben bis jetzt im Lernunternehmen Pilzfarm Bern den Fokus auf das Lernen gerichtet und wir können Pilze züchten. Wir garantieren Ernteerfolg. Wenn wir jetzt das Unternehmerische anschauen, dann müssen wir auch hier einen Lernprozess machen. Es ist wie bei den Pilzen, die für ihr Wachstum eine gute Substratmischung, die korrekten Temperaturen, die ideale Luftfeuchtigkeit und das nötige Licht brauchen.
 Wir können jetzt Pilze müssen aber noch mehr von ihnen lernen. Wir machen uns im Moment Gedanken welchen Wert die Arbeit in Pilzfarm Bern hat.
-Wie berechnet man Engagement? 
-Wie teuer ist sinnvolles Tun? 
-Welchen Wert hat Freude? Anerkennung? 
-Wie  berechne ich wertschätzende Rückmeldungen?
+
+> Wie berechnet man Engagement? 
+> Wie teuer ist sinnvolles Tun? 
+> Welchen Wert hat Freude? Anerkennung? 
+> Wie  berechne ich wertschätzende Rückmeldungen?
 
 ![](bild1.jpg)
 
