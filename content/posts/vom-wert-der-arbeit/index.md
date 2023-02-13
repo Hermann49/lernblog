@@ -45,5 +45,7 @@ Wie berechnet man Engagement?
 Wie teuer ist sinnvolles Tun? 
 Welchen Wert hat Freude? Anerkennung? 
 Wie  berechne ich wertschätzende Rückmeldungen?
+
 ![](bild1.jpg)
-Wir mischen Schenkzeit mit berechtigten Entschädigungen und vertretbaren Löhnen. Wir suchen eine ideale Mischung, damit [pilzfarm.be](https://www.pilzfarm.be/) sich entwickeln, weiterwachsen und tolle Fruchtkörper bilden kann.[](https://www.pilzfarm.be/)[](https://www.pilzfarm.be/)
+
+Wir mischen Schenkzeit mit berechtigten Entschädigungen und vertretbaren Löhnen. Wir suchen eine ideale Mischung, damit [pilzfarm.be](https://www.pilzfarm.be/) sich entwickeln, weiterwachsen und tolle Fruchtkörper bilden kann.
