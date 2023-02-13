@@ -27,19 +27,19 @@ Wir müssen den Preis erhöhen und mindestens Fr. 20.- für eine Box verlangen. 
 Müssen wir den Wert des Produktes noch genauer beschreiben: **lokal, ideal, original, sozial und phänomenal**?
 Oder müssen wir die Löhne anders sehen, den Gewinn anders verteilen?
 ![](zwinkerndes-auge.png)
-Wir könnten zum Beispiel 4 Kategorien von Beteiligungen machen
+**Wir könnten zum Beispiel 4 Kategorien von Beteiligungen machen**
 
 1. Die Jugendlichen bekommen für ihr Mitwirken ein Taschengeld, einen kleinen symbolischen Beitrag für das Ausliefern der Ware, für die Gestaltung von Flyern und Videos oder das Mithelfen beim Mischen.
 2. Die Senior:innen haben ein altersbedingtes garantiertes Grundeinkommen und schenken ihre Zeit für den Aufbau des Lernunternehmens. Sie erhalten Entschädigungen in Form einer Pilzbox oder erhaltene frisch geerntete Ulmenseitlinge, wenn wir wieder im grösseren Umfang im Keller Pilze züchten.
-3. Erwerbstätige, die «voll im Berufsleben» stehen oder Student:innen erhalten für ihre Arbeit bei [pilzfarm.be](https://www.pilzfarm.be/) eine Entschädigung, zwischen Fr. 20.- und Fr. 30.- pro Stunde.
-4. Wir organisieren Workshops zum Thema «Selber Pilze züchten». Die Teilnehmenden helfen uns beim Mischen und Vorbereiten, der aufwändigsten Arbeit beim Pilze züchten, erhalten dabei grundlegende Infos und praktische Tipps und entlasten uns. Sie kaufen uns dann Pilzboxen und Säcke mit Substrat zum Marktpreis ab: eine Box für Fr. 12.50, ein Zuchtsack (je nach Grösse) für Fr. 20.- bis Fr. 30.- ab
+3. Erwerbstätige, die «voll im Berufsleben» stehen oder Student:innen erhalten für ihre Arbeit bei [pilzfarm.be](https://www.pilzfarm.be/) einen Lohn zwischen Fr. 20.- und Fr. 30.- pro Stunde.
+4. Wir organisieren Workshops zum Thema «Selber Pilze züchten». Die Teilnehmenden helfen uns beim Mischen und Vorbereiten - der aufwändigsten Arbeit beim Pilze züchten - erhalten dabei grundlegende Infos und praktische Tipps und entlasten uns. Sie kaufen uns dann Pilzboxen und Säcke mit Substrat zum Marktpreis ab: eine Box für Fr. 12.50, ein Zuchtsack (je nach Grösse) für Fr. 20.- bis Fr. 30.- ab
 
-Eine spannende Ausgangslage. 
+**Eine spannende Ausgangslage.** 
 Wie haben bis jetzt im Lernunternehmen Pilzfarm Bern den Fokus auf das Lernen gerichtet und wir können Pilze züchten. Wir garantieren Ernteerfolg. Wenn wir jetzt das Unternehmerische anschauen, dann müssen wir auch hier einen Lernprozess machen. Es ist wie bei den Pilzen, die für ihr Wachstum eine gute Substratmischung, die korrekten Temperaturen, die ideale Luftfeuchtigkeit und das nötige Licht brauchen.
-Wir können jetzt Pilze müssen aber noch mehr von ihnen lernen. Wir machen uns im Moment Gedanken welchen Wert hat die Arbeit in Pilzfarm Bern:
+Wir können jetzt Pilze müssen aber noch mehr von ihnen lernen. Wir machen uns im Moment Gedanken welchen Wert die Arbeit in Pilzfarm Bern hat.
 Wie berechnet man Engagement? 
 Wie teuer ist sinnvolles Tun? 
 Welchen Wert hat Freude? Anerkennung? 
 Wie  berechne ich wertschätzende Rückmeldungen?
 ![](bild1.jpg)
-Wir mischen Schenkzeit mit berechtigten Entschädigungen und vertretbaren Löhnen. Wir suchen eine ideale Mischung, damit [pilzfarm.be](https://www.pilzfarm.be/) sich entwickeln und weiterwachsen kann.[](https://www.pilzfarm.be/)[](https://www.pilzfarm.be/)
+Wir mischen Schenkzeit mit berechtigten Entschädigungen und vertretbaren Löhnen. Wir suchen eine ideale Mischung, damit [pilzfarm.be](https://www.pilzfarm.be/) sich entwickeln, weiterwachsen und tolle Fruchtkörper bilden kann.[](https://www.pilzfarm.be/)[](https://www.pilzfarm.be/)
